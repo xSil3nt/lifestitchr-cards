@@ -14,7 +14,7 @@
     "keywords": [
       "Regenerator"
     ],
-    "abilityText": "Regenerator:\nWhen my corpse is harvested, [\u25cf1], and return me to a grave and I can't be harvested again until round end.\n\nAt round start, if I'm in a support lane, add one organ of any type.",
+    "abilityText": "Regenerator:\nWhen my corpse is harvested, [<blood>1], and return me to a grave and I can't be harvested again until round end.\n\nAt round start, if I'm in a support lane, add one organ of any type.",
     "attack": 0,
     "health": 1,
     "resources": [
@@ -35,7 +35,7 @@
       "Abomination"
     ],
     "keywords": [],
-    "abilityText": "[\u25cf2 while I'm in your hand]: Plot this creation. At round start, [bury me], reveal cards from the top of your deck until you reveal a creation, bury that creation, then put the rest on the bottom.",
+    "abilityText": "[<blood>2 while I'm in your hand]: Plot this creation. At round start, [bury me], reveal cards from the top of your deck until you reveal a creation, bury that creation, then put the rest on the bottom.",
     "attack": 6,
     "health": 1,
     "resources": [
@@ -349,7 +349,7 @@
     "type": "Quick Scheme",
     "subtypes": [],
     "keywords": [],
-    "abilityText": "Look at the top five cards of your deck, draw three of them, then put the rest on the bottom. Bury this scheme in a grave. While this scheme is in a grave, it can be harvested for [\u25cf\u25cf].",
+    "abilityText": "Look at the top five cards of your deck, draw three of them, then put the rest on the bottom. Bury this scheme in a grave. While this scheme is in a grave, it can be harvested for [<brain><brain>].",
     "attack": null,
     "health": null,
     "resources": [
@@ -370,7 +370,7 @@
       "Stranger"
     ],
     "keywords": [],
-    "abilityText": "When you play a scheme, [it costs \u25cf less to play], and grant me a debt counter. While you're in debt, your creations deal no damage when attacking normally. When I die, I attack you equal to your debt.\n[\u26651]: Remove a debt counter. This is a quick ability.",
+    "abilityText": "When you play a scheme, [it costs <brain> less to play], and grant me a debt counter. While you're in debt, your creations deal no damage when attacking normally. When I die, I attack you equal to your debt.\n[<blood>1]: Remove a debt counter. This is a quick ability.",
     "attack": 0,
     "health": 1,
     "resources": [
@@ -389,7 +389,7 @@
     "type": "Meticulous Scheme",
     "subtypes": [],
     "keywords": [],
-    "abilityText": "[Pay any amount of \u25cf]:\nTurn a chosen creation to dust unless its owner pays \u25cf1 for each organ paid for this scheme's costs. (Including the initial cost of \u25c61\u25cf1.)",
+    "abilityText": "[Pay any amount of <blood>]:\nTurn a chosen creation to dust unless its owner pays <blood>1 for each organ paid for this scheme's costs. (Including the initial cost of <brain>1<blood>1.)",
     "attack": null,
     "health": null,
     "resources": [
@@ -435,7 +435,7 @@
       "Stranger"
     ],
     "keywords": [],
-    "abilityText": "At the start of combat, [bury a scheme from your hand], and draw a card. Your schemes in graves can be harvested for [\u25cf1][\u25cf1].",
+    "abilityText": "At the start of combat, [bury a scheme from your hand], and draw a card. Your schemes in graves can be harvested for [<brain>1][<brain>1].",
     "attack": 2,
     "health": 2,
     "resources": [
@@ -475,7 +475,7 @@
       "Abomination"
     ],
     "keywords": [],
-    "abilityText": "When I enter and at round start, [\u00a9 1], and I attack a chosen creation for 1 damage.\nWhen I attack a creation, grant me all traits of that creation.",
+    "abilityText": "When I enter and at round start, [<eye> 1], and I attack a chosen creation for 1 damage.\nWhen I attack a creation, grant me all traits of that creation.",
     "attack": 2,
     "health": 3,
     "resources": [
@@ -647,7 +647,7 @@
       "Distortion"
     ],
     "keywords": [],
-    "abilityText": "As I enter, turn all of your other creations and corpses to dust, and grant me all original traits of everything turned to dust this way. Grant me +1 might and +1 vigor for each card turned to dust this way.\n[\u262f2 while I'm in your hand]:\nPut me onto the field.\nThis is a quick ability.",
+    "abilityText": "As I enter, turn all of your other creations and corpses to dust, and grant me all original traits of everything turned to dust this way. Grant me +1 might and +1 vigor for each card turned to dust this way.\n[<eye>2 while I'm in your hand]:\nPut me onto the field.\nThis is a quick ability.",
     "attack": 1,
     "health": 1,
     "resources": [
@@ -710,7 +710,7 @@
       "Humanoid"
     ],
     "keywords": [],
-    "abilityText": "When I enter, [bury a creation from your hand], and draw a card.\n[\u25cf1 while I'm in a frontline lane]: I attack a chosen creation for 4 damage, then bury me.",
+    "abilityText": "When I enter, [bury a creation from your hand], and draw a card.\n[<blood>1 while I'm in a frontline lane]: I attack a chosen creation for 4 damage, then bury me.",
     "attack": 2,
     "health": 2,
     "resources": [
@@ -871,7 +871,7 @@
     "keywords": [
       "Sui Generis"
     ],
-    "abilityText": "Sui Generis:\nWhen I enter, reveal your deck, turn all of your cards with the same name as me to dust, then shuffle.\n\nWhen I enter, start an additional combat phase. (Then the main phase resumes.)\nWhen I attack, give me Lord until round end. (Multiple instances of Lord stack.)\n[\u25cf1]: I attack a chosen creation for 1 damage. This is a quick ability. Activate only once each round.",
+    "abilityText": "Sui Generis:\nWhen I enter, reveal your deck, turn all of your cards with the same name as me to dust, then shuffle.\n\nWhen I enter, start an additional combat phase. (Then the main phase resumes.)\nWhen I attack, give me Lord until round end. (Multiple instances of Lord stack.)\n[<blood>1]: I attack a chosen creation for 1 damage. This is a quick ability. Activate only once each round.",
     "attack": 3,
     "health": 3,
     "resources": [
@@ -891,7 +891,7 @@
     "type": "Quick Scheme",
     "subtypes": [],
     "keywords": [],
-    "abilityText": "You may play a card from your hand as though it had Blink. It costs [\u25cf][\u25cf] less to play this way.\n(Creations and schemes with Blink can be played as though they were quick schemes.)",
+    "abilityText": "You may play a card from your hand as though it had Blink. It costs [<brain>][<soul>] less to play this way.\n(Creations and schemes with Blink can be played as though they were quick schemes.)",
     "attack": null,
     "health": null,
     "resources": [
@@ -1089,7 +1089,7 @@
       "Ephemeral",
       "Sui Generis"
     ],
-    "abilityText": "Ephemeral; Sui Generis:\nWhen I enter, reveal your deck, turn all of your cards with the same name as me to dust, then shuffle.\n\nYour dusted creations that share a name with me have \"[\u25cf1]: Put me from dust into an open lane.\"\nWhen I enter, [turn three of your creations with the same name to dust], and create a Kerberros token with 3 might, 3 vigor, and \"When I enter, I deal 3 damage to the opposing lane.\"",
+    "abilityText": "Ephemeral; Sui Generis:\nWhen I enter, reveal your deck, turn all of your cards with the same name as me to dust, then shuffle.\n\nYour dusted creations that share a name with me have \"[<blood>1]: Put me from dust into an open lane.\"\nWhen I enter, [turn three of your creations with the same name to dust], and create a Kerberros token with 3 might, 3 vigor, and \"When I enter, I deal 3 damage to the opposing lane.\"",
     "attack": 1,
     "health": 1,
     "resources": [
@@ -1251,7 +1251,7 @@
       "Blood Donor"
     ],
     "keywords": [],
-    "abilityText": "(I can be harvested normally to add \u2665\u2665.)\n[Turn me to dust from your grave]: Bury the top card of your corpse deck.\n(This isn't a quick ability.)",
+    "abilityText": "(I can be harvested normally to add <blood><blood>.)\n[Turn me to dust from your grave]: Bury the top card of your corpse deck.\n(This isn't a quick ability.)",
     "attack": null,
     "health": null,
     "resources": [
@@ -1309,7 +1309,7 @@
       "Brain & Soul Donor"
     ],
     "keywords": [],
-    "abilityText": "(When you harvest me, add \ud83e\udde0 \ud83d\udfe2.)",
+    "abilityText": "(When you harvest me, add <brain> <soul>.)",
     "attack": null,
     "health": null,
     "resources": [
@@ -1330,7 +1330,7 @@
       "Blood Donor"
     ],
     "keywords": [],
-    "abilityText": "(I can be harvested normally to add \u25cf\u25cf.)\n[Turn a card from your hand to dust, and turn me to dust from your grave]: Add \u25cf\u25cf\u25cf\u25cf. This is a quick ability.",
+    "abilityText": "(I can be harvested normally to add <blood><blood>.)\n[Turn a card from your hand to dust, and turn me to dust from your grave]: Add <blood><blood><blood><blood>. This is a quick ability.",
     "attack": null,
     "health": null,
     "resources": [
@@ -1348,7 +1348,7 @@
     "type": "Peculiar Corpse",
     "subtypes": [],
     "keywords": [],
-    "abilityText": "When you harvest me, add your choice of [\u26661], [\u25cf\u25cf\u25cf], [\u2663\u2663], or [\u2666\u2666].\nHarvesting me for anything other than [\u2666\u2666] costs 1 life.",
+    "abilityText": "When you harvest me, add your choice of <blood> <blood>, <brain> <brain> <soul> <soul> or <brain> <soul>.\nHarvesting me for anything other than <blood><blood> costs 1 life.",
     "attack": null,
     "health": null,
     "resources": [
@@ -1367,7 +1367,7 @@
     "type": "Peculiar Corpse",
     "subtypes": [],
     "keywords": [],
-    "abilityText": "When you harvest me, add your choice of [\u25cf], [\u2665\u2665], [\u25cf\u25cf], or [\u2665\u25cf].\nHarvesting me for anything other than [\u25cf\u25cf] costs 1 life.",
+    "abilityText": "When you harvest me, add your choice of <blood> <blood>, <heart> <heart> <soul> <soul> or <heart> <soul>.\nHarvesting me for anything other than <blood><blood> costs 1 life.",
     "attack": null,
     "health": null,
     "resources": [
@@ -1384,7 +1384,7 @@
     "type": "Peculiar Corpse",
     "subtypes": [],
     "keywords": [],
-    "abilityText": "When you harvest me, add your choice of \u2666\u2666, \u25cf\u25cf, \u263b\u263b, or \u2666\u25cf.\nHarvesting me for anything other than \u2666\u2666 costs 1 life.",
+    "abilityText": "When you harvest me, add your choice of <blood> <blood>, <brain> <brain> <eye> <eye> or <brain> <eye>.\nHarvesting me for anything other than <blood><blood> costs 1 life.",
     "attack": null,
     "health": null,
     "resources": [
@@ -1403,7 +1403,7 @@
     "type": "Peculiar Corpse",
     "subtypes": [],
     "keywords": [],
-    "abilityText": "When you harvest me, add your choice of \u2666\u2666, \u25cf\u25cf\u25cf, \u25cf\u2666, or \u25cf\u2666.\nHarvesting me for anything other than \u2666\u2666 costs 1 life.",
+    "abilityText": "When you harvest me, add your choice of <blood> <blood>, <soul> <soul> <eye> <eye> or <soul> <eye>.\nHarvesting me for anything other than <blood><blood> costs 1 life.",
     "attack": null,
     "health": null,
     "resources": [
@@ -1422,7 +1422,7 @@
     "type": "Peculiar Corpse",
     "subtypes": [],
     "keywords": [],
-    "abilityText": "When you harvest me, add your choice of [Blood], [Blood, Blood], [Brain, Brain], or [Blood, Brain].\nHarvesting me for anything other than [Blood, Blood] costs 1 life.",
+    "abilityText": "When you harvest me, add your choice of <blood> <blood>, <heart> <heart> <brain> <brain> or <heart> <brain>.\nHarvesting me for anything other than <blood><blood> costs 1 life.",
     "attack": null,
     "health": null,
     "resources": [
@@ -1439,7 +1439,7 @@
     "type": "Peculiar Corpse",
     "subtypes": [],
     "keywords": [],
-    "abilityText": "When you harvest me, add your choice of [\u2665], [\u25cf\u25cf], [\u2665\u25cf], or [\u25cf\u2665].\nHarvesting me for anything other than [\u2665\u2665] costs 1 life.",
+    "abilityText": "When you harvest me, add your choice of <blood> <blood>, <eye> <eye> <heart> <heart> or <eye> <heart>.\nHarvesting me for anything other than <blood><blood> costs 1 life.",
     "attack": null,
     "health": null,
     "resources": [
@@ -1479,7 +1479,7 @@
       "Brain & Eye Donor"
     ],
     "keywords": [],
-    "abilityText": "(When you harvest me, add [\u25cf][\ud83d\udc41].)",
+    "abilityText": "(When you harvest me, add [<brain>][<eye>].)",
     "attack": null,
     "health": null,
     "resources": [
@@ -1516,7 +1516,7 @@
       "Heart & Soul Donor"
     ],
     "keywords": [],
-    "abilityText": "(When you harvest me, add \ud83e\ude78\ud83d\udfe2.)",
+    "abilityText": "(When you harvest me, add <blood><soul>.)",
     "attack": null,
     "health": null,
     "resources": [
@@ -1537,7 +1537,7 @@
       "Heart & Brain Donor"
     ],
     "keywords": [],
-    "abilityText": "(When you harvest me, add \ud83e\ude78\ud83e\udde0.)",
+    "abilityText": "(When you harvest me, add <blood><brain>.)",
     "attack": null,
     "health": null,
     "resources": [
