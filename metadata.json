@@ -1,8 +1,8 @@
 [
   {
     "name": "Altar Familiar",
-    "artist": "YLOW",
-    "id": "CS01-001/300",
+    "artist": "YL0W",
+    "id": "CS01-001/300 EN",
     "cost": {
       "Blood": 2
     },
@@ -14,8 +14,8 @@
     "keywords": [
       "Regenerator"
     ],
-    "abilityText": "Regenerator:\nWhen my corpse is harvested, [\u22a1] it and return me to a grave card I can't be harvested again until round end.\n\nAt round start, if I'm in a support lane, add one organ of any type.",
-    "attack": 1,
+    "abilityText": "Regenerator:\nWhen my corpse is harvested, [\u25cf1], and return me to a grave and I can't be harvested again until round end.\n\nAt round start, if I'm in a support lane, add one organ of any type.",
+    "attack": 0,
     "health": 1,
     "resources": [
       "Blood"
@@ -24,11 +24,10 @@
   },
   {
     "name": "Box of Limbs",
-    "artist": "@tiuials",
+    "artist": "uwais",
     "id": "CS01-002/300 EN",
     "cost": {
-      "Blood": 2,
-      "Life": 3
+      "Blood": 5
     },
     "type": "Creation",
     "subtypes": [
@@ -36,7 +35,7 @@
       "Abomination"
     ],
     "keywords": [],
-    "abilityText": "[\u2666]? while I'm in your hand: Plot this creation. At round start, [bury me], reveal a card from the top of your deck until you reveal a creation, bury that creation, then put the rest on the bottom.",
+    "abilityText": "[\u25cf2 while I'm in your hand]: Plot this creation. At round start, [bury me], reveal cards from the top of your deck until you reveal a creation, bury that creation, then put the rest on the bottom.",
     "attack": 6,
     "health": 1,
     "resources": [
@@ -46,8 +45,8 @@
   },
   {
     "name": "Cadaver Study",
-    "artist": null,
-    "id": "CS01-001/300",
+    "artist": "YL0W",
+    "id": "CS01-001/300 EN",
     "cost": {
       "Blood": 2
     },
@@ -66,10 +65,10 @@
   },
   {
     "name": "Death's Invitation",
-    "artist": null,
-    "id": "CS01-002/300",
+    "artist": "eg",
+    "id": "CS01-002/300 EN",
     "cost": {
-      "Blood": 2
+      "Soul": 2
     },
     "type": "Quick Scheme",
     "subtypes": [],
@@ -84,11 +83,10 @@
   },
   {
     "name": "Follower of the Spiral",
-    "artist": "@FluffyDragonEve",
-    "id": "CS01-602/300 EN",
+    "artist": "FluffyDragonEve",
+    "id": "CS01-002/300 EN",
     "cost": {
-      "Blood": 1,
-      "Life": 3
+      "Blood": 3
     },
     "type": "Creation",
     "subtypes": [
@@ -106,11 +104,10 @@
   },
   {
     "name": "Gloomtongue",
-    "artist": "@noc_hatt",
-    "id": "CS01-071/300",
+    "artist": "noc_hatt",
+    "id": "CS01-071/300 EN",
     "cost": {
-      "Blood": 1,
-      "Life": 1
+      "Blood": 1
     },
     "type": "Creation",
     "subtypes": [
@@ -127,15 +124,13 @@
   },
   {
     "name": "Graft",
-    "artist": null,
-    "id": "CS01-001/300",
+    "artist": "YL0W",
+    "id": "CS01-001/300 EN",
     "cost": {
-      "Life": 1
+      "Soul": 1
     },
-    "type": "Scheme",
-    "subtypes": [
-      "Meticulous"
-    ],
+    "type": "Meticulous Scheme",
+    "subtypes": [],
     "keywords": [],
     "abilityText": "Grant all original abilities and traits of one of your dusted creations without Sui Generis to a chosen creation.",
     "attack": null,
@@ -150,12 +145,12 @@
     "artist": "Shazin",
     "id": "CS01-001/300 EN",
     "cost": {
-      "Blood": 1
+      "Soul": 1
     },
     "type": "Quick Scheme",
     "subtypes": [],
     "keywords": [],
-    "abilityText": "[Bury a creation from your hand]:\nA chosen creation can't attack\nuntil round end.",
+    "abilityText": "[Bury a creation from your hand]: A chosen creation can't attack until round end.",
     "attack": null,
     "health": null,
     "resources": [
@@ -165,8 +160,8 @@
   },
   {
     "name": "Graveswap",
-    "artist": null,
-    "id": "CS01-001/300",
+    "artist": "eg",
+    "id": "CS01-001/300 EN",
     "cost": {
       "Blood": 1
     },
@@ -183,10 +178,10 @@
   },
   {
     "name": "Jumpstart",
-    "artist": null,
+    "artist": "YL0W",
     "id": "CS01-001/300 EN",
     "cost": {
-      "Blood": 1
+      "Soul": 1
     },
     "type": "Meticulous Scheme",
     "subtypes": [],
@@ -201,8 +196,8 @@
   },
   {
     "name": "Little Newt",
-    "artist": null,
-    "id": "CS01-001/300",
+    "artist": "YL0W+eg+uwaist+zeek",
+    "id": "CS01-001/300 EN",
     "cost": {
       "Blood": 1
     },
@@ -223,9 +218,9 @@
   {
     "name": "Resupply",
     "artist": null,
-    "id": "CS01-041/300",
+    "id": "CS01-041/300 EN",
     "cost": {
-      "Life": 1
+      "Blood": 1
     },
     "type": "Scheme",
     "subtypes": [
@@ -242,11 +237,10 @@
   },
   {
     "name": "Scant Messenger",
-    "artist": null,
-    "id": "CS01-191/300",
+    "artist": "YL0W",
+    "id": "CS01-191/300 EN",
     "cost": {
-      "Blood": 1,
-      "Life": 1
+      "Blood": 1
     },
     "type": "Creation",
     "subtypes": [
@@ -264,13 +258,15 @@
   },
   {
     "name": "Brain Blast",
-    "artist": "@whenlifegivesticks",
-    "id": "CS01-101/300",
+    "artist": "whenlifegivesticks",
+    "id": "CS01-101/300 EN",
     "cost": {
       "Brain": 1
     },
-    "type": "Quick Scheme",
-    "subtypes": [],
+    "type": "Scheme",
+    "subtypes": [
+      "Quick"
+    ],
     "keywords": [],
     "abilityText": "You deal 3 damage to a chosen creation.",
     "attack": null,
@@ -283,14 +279,14 @@
   {
     "name": "Cruel Ruin",
     "artist": null,
-    "id": "CS01-163/300",
+    "id": "CS01-103/300 EN",
     "cost": {
-      "Eye": 3
+      "Brain": 3
     },
     "type": "Meticulous Scheme",
     "subtypes": [],
     "keywords": [],
-    "abilityText": "You deal 3 damage to each of up to 3 chosen creations. The opposing Lifestitcher deals 3 damage to each of up to 3 creations of their choice.",
+    "abilityText": "You deal 3 damage to each of up to 3 chosen creations. The opposing lifestitcher deals 3 damage to each of up to 3 creations of their choice.",
     "attack": null,
     "health": null,
     "resources": [
@@ -300,11 +296,11 @@
   },
   {
     "name": "Defense Engineer",
-    "artist": null,
-    "id": "CS01-001/300",
+    "artist": "eg",
+    "id": "CS01-001/300 EN",
     "cost": {
       "Brain": 1,
-      "Life": 1
+      "Blood": 1
     },
     "type": "Creation",
     "subtypes": [
@@ -314,7 +310,7 @@
     "keywords": [
       "Guardian"
     ],
-    "abilityText": "Guardian: I can't die until round end. When I die, you don't take overkill damage.",
+    "abilityText": "Guardian:\nI can't die until round end. When I die, you don't take overkill damage.",
     "attack": 1,
     "health": 2,
     "resources": [
@@ -324,7 +320,7 @@
   },
   {
     "name": "Defense Systems",
-    "artist": null,
+    "artist": "eg",
     "id": "CS01-072/300 EN",
     "cost": {
       "Brain": 2
@@ -333,10 +329,8 @@
     "subtypes": [
       "Meticulous Plot"
     ],
-    "keywords": [
-      "Guardian"
-    ],
-    "abilityText": "Plot this scheme. (In a grave or lane.)\nAt the start of combat, if this scheme is plotted, bury it to dash, then create a Barrier token with 0 might, 1 vigor, and Guardian on each open frontline lane.",
+    "keywords": [],
+    "abilityText": "Plot this scheme. (In a grave or lane.)\nAt the start of combat, if this scheme is plotted, [turn it to dust], and create a Barrier token with 0 might, 1 vigor, and Guardian on each open frontline lane.",
     "attack": null,
     "health": null,
     "resources": [
@@ -346,18 +340,16 @@
   },
   {
     "name": "Draw Upon the Well",
-    "artist": "@zeekubeeku",
-    "id": "CS01-002/300",
+    "artist": "zeekubeeku",
+    "id": "CS01-002/300 EN",
     "cost": {
       "Brain": 2,
-      "Eye": 2
+      "Blood": 2
     },
-    "type": "Scheme",
-    "subtypes": [
-      "Quick"
-    ],
+    "type": "Quick Scheme",
+    "subtypes": [],
     "keywords": [],
-    "abilityText": "Look at the top five cards of your deck, draw three of them, then put the rest on the bottom. Bury this scheme in a grave.\nWhile this scheme is in a grave, it can be harvested for [Brain][Eye].",
+    "abilityText": "Look at the top five cards of your deck, draw three of them, then put the rest on the bottom. Bury this scheme in a grave. While this scheme is in a grave, it can be harvested for [\u25cf\u25cf].",
     "attack": null,
     "health": null,
     "resources": [
@@ -367,7 +359,7 @@
   },
   {
     "name": "Neuron Dealer",
-    "artist": null,
+    "artist": "eg",
     "id": "CS01-223/300 EN",
     "cost": {
       "Brain": 2
@@ -378,8 +370,8 @@
       "Stranger"
     ],
     "keywords": [],
-    "abilityText": "When you play a scheme, [it costs 1 less to play], and grant me a debt counter.\nWhile you're in debt, your creations deal no damage when attacking normally.\nWhen I [a] attack you gain a debt.\n[1][1]: Remove a debt counter.\nThis is a quick ability.",
-    "attack": 1,
+    "abilityText": "When you play a scheme, [it costs \u25cf less to play], and grant me a debt counter. While you're in debt, your creations deal no damage when attacking normally. When I die, I attack you equal to your debt.\n[\u26651]: Remove a debt counter. This is a quick ability.",
+    "attack": 0,
     "health": 1,
     "resources": [
       "Brain"
@@ -388,18 +380,16 @@
   },
   {
     "name": "Sigma Falls",
-    "artist": "@whenlifegivesticks",
+    "artist": "whenlifegivesticks",
     "id": "CS01-221/300 EN",
     "cost": {
       "Brain": 1,
-      "Life": 1
+      "Blood": 1
     },
-    "type": "Scheme",
-    "subtypes": [
-      "Meticulous"
-    ],
+    "type": "Meticulous Scheme",
+    "subtypes": [],
     "keywords": [],
-    "abilityText": "[Pay any amount of \u2661]: Turn a chosen creation to dust unless its owner pays \u2661\u2661 for each \u2661 paid for this scheme's costs. (Including the initial cost of \u2661\u2661\u2661\u2661\u2661)",
+    "abilityText": "[Pay any amount of \u25cf]:\nTurn a chosen creation to dust unless its owner pays \u25cf1 for each organ paid for this scheme's costs. (Including the initial cost of \u25c61\u25cf1.)",
     "attack": null,
     "health": null,
     "resources": [
@@ -413,7 +403,7 @@
     "id": "CS01-002/300 EN",
     "cost": {
       "Brain": 2,
-      "Eye": 3
+      "Blood": 3
     },
     "type": "Creation",
     "subtypes": [
@@ -423,7 +413,7 @@
     "keywords": [
       "Neurotic Strength"
     ],
-    "abilityText": "Neurotic Strength: I get +1 might for every 4 of your nontoken dusted cards.\n[Turn a card from your hand to dust]: Stun my might and vigor until round end. This is a quick ability. Use only once each round.",
+    "abilityText": "Neurotic Strength:\nI get +1 might for every 4 of your nontoken dusted cards.\n\n[Turn a card from your hand to dust]: Swap my might and vigor until round end. This is a quick ability. Use only once each round.",
     "attack": 1,
     "health": 2,
     "resources": [
@@ -433,11 +423,11 @@
   },
   {
     "name": "Warden of Lost Memories",
-    "artist": "@FluffyDragonEve",
+    "artist": "FluffyDragonEve",
     "id": "CS01-002/300 EN",
     "cost": {
       "Brain": 2,
-      "Life": 1
+      "Blood": 1
     },
     "type": "Creation",
     "subtypes": [
@@ -445,7 +435,7 @@
       "Stranger"
     ],
     "keywords": [],
-    "abilityText": "At the start of combat, [bury a scheme from your hand], and draw a card.\nYour schemes in graves can be harvested for \u25c6 \u25c6.",
+    "abilityText": "At the start of combat, [bury a scheme from your hand], and draw a card. Your schemes in graves can be harvested for [\u25cf1][\u25cf1].",
     "attack": 2,
     "health": 2,
     "resources": [
@@ -455,10 +445,10 @@
   },
   {
     "name": "Eminence",
-    "artist": null,
-    "id": "CS01-001/300",
+    "artist": "eg",
+    "id": "CS01-001/300 EN",
     "cost": {
-      "Life": 1
+      "Eye": 1
     },
     "type": "Quick Scheme",
     "subtypes": [],
@@ -476,8 +466,8 @@
     "artist": "placeholder's placeholder",
     "id": "CS01-163/300 EN",
     "cost": {
-      "Life": 1,
-      "Eye": 2
+      "Eye": 1,
+      "Blood": 2
     },
     "type": "Creation",
     "subtypes": [
@@ -485,7 +475,7 @@
       "Abomination"
     ],
     "keywords": [],
-    "abilityText": "When I enter and at round start, [\u2299 1], and I attack a chosen creation for 1 damage.\nWhen I attack a creation, grant me all traits of that creation.",
+    "abilityText": "When I enter and at round start, [\u00a9 1], and I attack a chosen creation for 1 damage.\nWhen I attack a creation, grant me all traits of that creation.",
     "attack": 2,
     "health": 3,
     "resources": [
@@ -495,11 +485,11 @@
   },
   {
     "name": "Eyeguy",
-    "artist": "@zeekubeeku",
+    "artist": "zeekubeeku",
     "id": "CS01-001/300 EN",
     "cost": {
-      "Life": 2,
-      "Eye": 1
+      "Soul": 1,
+      "Blood": 1
     },
     "type": "Creation",
     "subtypes": [
@@ -509,7 +499,7 @@
     "keywords": [
       "Double Vision"
     ],
-    "abilityText": "Double Vision:\nMy normal attacks instead attacks each opposing lane to the left and right of me.",
+    "abilityText": "Double Vision:\nMy normal attack instead attacks each opposing lane to the left and right of me.",
     "attack": 1,
     "health": 1,
     "resources": [
@@ -524,12 +514,10 @@
     "cost": {
       "Eye": 1
     },
-    "type": "Scheme",
-    "subtypes": [
-      "Quick"
-    ],
+    "type": "Quick Scheme",
+    "subtypes": [],
     "keywords": [],
-    "abilityText": "One of your creations deals 2 damage to a chosen creation for each fruit your creation has, plus an additional 1 damage for each trait among cards in your graves.",
+    "abilityText": "One of your creations deals 2 damage to a chosen creation for each trait your creation has, plus an additional 1 damage for each trait among cards in your graves.",
     "attack": null,
     "health": null,
     "resources": [
@@ -539,16 +527,14 @@
   },
   {
     "name": "Grasp Possibility",
-    "artist": null,
-    "id": "CS01-221/300",
+    "artist": "greed",
+    "id": "CS01-221/300 EN",
     "cost": {
-      "Life": 1,
-      "Brain": 1
+      "Soul": 1,
+      "Blood": 1
     },
-    "type": "Scheme",
-    "subtypes": [
-      "Quick"
-    ],
+    "type": "Quick Scheme",
+    "subtypes": [],
     "keywords": [],
     "abilityText": "[Bury a creation from your hand, or turn a card from your hand to dust]: Draw two cards.",
     "attack": null,
@@ -561,10 +547,10 @@
   {
     "name": "Nightgaze Colony",
     "artist": "placeholder's placeholder",
-    "id": "CS01-161/300",
+    "id": "CS01-161/300 EN",
     "cost": {
-      "Blood": 2,
-      "Life": 2
+      "Brain": 2,
+      "Blood": 2
     },
     "type": "Creation",
     "subtypes": [
@@ -575,7 +561,7 @@
       "Soaring",
       "Double Vision"
     ],
-    "abilityText": "Soaring:\nWhen we attack normally, [halve our might rounded down and], and use deal that much damage directly to the defending lifestitcher.\n\nDouble Vision:\nOur normal attacks instead attacks each opposing lane to the left and right of us.",
+    "abilityText": "Soaring:\nWhen we attack normally, [halve our might rounded down until round end], and we deal that much damage directly to the defending lifestitcher.\n\nDouble Vision:\nOur normal attack instead attacks each opposing lane to the left and right of us.",
     "attack": 2,
     "health": 3,
     "resources": [
@@ -585,11 +571,11 @@
   },
   {
     "name": "Peer Through the Veil",
-    "artist": null,
+    "artist": "YL0W",
     "id": "CS01-221/300 EN",
     "cost": {
-      "Brain": 1,
-      "Life": 1
+      "Soul": 1,
+      "Blood": 1
     },
     "type": "Quick Scheme",
     "subtypes": [],
@@ -604,10 +590,10 @@
   },
   {
     "name": "Quantum Jester",
-    "artist": null,
+    "artist": "placeholder's placeholder",
     "id": "CS01-131/300 EN",
     "cost": {
-      "Life": 2
+      "Soul": 2
     },
     "type": "Creation",
     "subtypes": [
@@ -628,11 +614,11 @@
   },
   {
     "name": "The Myriad",
-    "artist": null,
-    "id": "CS01-002/300",
+    "artist": "greed",
+    "id": "CS01-002/300 EN",
     "cost": {
-      "Life": 2,
-      "Eye": 1
+      "Soul": 2,
+      "Blood": 1
     },
     "type": "Creation",
     "subtypes": [
@@ -641,7 +627,7 @@
     "keywords": [
       "Aberrant Strength"
     ],
-    "abilityText": "Aberrant Strength:\nI get +1 might for every 2 cards on all fields and in all graves.",
+    "abilityText": "Aberrant Strength: I get +1 might for every 2 cards on all fields and in all graves.",
     "attack": 1,
     "health": 4,
     "resources": [
@@ -654,14 +640,14 @@
     "artist": "greed",
     "id": "CS01-223/300 EN",
     "cost": {
-      "Soul": 1
+      "Eye": 1
     },
     "type": "Creation",
     "subtypes": [
       "Distortion"
     ],
     "keywords": [],
-    "abilityText": "As I enter, turn all of your other creations and corpses to dust, and grant me all original traits of everything turned to dust this way. Grant me +1 might and +1 vigor for each card turned to dust this way.\n[\u25c0] until I'm in your hand:\nPut me onto the field.\nThis is a quick ability.",
+    "abilityText": "As I enter, turn all of your other creations and corpses to dust, and grant me all original traits of everything turned to dust this way. Grant me +1 might and +1 vigor for each card turned to dust this way.\n[\u262f2 while I'm in your hand]:\nPut me onto the field.\nThis is a quick ability.",
     "attack": 1,
     "health": 1,
     "resources": [
@@ -672,10 +658,10 @@
   {
     "name": "Vigil Horizon",
     "artist": "Sachiel",
-    "id": "CS01-132/300",
+    "id": "CS01-132/300 EN",
     "cost": {
-      "Life": 2,
-      "Eye": 1
+      "Brain": 2,
+      "Blood": 1
     },
     "type": "Creation",
     "subtypes": [
@@ -686,7 +672,7 @@
     ],
     "abilityText": "Boundless:\nAt the start of combat, create a token in each lane to my left and right that have my exact stats and name. Those tokens have Ephemeral.",
     "attack": 1,
-    "health": 8,
+    "health": 3,
     "resources": [
       "Eye"
     ],
@@ -694,18 +680,16 @@
   },
   {
     "name": "Ambush",
-    "artist": null,
-    "id": "CS01-162/300",
+    "artist": "eg",
+    "id": "CS01-162/300 EN",
     "cost": {
-      "Blood": 1,
-      "Eye": 2
+      "Brain": 1,
+      "Blood": 2
     },
-    "type": "Scheme",
-    "subtypes": [
-      "Meticulous"
-    ],
+    "type": "Meticulous Scheme",
+    "subtypes": [],
     "keywords": [],
-    "abilityText": "Put a creation card from your hand onto the field, then all of your other creatures attack a chosen opposing creation. Bury the creation you put onto the field afterwards.",
+    "abilityText": "Put a creation card from your hand onto the field, then all of your creations attack a chosen opposing creation. Bury the creation you put onto the field afterwards.",
     "attack": null,
     "health": null,
     "resources": [
@@ -715,18 +699,18 @@
   },
   {
     "name": "Gravesworn Brawler",
-    "artist": "eg >",
+    "artist": "eg",
     "id": "CS01-162/300 EN",
     "cost": {
-      "Blood": 2,
-      "Eye": 2
+      "Heart": 2,
+      "Blood": 2
     },
     "type": "Creation",
     "subtypes": [
       "Humanoid"
     ],
     "keywords": [],
-    "abilityText": "When I enter, [bury a creation from your hand], and draw a card.\n[\u25cf] while I'm in a road lane: I attack a chosen creation for 4 damage, then bury me.",
+    "abilityText": "When I enter, [bury a creation from your hand], and draw a card.\n[\u25cf1 while I'm in a frontline lane]: I attack a chosen creation for 4 damage, then bury me.",
     "attack": 2,
     "health": 2,
     "resources": [
@@ -739,8 +723,8 @@
     "artist": "Sachiel",
     "id": "CS01-001/300 EN",
     "cost": {
-      "Blood": 1,
-      "Life": 1
+      "Heart": 1,
+      "Blood": 1
     },
     "type": "Creation",
     "subtypes": [
@@ -759,8 +743,8 @@
   },
   {
     "name": "Rabid Hunt",
-    "artist": null,
-    "id": "CS01-161/300",
+    "artist": "YL0W",
+    "id": "CS01-161/300 EN",
     "cost": {
       "Blood": 1
     },
@@ -777,11 +761,11 @@
   },
   {
     "name": "Sky Tyrant",
-    "artist": null,
+    "artist": "YL0W",
     "id": "CS01-002/300 EN",
     "cost": {
-      "Blood": 2,
-      "Eye": 1
+      "Heart": 2,
+      "Blood": 1
     },
     "type": "Creation",
     "subtypes": [
@@ -792,7 +776,7 @@
       "Soaring",
       "Cadaverous Strength"
     ],
-    "abilityText": "Soaring: When I attack normally, [halve my might rounded down] and I deal that much damage directly to the defending lifestitcher.\n\nCadaverous Strength: I get +1 might for every 2 might of the corpse in the grave behind me.",
+    "abilityText": "Soaring:\nWhen I attack normally, [halve my might rounded down until round end], and I deal that much damage directly to the defending lifestitcher.\n\nCadaverous Strength:\nI get +1 might for every 2 might of the corpse in the grave behind me.",
     "attack": 2,
     "health": 3,
     "resources": [
@@ -802,11 +786,11 @@
   },
   {
     "name": "Ursa Major",
-    "artist": null,
+    "artist": "eg",
     "id": "CS01-001/300 EN",
     "cost": {
-      "Blood": 2,
-      "Life": 4
+      "Heart": 2,
+      "Blood": 4
     },
     "type": "Creation",
     "subtypes": [
@@ -823,11 +807,11 @@
   },
   {
     "name": "Venerable Alpha",
-    "artist": "@whenlifegivesticks",
+    "artist": "whenlifegivesticks",
     "id": "CS01-001/300 EN",
     "cost": {
-      "Blood": 2,
-      "Eye": 3
+      "Heart": 2,
+      "Blood": 3
     },
     "type": "Creation",
     "subtypes": [
@@ -850,8 +834,8 @@
     "artist": "@whenlifegivesticks",
     "id": "CS01-071/300 EN",
     "cost": {
-      "Blood": 1,
-      "Life": 3
+      "Heart": 1,
+      "Blood": 3
     },
     "type": "Creation",
     "subtypes": [
@@ -871,22 +855,23 @@
   },
   {
     "name": "Abyssal Blade Khtllith",
-    "artist": "uuuais + Sachiel",
-    "id": "CS01-164/300",
+    "artist": "uwais + Sachiel",
+    "id": "CS01-164/300 EN",
     "cost": {
-      "Blood": 2,
       "Brain": 2,
-      "Eye": 1
+      "Blood": 2,
+      "Heart": 1
     },
-    "type": "Creation",
+    "type": "Creation?",
     "subtypes": [
       "Humanoid",
-      "Aquatic Beast"
+      "Aquatic",
+      "Beast"
     ],
     "keywords": [
-      "Lord"
+      "Sui Generis"
     ],
-    "abilityText": "Evil Generis: When I enter, reveal your deck, toss all of your cards with the same name as one to dust, then shuffle.\n\nWhen I enter, start an additional combat phase. (Treat the main phase resources.)\n\nWhen I attack, give me Lord until round end. (Multiple instances of Lord stack.)\n\n[Life] I attack a chosen creature for 1 damage. This is a quick ability. Activate only once each round.",
+    "abilityText": "Sui Generis:\nWhen I enter, reveal your deck, turn all of your cards with the same name as me to dust, then shuffle.\n\nWhen I enter, start an additional combat phase. (Then the main phase resumes.)\nWhen I attack, give me Lord until round end. (Multiple instances of Lord stack.)\n[\u25cf1]: I attack a chosen creation for 1 damage. This is a quick ability. Activate only once each round.",
     "attack": 3,
     "health": 3,
     "resources": [
@@ -898,19 +883,15 @@
   {
     "name": "Blink",
     "artist": "placeholder's placeholder",
-    "id": "CS01-101/300",
+    "id": "CS01-101/300 EN",
     "cost": {
       "Brain": 1,
-      "Eye": 1
+      "Soul": 1
     },
-    "type": "Scheme",
-    "subtypes": [
-      "Quick"
-    ],
-    "keywords": [
-      "Blink"
-    ],
-    "abilityText": "Blink: You may play a card from your hand as though it had Blink. It costs [1] less to play this ability.\n(Creations and schemes with Blink can be played as though they were quick schemes.)",
+    "type": "Quick Scheme",
+    "subtypes": [],
+    "keywords": [],
+    "abilityText": "You may play a card from your hand as though it had Blink. It costs [\u25cf][\u25cf] less to play this way.\n(Creations and schemes with Blink can be played as though they were quick schemes.)",
     "attack": null,
     "health": null,
     "resources": [
@@ -922,20 +903,22 @@
   {
     "name": "Doctors Daz & Vykk",
     "artist": null,
-    "id": "CS01-104/300",
+    "id": "CS01-104/300 EN",
     "cost": {
       "Brain": 2,
-      "Eye": 2
+      "Soul": 2
     },
-    "type": "Creation",
+    "type": "Creation?",
     "subtypes": [
-      "Humanoid Stranger & Fiend"
+      "Humanoid",
+      "Stranger",
+      "Fiend"
     ],
     "keywords": [
       "Soaring",
       "Sui Generis"
     ],
-    "abilityText": "Soaring; Sui Generis:\nWhen we enter, reveal your deck, turn all of your cards into the same name as us to you, then shuffle.\n\nWhen we enter, you may plot a scheme that costs 3 or less from your hand. It gains \"At the start of combat, play me without paying my cost\".\n\nWhen one of your schemes or creations would deal damage, if it isn't the main phase and you've played two or more cards this phase, it deals an additional 1 damage.",
+    "abilityText": "Soaring; Sui Generis:\nWhen we enter, reveal your deck, turn all of your cards with the same name as us to dust, then shuffle.\n\nWhen we enter, you may plot a scheme that costs 3 or less from your hand. It gains \"At the start of combat, play me without paying my cost.\"\nWhen one of your schemes or creations would deal damage, if it isn't the main phase and you've played two or more cards this phase, it deals an additional 1 damage.",
     "attack": 2,
     "health": 3,
     "resources": [
@@ -947,20 +930,22 @@
   {
     "name": "Ego Vitaleum",
     "artist": null,
-    "id": "CS01-074/300",
+    "id": "CS01-074/300 EN",
     "cost": {
-      "Blood": 2,
+      "Heart": 2,
       "Brain": 2,
-      "Eye": 1
+      "Blood": 1
     },
-    "type": "Creation",
+    "type": "Creation?",
     "subtypes": [
-      "Primeval Reptilian Stranger"
+      "Primeval",
+      "Reptilian",
+      "Stranger"
     ],
     "keywords": [
       "Sui Generis"
     ],
-    "abilityText": "Sui Generis:\nWhen I enter, reveal your deck, turn all of your cards with the same name as one to dust, then shuffle.\nDamage is dealt to me in the form of permanently reducing my vigor.\nWhen you harvest a corpse or play a meticulous scheme, grant me +2 vigor when the next action ends.\n[Deal 2 damage to me]: Draw a card, and you heal 1.",
+    "abilityText": "Sui Generis:\nWhen I enter, reveal your deck, turn all of your cards with the same name as me to dust, then shuffle.\n\nDamage is dealt to me in the form of permanently reducing my vigor.\nWhen you harvest a corpse or play a meticulous scheme, grant me +2 vigor when the current action ends.\n[Deal 2 damage to me]:\nDraw a card, and you heal 1.",
     "attack": 1,
     "health": 4,
     "resources": [
@@ -972,9 +957,9 @@
   {
     "name": "Grim Conductor",
     "artist": "placeholder's placeholder",
-    "id": "CS01-139/300",
+    "id": "CS01-133/300 EN",
     "cost": {
-      "Brain": 1,
+      "Soul": 1,
       "Eye": 1,
       "Blood": 1
     },
@@ -984,7 +969,7 @@
       "Cultist"
     ],
     "keywords": [],
-    "abilityText": "[Turn a creation from your field to dust]: If this is the first time this ability was used this round, add \ud83e\udde0\ud83d\udc8e. Choose a card name, then reveal the top card of your deck. If the revealed card is named, draw it.\nThis is a quick ability.",
+    "abilityText": "[Turn a creation from your field to dust]: If this is the first time this ability was used this round, add [Soul][Eye]. Choose a card name, then reveal the top card of your deck. If the revealed card is the named card, draw it.\nThis is a quick ability.",
     "attack": 2,
     "health": 2,
     "resources": [
@@ -995,13 +980,12 @@
   },
   {
     "name": "Hermit Carrionshell",
-    "artist": null,
-    "id": "CS01-071/300",
+    "artist": "placeholder's placeholder",
+    "id": "CS01-071/300 EN",
     "cost": {
-      "Blood": 1,
       "Heart": 1,
       "Brain": 1,
-      "Eye": 1
+      "Soul": 1
     },
     "type": "Creation",
     "subtypes": [
@@ -1021,11 +1005,11 @@
   {
     "name": "Hyperion Surgemaster",
     "artist": "placeholder's placeholder",
-    "id": "CS01-102/300",
+    "id": "CS01-102/300 EN",
     "cost": {
-      "Blood": 1,
       "Brain": 1,
-      "Eye": 1
+      "Soul": 1,
+      "Blood": 1
     },
     "type": "Creation",
     "subtypes": [
@@ -1046,11 +1030,11 @@
   },
   {
     "name": "Idol of the Red Tide",
-    "artist": null,
+    "artist": "eg",
     "id": "CS01-162/300 EN",
     "cost": {
-      "Blood": 1,
-      "Eye": 1
+      "Soul": 1,
+      "Blood": 1
     },
     "type": "Creation",
     "subtypes": [
@@ -1058,7 +1042,7 @@
       "Distortion"
     ],
     "keywords": [],
-    "abilityText": "When any of your creations attack, I deal 1 damage to all lanes and creations that creation is attacking.\n(Creations with 0 might can still attack in combat!)",
+    "abilityText": "When any of your creations attack, I deal 1 damage to all lanes and creations that creation is attacking.\n(Creations with 0 might can still attack in combat.)",
     "attack": 0,
     "health": 1,
     "resources": [
@@ -1069,11 +1053,12 @@
   },
   {
     "name": "Mass Retribution",
-    "artist": null,
-    "id": "CS01-073/300",
+    "artist": "uwais + eg >",
+    "id": "CS01-073/300 EN",
     "cost": {
-      "Blood": 1,
-      "Eye": 1
+      "Heart": 1,
+      "Brain": 1,
+      "Blood": 1
     },
     "type": "Meticulous Scheme",
     "subtypes": [],
@@ -1090,12 +1075,12 @@
   {
     "name": "Motley Circus Ringleader",
     "artist": null,
-    "id": "CS01-134/300",
+    "id": "CS01-134/300 EN",
     "cost": {
-      "Blood": 1,
-      "Life": 1
+      "Soul": 1,
+      "Eye": 1
     },
-    "type": "Creation",
+    "type": "Creation?",
     "subtypes": [
       "Canine",
       "Distortion"
@@ -1104,7 +1089,7 @@
       "Ephemeral",
       "Sui Generis"
     ],
-    "abilityText": "Ephemeral; Sui Generis:\nWhen I enter, reveal your deck, turn all of your cards with the same name as me to dust, then shuffle.\n\nYour dusted creations that share a name with me have \"[1][B]: Put me from dust into an open lane.\"\n\nWhen I enter, [turn three of your creations with the same name to dust], and create a Cerberus token with 3 might, 3 vigor, and \"When I enter, I deal 3 damage to the opposing lane.\"",
+    "abilityText": "Ephemeral; Sui Generis:\nWhen I enter, reveal your deck, turn all of your cards with the same name as me to dust, then shuffle.\n\nYour dusted creations that share a name with me have \"[\u25cf1]: Put me from dust into an open lane.\"\nWhen I enter, [turn three of your creations with the same name to dust], and create a Kerberros token with 3 might, 3 vigor, and \"When I enter, I deal 3 damage to the opposing lane.\"",
     "attack": 1,
     "health": 1,
     "resources": [
@@ -1118,18 +1103,15 @@
     "artist": "placeholder's placeholder",
     "id": "CS01-132/300 EN",
     "cost": {
-      "Heart": 1,
+      "Soul": 1,
       "Eye": 1
     },
     "type": "Creation",
     "subtypes": [
-      "Witness",
-      "Cultist"
+      "Witness Cultist"
     ],
-    "keywords": [
-      "Ephemeral"
-    ],
-    "abilityText": "At the end of combat, [bury a creation from your hand] and draw a card. If the buried creation had Ephemeral, return that creation to your hand.",
+    "keywords": [],
+    "abilityText": "At the end of combat, [bury a creation from your field], and draw a card. If the buried creation had Ephemeral, return that creation to your hand.",
     "attack": 1,
     "health": 1,
     "resources": [
@@ -1140,17 +1122,15 @@
   },
   {
     "name": "Terra Sunder",
-    "artist": null,
-    "id": "CS01-103/300",
+    "artist": "placeholder's placeholder",
+    "id": "CS01-103/300 EN",
     "cost": {
       "Brain": 1,
-      "Heart": 1,
-      "Eye": 1
+      "Soul": 1,
+      "Blood": 1
     },
-    "type": "Scheme",
-    "subtypes": [
-      "Meticulous"
-    ],
+    "type": "Meticulous Scheme",
+    "subtypes": [],
     "keywords": [],
     "abilityText": "Up to one chosen lane becomes a support lane for the rest of the game. Then, up to one chosen lane becomes a frontline lane for the rest of the game. (The connected opposing lanes are also affected this way. Creations in support lanes can't attack or be attacked in combat.)",
     "attack": null,
@@ -1164,11 +1144,11 @@
   {
     "name": "Vitaleum Phalanx",
     "artist": "placeholder's placeholder",
-    "id": "CS01-072/300",
+    "id": "CS01-072/300 EN",
     "cost": {
-      "Blood": 1,
+      "Heart": 1,
       "Brain": 1,
-      "Eye": 2
+      "Soul": 2
     },
     "type": "Creation",
     "subtypes": [
@@ -1187,11 +1167,9 @@
   },
   {
     "name": "Animal Carcass",
-    "artist": null,
-    "id": "CS01-281/300",
-    "cost": {
-      "Heart": 1
-    },
+    "artist": "YL0W",
+    "id": "CS01-281/300 EN",
+    "cost": {},
     "type": "Common Corpse",
     "subtypes": [
       "Heart Donor"
@@ -1207,11 +1185,9 @@
   },
   {
     "name": "Deceased Intellectual",
-    "artist": null,
-    "id": "CS01-282/300",
-    "cost": {
-      "Brain": 1
-    },
+    "artist": "eg",
+    "id": "CS01-282/300 EN",
+    "cost": {},
     "type": "Common Corpse",
     "subtypes": [
       "Brain Donor"
@@ -1227,15 +1203,14 @@
   },
   {
     "name": "Lesser Haunting",
-    "artist": null,
-    "id": "CS01-263/300 EN",
+    "artist": "YL0W+eg+uwais+zeek",
+    "id": "CS01-283/300 EN",
     "cost": {
       "Soul": 1
     },
     "type": "Common Corpse",
     "subtypes": [
-      "Soul",
-      "Donor"
+      "Soul Donor"
     ],
     "keywords": [],
     "abilityText": "",
@@ -1248,11 +1223,9 @@
   },
   {
     "name": "Lifeless Aberration",
-    "artist": "@FluffyDragonEye",
-    "id": "CS01-284/300",
-    "cost": {
-      "Eye": 1
-    },
+    "artist": "FluffyDragonEve",
+    "id": "CS01-284/300 EN",
+    "cost": {},
     "type": "Common Corpse",
     "subtypes": [
       "Eye Donor"
@@ -1269,7 +1242,7 @@
   {
     "name": "Departed Gravedigger",
     "artist": null,
-    "id": "CS01-299/300",
+    "id": "CS01-299/300 EN",
     "cost": {
       "Blood": 1
     },
@@ -1278,7 +1251,7 @@
       "Blood Donor"
     ],
     "keywords": [],
-    "abilityText": "(I can be harvested normally to add ( ) ( ).)\nFrom one to dust [from your grave]:\nBury the top card of your corpse deck.\n(This isn't a quick ability.)",
+    "abilityText": "(I can be harvested normally to add \u2665\u2665.)\n[Turn me to dust from your grave]: Bury the top card of your corpse deck.\n(This isn't a quick ability.)",
     "attack": null,
     "health": null,
     "resources": [
@@ -1289,16 +1262,14 @@
   {
     "name": "Fallen Titan",
     "artist": null,
-    "id": "CS01-297/300",
-    "cost": {
-      "Blood": 1
-    },
+    "id": "CS01-297/300 EN",
+    "cost": {},
     "type": "Peculiar Corpse",
     "subtypes": [
       "Blood Donor"
     ],
     "keywords": [],
-    "abilityText": "When you harvest me, add Blood Blood Blood .",
+    "abilityText": "When you harvest me, add [Blood][Blood][Blood].",
     "attack": null,
     "health": null,
     "resources": [
@@ -1309,17 +1280,14 @@
   {
     "name": "Fuel for the Tide",
     "artist": null,
-    "id": "CS01-291/300",
-    "cost": {
-      "Eye": 1,
-      "Heart": 1
-    },
+    "id": "CS01-291/300 EN",
+    "cost": {},
     "type": "Peculiar Corpse",
     "subtypes": [
       "Eye & Heart Donor"
     ],
     "keywords": [],
-    "abilityText": "(When you harvest me, add \u25c9\u25c9.)",
+    "abilityText": "(When you harvest me, add [Eye][Heart].)",
     "attack": null,
     "health": null,
     "resources": [
@@ -1332,13 +1300,16 @@
     "name": "Hyperion Storage Unit",
     "artist": null,
     "id": "CS01-287/300 EN",
-    "cost": {},
+    "cost": {
+      "Brain": 1,
+      "Soul": 1
+    },
     "type": "Peculiar Corpse",
     "subtypes": [
       "Brain & Soul Donor"
     ],
     "keywords": [],
-    "abilityText": "(When you harvest me, add \u25cf\u25cf.)",
+    "abilityText": "(When you harvest me, add \ud83e\udde0 \ud83d\udfe2.)",
     "attack": null,
     "health": null,
     "resources": [
@@ -1350,14 +1321,16 @@
   {
     "name": "Ichor Catalyst",
     "artist": null,
-    "id": "CS01-298/300",
-    "cost": {},
+    "id": "CS01-298/300 EN",
+    "cost": {
+      "Blood": 1
+    },
     "type": "Peculiar Corpse",
     "subtypes": [
       "Blood Donor"
     ],
     "keywords": [],
-    "abilityText": "(I can be harvested normally to add Blood Blood.)\nFrom a card from your head to dust, and turn me to dust from your grave;\nAdd Blood Blood Blood Blood. This is a quick ability.",
+    "abilityText": "(I can be harvested normally to add \u25cf\u25cf.)\n[Turn a card from your hand to dust, and turn me to dust from your grave]: Add \u25cf\u25cf\u25cf\u25cf. This is a quick ability.",
     "attack": null,
     "health": null,
     "resources": [
@@ -1368,12 +1341,14 @@
   {
     "name": "Miasmic Cambion",
     "artist": null,
-    "id": "CS01-288/300",
-    "cost": {},
+    "id": "CS01-288/300 EN",
+    "cost": {
+      "Soul": 1
+    },
     "type": "Peculiar Corpse",
     "subtypes": [],
     "keywords": [],
-    "abilityText": "When you harvest me, add your choice of Blood, Heart, Brain, or Soul.\nHarvesting me for anything other than Blood, Heart, Brain, or Soul costs 1 life.",
+    "abilityText": "When you harvest me, add your choice of [\u26661], [\u25cf\u25cf\u25cf], [\u2663\u2663], or [\u2666\u2666].\nHarvesting me for anything other than [\u2666\u2666] costs 1 life.",
     "attack": null,
     "health": null,
     "resources": [
@@ -1385,12 +1360,14 @@
   {
     "name": "Miasmic Faithful",
     "artist": null,
-    "id": "CS01-294/300",
-    "cost": {},
+    "id": "CS01-294/300 EN",
+    "cost": {
+      "Soul": 1
+    },
     "type": "Peculiar Corpse",
     "subtypes": [],
     "keywords": [],
-    "abilityText": "When you harvest me, add your choice of Blood, Heart, Brain, Soul, or Eye.\nHarvesting me for anything other than Blood, Heart, Brain, Soul, or Eye costs 1 life.",
+    "abilityText": "When you harvest me, add your choice of [\u25cf], [\u2665\u2665], [\u25cf\u25cf], or [\u2665\u25cf].\nHarvesting me for anything other than [\u25cf\u25cf] costs 1 life.",
     "attack": null,
     "health": null,
     "resources": [
@@ -1401,13 +1378,13 @@
   },
   {
     "name": "Miasmic Mummy",
-    "artist": null,
-    "id": "CS01-296/300",
+    "artist": "azk",
+    "id": "CS01-296/300 EN",
     "cost": {},
     "type": "Peculiar Corpse",
     "subtypes": [],
     "keywords": [],
-    "abilityText": "When you harvest me, add your choice of [Blood] [Heart] [Brain] [Soul] [Eye] or [Life].\nHarvesting me for anything other than [Life] [Life] costs 1 life.",
+    "abilityText": "When you harvest me, add your choice of \u2666\u2666, \u25cf\u25cf, \u263b\u263b, or \u2666\u25cf.\nHarvesting me for anything other than \u2666\u2666 costs 1 life.",
     "attack": null,
     "health": null,
     "resources": [
@@ -1420,11 +1397,13 @@
     "name": "Miasmic Scintilla",
     "artist": null,
     "id": "CS01-290/300 EN",
-    "cost": {},
+    "cost": {
+      "Soul": 1
+    },
     "type": "Peculiar Corpse",
     "subtypes": [],
     "keywords": [],
-    "abilityText": "When you harvest me, add your choice of or or or or or or or or .\nHarvesting me for anything other than or costs 1 life.",
+    "abilityText": "When you harvest me, add your choice of \u2666\u2666, \u25cf\u25cf\u25cf, \u25cf\u2666, or \u25cf\u2666.\nHarvesting me for anything other than \u2666\u2666 costs 1 life.",
     "attack": null,
     "health": null,
     "resources": [
@@ -1436,12 +1415,14 @@
   {
     "name": "Miasmic Terrapin",
     "artist": null,
-    "id": "CS01-286/300",
-    "cost": {},
+    "id": "CS01-286/300 EN",
+    "cost": {
+      "Brain": 1
+    },
     "type": "Peculiar Corpse",
     "subtypes": [],
     "keywords": [],
-    "abilityText": "When you harvest me, add your choice of Blood, Heart, Brain, Soul, or Eye.\nHarvesting me for anything other than Blood, Heart, Brain, Soul, or Eye costs 1 life.",
+    "abilityText": "When you harvest me, add your choice of [Blood], [Blood, Blood], [Brain, Brain], or [Blood, Brain].\nHarvesting me for anything other than [Blood, Blood] costs 1 life.",
     "attack": null,
     "health": null,
     "resources": [
@@ -1452,13 +1433,13 @@
   },
   {
     "name": "Miasmic Warrior",
-    "artist": "@tuxais",
+    "artist": "uwais",
     "id": "CS01-292/300 EN",
     "cost": {},
     "type": "Peculiar Corpse",
     "subtypes": [],
     "keywords": [],
-    "abilityText": "When you harvest me, add your choice of (Blood), (Heart), (Brain), (Soul), (Eye) or (Life).\nHarvesting me for anything other than (Blood) or (Heart) costs 1 life.",
+    "abilityText": "When you harvest me, add your choice of [\u2665], [\u25cf\u25cf], [\u2665\u25cf], or [\u25cf\u2665].\nHarvesting me for anything other than [\u2665\u2665] costs 1 life.",
     "attack": null,
     "health": null,
     "resources": [
@@ -1470,14 +1451,16 @@
   {
     "name": "Motley Casualty",
     "artist": null,
-    "id": "CS01-289/300",
-    "cost": {},
+    "id": "CS01-289/300 EN",
+    "cost": {
+      "Soul": 1
+    },
     "type": "Peculiar Corpse",
     "subtypes": [
       "Soul & Eye Donor"
     ],
     "keywords": [],
-    "abilityText": "(When you harvest me, add \u26ab \u26ab .)",
+    "abilityText": "(When you harvest me, add [Soul] [Eye].)",
     "attack": null,
     "health": null,
     "resources": [
@@ -1489,17 +1472,14 @@
   {
     "name": "Order Cryopod",
     "artist": null,
-    "id": "CS01-295/300",
-    "cost": {
-      "Brain": 1,
-      "Eye": 1
-    },
+    "id": "CS01-295/300 EN",
+    "cost": {},
     "type": "Peculiar Corpse",
     "subtypes": [
       "Brain & Eye Donor"
     ],
     "keywords": [],
-    "abilityText": "(When you harvest me, add \u25cf and \u25d0.)",
+    "abilityText": "(When you harvest me, add [\u25cf][\ud83d\udc41].)",
     "attack": null,
     "health": null,
     "resources": [
@@ -1511,14 +1491,14 @@
   {
     "name": "Regulus Memorial",
     "artist": null,
-    "id": "CS01-300/300",
+    "id": "CS01-300/300 EN",
     "cost": {
-      "Life": 1
+      "Blood": 1
     },
     "type": "Peculiar Corpse",
     "subtypes": [],
     "keywords": [],
-    "abilityText": "I can't be harvested normally.\n[Turn me to dust from your grave]: Bury your corpse back for any Common Corpse card, bury it, then shuffle.\n(This isn't a quick ability.)",
+    "abilityText": "I can't be harvested normally.\n[Turn me to dust from your grave]: Search your corpse deck for any Common Corpse card, bury it, then shuffle.\n(This isn't a quick ability.)",
     "attack": null,
     "health": null,
     "resources": [
@@ -1529,17 +1509,14 @@
   {
     "name": "Victim of the Coda",
     "artist": null,
-    "id": "CS01-293/300",
-    "cost": {
-      "Heart": 1,
-      "Soul": 1
-    },
+    "id": "CS01-293/300 EN",
+    "cost": {},
     "type": "Peculiar Corpse",
     "subtypes": [
       "Heart & Soul Donor"
     ],
     "keywords": [],
-    "abilityText": "(When you harvest me, add \u26ab\u26ab.)",
+    "abilityText": "(When you harvest me, add \ud83e\ude78\ud83d\udfe2.)",
     "attack": null,
     "health": null,
     "resources": [
@@ -1551,14 +1528,16 @@
   {
     "name": "Well of Vitaleum",
     "artist": null,
-    "id": "CS01-285/300",
-    "cost": {},
+    "id": "CS01-285/300 EN",
+    "cost": {
+      "Brain": 1
+    },
     "type": "Peculiar Corpse",
     "subtypes": [
       "Heart & Brain Donor"
     ],
     "keywords": [],
-    "abilityText": "(When you harvest me, add \u25cf \u25cf)",
+    "abilityText": "(When you harvest me, add \ud83e\ude78\ud83e\udde0.)",
     "attack": null,
     "health": null,
     "resources": [
@@ -1569,11 +1548,11 @@
   },
   {
     "name": "Bearer of the Banner",
-    "artist": "@noc_haft",
+    "artist": "noc_hatt",
     "id": "CS01-001/300 EN",
     "cost": {
-      "Brain": 1,
-      "Life": 2
+      "Soul": 1,
+      "Blood": 2
     },
     "type": "Creation",
     "subtypes": [
@@ -1593,10 +1572,10 @@
   },
   {
     "name": "Divine Blessing",
-    "artist": "YLOW+eg+uuais+zeek",
+    "artist": "YL0W+eg+uwais+zeek",
     "id": "CS01-001/300 EN",
     "cost": {
-      "Life": 2
+      "Soul": 2
     },
     "type": "Meticulous Scheme",
     "subtypes": [],
@@ -1611,11 +1590,11 @@
   },
   {
     "name": "Entwined Shadows",
-    "artist": null,
-    "id": "CS01-001/300",
+    "artist": "Fail Gene",
+    "id": "CS01-001/300 EN",
     "cost": {
-      "Brain": 1,
-      "Eye": 1
+      "Soul": 1,
+      "Blood": 1
     },
     "type": "Creation",
     "subtypes": [
@@ -1633,11 +1612,11 @@
   },
   {
     "name": "False Idol",
-    "artist": null,
-    "id": "CS01-002/300",
+    "artist": "eg",
+    "id": "CS01-002/300 EN",
     "cost": {
-      "Blood": 2,
-      "Eye": 1
+      "Soul": 2,
+      "Blood": 1
     },
     "type": "Creation",
     "subtypes": [
@@ -1646,8 +1625,8 @@
     "keywords": [
       "Bolstered Strength"
     ],
-    "abilityText": "Bolstered Strength:\nI get the total might of each creation to my left and right that doesn't have Bolstered Strength",
-    "attack": 1,
+    "abilityText": "Bolstered Strength:\nI get the total might of each creation to my left and right that doesn't have Bolstered Strength.",
+    "attack": 0,
     "health": 3,
     "resources": [
       "Soul"
@@ -1656,10 +1635,10 @@
   },
   {
     "name": "Spirit Siphon",
-    "artist": "@YLOWregtuuais+zeek",
-    "id": "CS01-131/300",
+    "artist": "YL0W+eg+uwais+zeek",
+    "id": "CS01-131/300 EN",
     "cost": {
-      "Life": 1
+      "Soul": 1
     },
     "type": "Quick Scheme",
     "subtypes": [],
@@ -1675,15 +1654,13 @@
   {
     "name": "Summoning Circle",
     "artist": null,
-    "id": "CS01-192/300",
+    "id": "CS01-192/300 EN",
     "cost": {
-      "Brain": 2,
-      "Eye": 2
+      "Soul": 2,
+      "Blood": 2
     },
-    "type": "Scheme",
-    "subtypes": [
-      "Meticulous"
-    ],
+    "type": "Meticulous Scheme",
+    "subtypes": [],
     "keywords": [],
     "abilityText": "Look at the top six cards of your deck. You may put any number of creations with total cost 4 or less from among them onto the field. Put the rest on the bottom.",
     "attack": null,
@@ -1695,15 +1672,15 @@
   },
   {
     "name": "Symbol of Violence",
-    "artist": null,
+    "artist": "eg",
     "id": "CS01-101/300 EN",
     "cost": {
-      "Brain": 1,
-      "Life": 1
+      "Soul": 1
     },
     "type": "Creation",
     "subtypes": [
-      "Beast Fiend"
+      "Beast",
+      "Fiend"
     ],
     "keywords": [],
     "abilityText": "At the start of combat, give a chosen creation +1 might until round end.",
@@ -1719,8 +1696,8 @@
     "artist": null,
     "id": "CS01-001/300 EN",
     "cost": {
-      "Brain": 1,
-      "Eye": 1
+      "Soul": 1,
+      "Blood": 1
     },
     "type": "Creation",
     "subtypes": [
@@ -1741,9 +1718,9 @@
   {
     "name": "Transient Malevolence",
     "artist": null,
-    "id": "CS01-131/300",
+    "id": "CS01-131/300 EN",
     "cost": {
-      "Life": 2
+      "Soul": 2
     },
     "type": "Creation",
     "subtypes": [
