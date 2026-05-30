@@ -68,7 +68,7 @@
     "artist": "eg",
     "id": "CS01-002/300 EN",
     "cost": {
-      "Soul": 2
+      "Blood": 2
     },
     "type": "Quick Scheme",
     "subtypes": [],
@@ -127,7 +127,7 @@
     "artist": "YL0W",
     "id": "CS01-001/300 EN",
     "cost": {
-      "Soul": 1
+      "Blood": 1
     },
     "type": "Meticulous Scheme",
     "subtypes": [],
@@ -145,7 +145,7 @@
     "artist": "Shazin",
     "id": "CS01-001/300 EN",
     "cost": {
-      "Soul": 1
+      "Blood": 1
     },
     "type": "Quick Scheme",
     "subtypes": [],
@@ -181,7 +181,7 @@
     "artist": "YL0W",
     "id": "CS01-001/300 EN",
     "cost": {
-      "Soul": 1
+      "Blood": 1
     },
     "type": "Meticulous Scheme",
     "subtypes": [],
@@ -488,7 +488,7 @@
     "artist": "zeekubeeku",
     "id": "CS01-001/300 EN",
     "cost": {
-      "Soul": 1,
+      "Eye": 1,
       "Blood": 1
     },
     "type": "Creation",
@@ -530,7 +530,7 @@
     "artist": "greed",
     "id": "CS01-221/300 EN",
     "cost": {
-      "Soul": 1,
+      "Eye": 1,
       "Blood": 1
     },
     "type": "Quick Scheme",
@@ -549,7 +549,7 @@
     "artist": "placeholder's placeholder",
     "id": "CS01-161/300 EN",
     "cost": {
-      "Brain": 2,
+      "Eye": 2,
       "Blood": 2
     },
     "type": "Creation",
@@ -574,7 +574,7 @@
     "artist": "YL0W",
     "id": "CS01-221/300 EN",
     "cost": {
-      "Soul": 1,
+      "Eye": 1,
       "Blood": 1
     },
     "type": "Quick Scheme",
@@ -593,7 +593,7 @@
     "artist": "placeholder's placeholder",
     "id": "CS01-131/300 EN",
     "cost": {
-      "Soul": 2
+      "Eye": 2
     },
     "type": "Creation",
     "subtypes": [
@@ -617,7 +617,7 @@
     "artist": "greed",
     "id": "CS01-002/300 EN",
     "cost": {
-      "Soul": 2,
+      "Eye": 2,
       "Blood": 1
     },
     "type": "Creation",
@@ -683,7 +683,7 @@
     "artist": "eg",
     "id": "CS01-162/300 EN",
     "cost": {
-      "Brain": 1,
+      "Heart": 1,
       "Blood": 2
     },
     "type": "Meticulous Scheme",
@@ -985,7 +985,7 @@
     "cost": {
       "Heart": 1,
       "Brain": 1,
-      "Soul": 1
+      "Blood": 1
     },
     "type": "Creation",
     "subtypes": [
@@ -1033,8 +1033,8 @@
     "artist": "eg",
     "id": "CS01-162/300 EN",
     "cost": {
-      "Soul": 1,
-      "Blood": 1
+      "Heart": 1,
+      "Eye": 1
     },
     "type": "Creation",
     "subtypes": [
@@ -1148,7 +1148,7 @@
     "cost": {
       "Heart": 1,
       "Brain": 1,
-      "Soul": 2
+      "Blood": 2
     },
     "type": "Creation",
     "subtypes": [
