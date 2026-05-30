@@ -435,7 +435,7 @@
       "Stranger"
     ],
     "keywords": [],
-    "abilityText": "At the start of combat, [bury a scheme from your hand], and draw a card. Your schemes in graves can be harvested for [<brain>1][<brain>1].",
+    "abilityText": "At the start of combat, [bury a scheme from your hand], and draw a card. Your schemes in graves can be harvested for <brain><brain>.",
     "might": 2,
     "vigor": 2,
     "resources": [
@@ -475,7 +475,7 @@
       "Abomination"
     ],
     "keywords": [],
-    "abilityText": "When I enter and at round start, [<eye> 1], and I attack a chosen creation for 1 damage.\nWhen I attack a creation, grant me all traits of that creation.",
+    "abilityText": "When I enter and at round start, [<eye>1], and I attack a chosen creation for 1 damage.\nWhen I attack a creation, grant me all traits of that creation.",
     "might": 2,
     "vigor": 3,
     "resources": [
@@ -509,7 +509,7 @@
   },
   {
     "name": "Focus Lens",
-    "artist": "@whenlifegivesticks",
+    "artist": "whenlifegivesticks",
     "id": "CS01-001/300 EN",
     "cost": {
       "Eye": 1
@@ -831,7 +831,7 @@
   },
   {
     "name": "Wapiti",
-    "artist": "@whenlifegivesticks",
+    "artist": "whenlifegivesticks",
     "id": "CS01-071/300 EN",
     "cost": {
       "Heart": 1,
@@ -891,7 +891,7 @@
     "type": "Quick Scheme",
     "subtypes": [],
     "keywords": [],
-    "abilityText": "You may play a card from your hand as though it had Blink. It costs [<brain>][<soul>] less to play this way.\n(Creations and schemes with Blink can be played as though they were quick schemes.)",
+    "abilityText": "You may play a card from your hand as though it had Blink. It costs <brain><soul> less to play this way.\n(Creations and schemes with Blink can be played as though they were quick schemes.)",
     "might": null,
     "vigor": null,
     "resources": [
@@ -912,6 +912,7 @@
     "subtypes": [
       "Humanoid",
       "Stranger",
+	  "&",
       "Fiend"
     ],
     "keywords": [
@@ -969,7 +970,7 @@
       "Cultist"
     ],
     "keywords": [],
-    "abilityText": "[Turn a creation from your field to dust]: If this is the first time this ability was used this round, add [Soul][Eye]. Choose a card name, then reveal the top card of your deck. If the revealed card is the named card, draw it.\nThis is a quick ability.",
+    "abilityText": "[Turn a creation from your field to dust]: If this is the first time this ability was used this round, add <soul><eye>. Choose a card name, then reveal the top card of your deck. If the revealed card is the named card, draw it.\nThis is a quick ability.",
     "might": 2,
     "vigor": 2,
     "resources": [
@@ -1309,7 +1310,7 @@
       "Brain & Soul Donor"
     ],
     "keywords": [],
-    "abilityText": "(When you harvest me, add <brain> <soul>.)",
+    "abilityText": "(When you harvest me, add <brain><soul>.)",
     "might": null,
     "vigor": null,
     "resources": [
@@ -1348,7 +1349,7 @@
     "type": "Peculiar Corpse",
     "subtypes": [],
     "keywords": [],
-    "abilityText": "When you harvest me, add your choice of <blood> <blood>, <brain> <brain> <soul> <soul> or <brain> <soul>.\nHarvesting me for anything other than <blood><blood> costs 1 life.",
+    "abilityText": "When you harvest me, add your choice of <blood><blood>, <brain><brain> <soul><soul> or <brain><soul>.\nHarvesting me for anything other than <blood><blood> costs 1 life.",
     "might": null,
     "vigor": null,
     "resources": [
@@ -1367,7 +1368,7 @@
     "type": "Peculiar Corpse",
     "subtypes": [],
     "keywords": [],
-    "abilityText": "When you harvest me, add your choice of <blood> <blood>, <heart> <heart> <soul> <soul> or <heart> <soul>.\nHarvesting me for anything other than <blood><blood> costs 1 life.",
+    "abilityText": "When you harvest me, add your choice of <blood><blood>, <heart><heart> <soul><soul> or <heart><soul>.\nHarvesting me for anything other than <blood><blood> costs 1 life.",
     "might": null,
     "vigor": null,
     "resources": [
@@ -1384,7 +1385,7 @@
     "type": "Peculiar Corpse",
     "subtypes": [],
     "keywords": [],
-    "abilityText": "When you harvest me, add your choice of <blood> <blood>, <brain> <brain> <eye> <eye> or <brain> <eye>.\nHarvesting me for anything other than <blood><blood> costs 1 life.",
+    "abilityText": "When you harvest me, add your choice of <blood><blood>, <brain><brain> <eye><eye> or <brain><eye>.\nHarvesting me for anything other than <blood><blood> costs 1 life.",
     "might": null,
     "vigor": null,
     "resources": [
@@ -1403,7 +1404,7 @@
     "type": "Peculiar Corpse",
     "subtypes": [],
     "keywords": [],
-    "abilityText": "When you harvest me, add your choice of <blood> <blood>, <soul> <soul> <eye> <eye> or <soul> <eye>.\nHarvesting me for anything other than <blood><blood> costs 1 life.",
+    "abilityText": "When you harvest me, add your choice of <blood><blood>, <soul><soul> <eye><eye> or <soul><eye>.\nHarvesting me for anything other than <blood><blood> costs 1 life.",
     "might": null,
     "vigor": null,
     "resources": [
@@ -1422,7 +1423,7 @@
     "type": "Peculiar Corpse",
     "subtypes": [],
     "keywords": [],
-    "abilityText": "When you harvest me, add your choice of <blood> <blood>, <heart> <heart> <brain> <brain> or <heart> <brain>.\nHarvesting me for anything other than <blood><blood> costs 1 life.",
+    "abilityText": "When you harvest me, add your choice of <blood><blood>, <heart><heart> <brain><brain> or <heart><brain>.\nHarvesting me for anything other than <blood><blood> costs 1 life.",
     "might": null,
     "vigor": null,
     "resources": [
@@ -1439,7 +1440,7 @@
     "type": "Peculiar Corpse",
     "subtypes": [],
     "keywords": [],
-    "abilityText": "When you harvest me, add your choice of <blood> <blood>, <eye> <eye> <heart> <heart> or <eye> <heart>.\nHarvesting me for anything other than <blood><blood> costs 1 life.",
+    "abilityText": "When you harvest me, add your choice of <blood><blood>, <eye><eye> <heart><heart> or <eye><heart>.\nHarvesting me for anything other than <blood><blood> costs 1 life.",
     "might": null,
     "vigor": null,
     "resources": [
@@ -1460,7 +1461,7 @@
       "Soul & Eye Donor"
     ],
     "keywords": [],
-    "abilityText": "(When you harvest me, add [Soul] [Eye].)",
+    "abilityText": "(When you harvest me, add <soul><eye>.)",
     "might": null,
     "vigor": null,
     "resources": [
@@ -1479,7 +1480,7 @@
       "Brain & Eye Donor"
     ],
     "keywords": [],
-    "abilityText": "(When you harvest me, add [<brain>][<eye>].)",
+    "abilityText": "(When you harvest me, add <brain><eye>.)",
     "might": null,
     "vigor": null,
     "resources": [
