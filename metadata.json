@@ -15,8 +15,8 @@
       "Regenerator"
     ],
     "abilityText": "Regenerator:\nWhen my corpse is harvested, [<blood>1], and return me to a grave and I can't be harvested again until round end.\n\nAt round start, if I'm in a support lane, add one organ of any type.",
-    "attack": 0,
-    "health": 1,
+    "might": 0,
+    "vigor": 1,
     "resources": [
       "Blood"
     ],
@@ -36,8 +36,8 @@
     ],
     "keywords": [],
     "abilityText": "[<blood>2 while I'm in your hand]: Plot this creation. At round start, [bury me], reveal cards from the top of your deck until you reveal a creation, bury that creation, then put the rest on the bottom.",
-    "attack": 6,
-    "health": 1,
+    "might": 6,
+    "vigor": 1,
     "resources": [
       "Blood"
     ],
@@ -56,8 +56,8 @@
     ],
     "keywords": [],
     "abilityText": "Plot this scheme. (In a grave or lane.)\nAt round start, if this scheme is plotted, [turn it to dust], and draw two cards.",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Blood"
     ],
@@ -74,8 +74,8 @@
     "subtypes": [],
     "keywords": [],
     "abilityText": "[Bury a creation from your hand]: A chosen creation's owner buries it if its might is less than or equal to 2 plus the number of corpses in your grave.",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Blood"
     ],
@@ -95,8 +95,8 @@
     ],
     "keywords": [],
     "abilityText": "When I enter, choose a creation type. Reveal cards from the top of your deck until you reveal a creation with the chosen type, draw that creation, then put the rest on the bottom.",
-    "attack": 2,
-    "health": 3,
+    "might": 2,
+    "vigor": 3,
     "resources": [
       "Blood"
     ],
@@ -115,8 +115,8 @@
     ],
     "keywords": [],
     "abilityText": "When one of your creations die in combat, you heal 1.",
-    "attack": 0,
-    "health": 2,
+    "might": 0,
+    "vigor": 2,
     "resources": [
       "Blood"
     ],
@@ -133,8 +133,8 @@
     "subtypes": [],
     "keywords": [],
     "abilityText": "Grant all original abilities and traits of one of your dusted creations without Sui Generis to a chosen creation.",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Blood"
     ],
@@ -151,8 +151,8 @@
     "subtypes": [],
     "keywords": [],
     "abilityText": "[Bury a creation from your hand]: A chosen creation can't attack until round end.",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Blood"
     ],
@@ -169,8 +169,8 @@
     "subtypes": [],
     "keywords": [],
     "abilityText": "Return up to one creation from one of your graves to your hand, then either bury a creation from your hand or bury this scheme.\n(Schemes can't be harvested.)",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Blood"
     ],
@@ -187,8 +187,8 @@
     "subtypes": [],
     "keywords": [],
     "abilityText": "Put a creation from one of your graves onto a frontline lane, then that creation attacks you for damage equal to its cost minus 2.",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Blood"
     ],
@@ -208,8 +208,8 @@
     ],
     "keywords": [],
     "abilityText": "",
-    "attack": 1,
-    "health": 1,
+    "might": 1,
+    "vigor": 1,
     "resources": [
       "Blood"
     ],
@@ -228,8 +228,8 @@
     ],
     "keywords": [],
     "abilityText": "Plot this scheme. (In a grave or lane.)\nAt round start, if this scheme is plotted, [turn it to dust], and bury the top card of your corpse deck.",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Blood"
     ],
@@ -249,8 +249,8 @@
     ],
     "keywords": [],
     "abilityText": "When I enter, draw a card.",
-    "attack": 0,
-    "health": 1,
+    "might": 0,
+    "vigor": 1,
     "resources": [
       "Blood"
     ],
@@ -269,8 +269,8 @@
     ],
     "keywords": [],
     "abilityText": "You deal 3 damage to a chosen creation.",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Brain"
     ],
@@ -287,8 +287,8 @@
     "subtypes": [],
     "keywords": [],
     "abilityText": "You deal 3 damage to each of up to 3 chosen creations. The opposing lifestitcher deals 3 damage to each of up to 3 creations of their choice.",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Brain"
     ],
@@ -311,8 +311,8 @@
       "Guardian"
     ],
     "abilityText": "Guardian:\nI can't die until round end. When I die, you don't take overkill damage.",
-    "attack": 1,
-    "health": 2,
+    "might": 1,
+    "vigor": 2,
     "resources": [
       "Brain"
     ],
@@ -331,8 +331,8 @@
     ],
     "keywords": [],
     "abilityText": "Plot this scheme. (In a grave or lane.)\nAt the start of combat, if this scheme is plotted, [turn it to dust], and create a Barrier token with 0 might, 1 vigor, and Guardian on each open frontline lane.",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Brain"
     ],
@@ -350,8 +350,8 @@
     "subtypes": [],
     "keywords": [],
     "abilityText": "Look at the top five cards of your deck, draw three of them, then put the rest on the bottom. Bury this scheme in a grave. While this scheme is in a grave, it can be harvested for [<brain><brain>].",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Brain"
     ],
@@ -371,8 +371,8 @@
     ],
     "keywords": [],
     "abilityText": "When you play a scheme, [it costs <brain> less to play], and grant me a debt counter. While you're in debt, your creations deal no damage when attacking normally. When I die, I attack you equal to your debt.\n[<blood>1]: Remove a debt counter. This is a quick ability.",
-    "attack": 0,
-    "health": 1,
+    "might": 0,
+    "vigor": 1,
     "resources": [
       "Brain"
     ],
@@ -390,8 +390,8 @@
     "subtypes": [],
     "keywords": [],
     "abilityText": "[Pay any amount of <blood>]:\nTurn a chosen creation to dust unless its owner pays <blood>1 for each organ paid for this scheme's costs. (Including the initial cost of <brain>1<blood>1.)",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Brain"
     ],
@@ -414,8 +414,8 @@
       "Neurotic Strength"
     ],
     "abilityText": "Neurotic Strength:\nI get +1 might for every 4 of your nontoken dusted cards.\n\n[Turn a card from your hand to dust]: Swap my might and vigor until round end. This is a quick ability. Use only once each round.",
-    "attack": 1,
-    "health": 2,
+    "might": 1,
+    "vigor": 2,
     "resources": [
       "Brain"
     ],
@@ -436,8 +436,8 @@
     ],
     "keywords": [],
     "abilityText": "At the start of combat, [bury a scheme from your hand], and draw a card. Your schemes in graves can be harvested for [<brain>1][<brain>1].",
-    "attack": 2,
-    "health": 2,
+    "might": 2,
+    "vigor": 2,
     "resources": [
       "Brain"
     ],
@@ -454,8 +454,8 @@
     "subtypes": [],
     "keywords": [],
     "abilityText": "Until round end, Give a chosen creation +1 vigor, and an additional +1 vigor for each of its traits.",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Eye"
     ],
@@ -476,8 +476,8 @@
     ],
     "keywords": [],
     "abilityText": "When I enter and at round start, [<eye> 1], and I attack a chosen creation for 1 damage.\nWhen I attack a creation, grant me all traits of that creation.",
-    "attack": 2,
-    "health": 3,
+    "might": 2,
+    "vigor": 3,
     "resources": [
       "Eye"
     ],
@@ -500,8 +500,8 @@
       "Double Vision"
     ],
     "abilityText": "Double Vision:\nMy normal attack instead attacks each opposing lane to the left and right of me.",
-    "attack": 1,
-    "health": 1,
+    "might": 1,
+    "vigor": 1,
     "resources": [
       "Eye"
     ],
@@ -518,8 +518,8 @@
     "subtypes": [],
     "keywords": [],
     "abilityText": "One of your creations deals 2 damage to a chosen creation for each trait your creation has, plus an additional 1 damage for each trait among cards in your graves.",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Eye"
     ],
@@ -537,8 +537,8 @@
     "subtypes": [],
     "keywords": [],
     "abilityText": "[Bury a creation from your hand, or turn a card from your hand to dust]: Draw two cards.",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Eye"
     ],
@@ -562,8 +562,8 @@
       "Double Vision"
     ],
     "abilityText": "Soaring:\nWhen we attack normally, [halve our might rounded down until round end], and we deal that much damage directly to the defending lifestitcher.\n\nDouble Vision:\nOur normal attack instead attacks each opposing lane to the left and right of us.",
-    "attack": 2,
-    "health": 3,
+    "might": 2,
+    "vigor": 3,
     "resources": [
       "Eye"
     ],
@@ -581,8 +581,8 @@
     "subtypes": [],
     "keywords": [],
     "abilityText": "Look at the top five cards of your deck, draw one of them, plot a creation from among them, then turn the rest to dust. The plotted creation has \"At round start, bury me.\" (It loses this text afterwards.)",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Eye"
     ],
@@ -605,8 +605,8 @@
       "Ephemeral"
     ],
     "abilityText": "Shifty:\nAt the start of combat, you may move me by 1 lane in either direction.\n\nEphemeral:\nI turn to dust at round end.",
-    "attack": 2,
-    "health": 4,
+    "might": 2,
+    "vigor": 4,
     "resources": [
       "Eye"
     ],
@@ -628,8 +628,8 @@
       "Aberrant Strength"
     ],
     "abilityText": "Aberrant Strength: I get +1 might for every 2 cards on all fields and in all graves.",
-    "attack": 1,
-    "health": 4,
+    "might": 1,
+    "vigor": 4,
     "resources": [
       "Eye"
     ],
@@ -648,8 +648,8 @@
     ],
     "keywords": [],
     "abilityText": "As I enter, turn all of your other creations and corpses to dust, and grant me all original traits of everything turned to dust this way. Grant me +1 might and +1 vigor for each card turned to dust this way.\n[<eye>2 while I'm in your hand]:\nPut me onto the field.\nThis is a quick ability.",
-    "attack": 1,
-    "health": 1,
+    "might": 1,
+    "vigor": 1,
     "resources": [
       "Eye"
     ],
@@ -671,8 +671,8 @@
       "Boundless"
     ],
     "abilityText": "Boundless:\nAt the start of combat, create a token in each lane to my left and right that have my exact stats and name. Those tokens have Ephemeral.",
-    "attack": 1,
-    "health": 3,
+    "might": 1,
+    "vigor": 3,
     "resources": [
       "Eye"
     ],
@@ -690,8 +690,8 @@
     "subtypes": [],
     "keywords": [],
     "abilityText": "Put a creation card from your hand onto the field, then all of your creations attack a chosen opposing creation. Bury the creation you put onto the field afterwards.",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Heart"
     ],
@@ -711,8 +711,8 @@
     ],
     "keywords": [],
     "abilityText": "When I enter, [bury a creation from your hand], and draw a card.\n[<blood>1 while I'm in a frontline lane]: I attack a chosen creation for 4 damage, then bury me.",
-    "attack": 2,
-    "health": 2,
+    "might": 2,
+    "vigor": 2,
     "resources": [
       "Heart"
     ],
@@ -734,8 +734,8 @@
     ],
     "keywords": [],
     "abilityText": "",
-    "attack": 2,
-    "health": 2,
+    "might": 2,
+    "vigor": 2,
     "resources": [
       "Heart"
     ],
@@ -752,8 +752,8 @@
     "subtypes": [],
     "keywords": [],
     "abilityText": "One of your creations attacks another chosen creation.",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Heart"
     ],
@@ -777,8 +777,8 @@
       "Cadaverous Strength"
     ],
     "abilityText": "Soaring:\nWhen I attack normally, [halve my might rounded down until round end], and I deal that much damage directly to the defending lifestitcher.\n\nCadaverous Strength:\nI get +1 might for every 2 might of the corpse in the grave behind me.",
-    "attack": 2,
-    "health": 3,
+    "might": 2,
+    "vigor": 3,
     "resources": [
       "Heart"
     ],
@@ -798,8 +798,8 @@
     ],
     "keywords": [],
     "abilityText": "",
-    "attack": 4,
-    "health": 5,
+    "might": 4,
+    "vigor": 5,
     "resources": [
       "Heart"
     ],
@@ -822,8 +822,8 @@
       "Lord"
     ],
     "abilityText": "Lord:\nYour creations to my left and right each get +1 might and +1 vigor.",
-    "attack": 4,
-    "health": 4,
+    "might": 4,
+    "vigor": 4,
     "resources": [
       "Heart"
     ],
@@ -846,8 +846,8 @@
       "Shifty"
     ],
     "abilityText": "Shifty:\nAt the start of combat, you may move me by 1 lane in either direction.",
-    "attack": 2,
-    "health": 4,
+    "might": 2,
+    "vigor": 4,
     "resources": [
       "Heart"
     ],
@@ -872,8 +872,8 @@
       "Sui Generis"
     ],
     "abilityText": "Sui Generis:\nWhen I enter, reveal your deck, turn all of your cards with the same name as me to dust, then shuffle.\n\nWhen I enter, start an additional combat phase. (Then the main phase resumes.)\nWhen I attack, give me Lord until round end. (Multiple instances of Lord stack.)\n[<blood>1]: I attack a chosen creation for 1 damage. This is a quick ability. Activate only once each round.",
-    "attack": 3,
-    "health": 3,
+    "might": 3,
+    "vigor": 3,
     "resources": [
       "Eye",
       "Heart"
@@ -892,8 +892,8 @@
     "subtypes": [],
     "keywords": [],
     "abilityText": "You may play a card from your hand as though it had Blink. It costs [<brain>][<soul>] less to play this way.\n(Creations and schemes with Blink can be played as though they were quick schemes.)",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Brain",
       "Soul"
@@ -919,8 +919,8 @@
       "Sui Generis"
     ],
     "abilityText": "Soaring; Sui Generis:\nWhen we enter, reveal your deck, turn all of your cards with the same name as us to dust, then shuffle.\n\nWhen we enter, you may plot a scheme that costs 3 or less from your hand. It gains \"At the start of combat, play me without paying my cost.\"\nWhen one of your schemes or creations would deal damage, if it isn't the main phase and you've played two or more cards this phase, it deals an additional 1 damage.",
-    "attack": 2,
-    "health": 3,
+    "might": 2,
+    "vigor": 3,
     "resources": [
       "Brain",
       "Soul"
@@ -946,8 +946,8 @@
       "Sui Generis"
     ],
     "abilityText": "Sui Generis:\nWhen I enter, reveal your deck, turn all of your cards with the same name as me to dust, then shuffle.\n\nDamage is dealt to me in the form of permanently reducing my vigor.\nWhen you harvest a corpse or play a meticulous scheme, grant me +2 vigor when the current action ends.\n[Deal 2 damage to me]:\nDraw a card, and you heal 1.",
-    "attack": 1,
-    "health": 4,
+    "might": 1,
+    "vigor": 4,
     "resources": [
       "Heart",
       "Brain"
@@ -970,8 +970,8 @@
     ],
     "keywords": [],
     "abilityText": "[Turn a creation from your field to dust]: If this is the first time this ability was used this round, add [Soul][Eye]. Choose a card name, then reveal the top card of your deck. If the revealed card is the named card, draw it.\nThis is a quick ability.",
-    "attack": 2,
-    "health": 2,
+    "might": 2,
+    "vigor": 2,
     "resources": [
       "Soul",
       "Eye"
@@ -994,8 +994,8 @@
     ],
     "keywords": [],
     "abilityText": "When you harvest a corpse, give me +1 vigor until round end when the current action ends.",
-    "attack": 1,
-    "health": 3,
+    "might": 1,
+    "vigor": 3,
     "resources": [
       "Heart",
       "Brain"
@@ -1020,8 +1020,8 @@
       "Shifty"
     ],
     "abilityText": "Shifty:\nAt the start of combat, you may move me by 1 lane in either direction.\n\nWhen you play a card, if it isn't the main phase, I deal 1 damage to the opposing lane.\n(I can damage an empty lane, and I can damage support lanes.)",
-    "attack": 1,
-    "health": 3,
+    "might": 1,
+    "vigor": 3,
     "resources": [
       "Brain",
       "Soul"
@@ -1043,8 +1043,8 @@
     ],
     "keywords": [],
     "abilityText": "When any of your creations attack, I deal 1 damage to all lanes and creations that creation is attacking.\n(Creations with 0 might can still attack in combat.)",
-    "attack": 0,
-    "health": 1,
+    "might": 0,
+    "vigor": 1,
     "resources": [
       "Eye",
       "Heart"
@@ -1064,8 +1064,8 @@
     "subtypes": [],
     "keywords": [],
     "abilityText": "All creations deal damage to themselves equal to their might.",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Heart",
       "Brain"
@@ -1090,8 +1090,8 @@
       "Sui Generis"
     ],
     "abilityText": "Ephemeral; Sui Generis:\nWhen I enter, reveal your deck, turn all of your cards with the same name as me to dust, then shuffle.\n\nYour dusted creations that share a name with me have \"[<blood>1]: Put me from dust into an open lane.\"\nWhen I enter, [turn three of your creations with the same name to dust], and create a Kerberros token with 3 might, 3 vigor, and \"When I enter, I deal 3 damage to the opposing lane.\"",
-    "attack": 1,
-    "health": 1,
+    "might": 1,
+    "vigor": 1,
     "resources": [
       "Soul",
       "Eye"
@@ -1112,8 +1112,8 @@
     ],
     "keywords": [],
     "abilityText": "At the end of combat, [bury a creation from your field], and draw a card. If the buried creation had Ephemeral, return that creation to your hand.",
-    "attack": 1,
-    "health": 1,
+    "might": 1,
+    "vigor": 1,
     "resources": [
       "Soul",
       "Eye"
@@ -1133,8 +1133,8 @@
     "subtypes": [],
     "keywords": [],
     "abilityText": "Up to one chosen lane becomes a support lane for the rest of the game. Then, up to one chosen lane becomes a frontline lane for the rest of the game. (The connected opposing lanes are also affected this way. Creations in support lanes can't attack or be attacked in combat.)",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Brain",
       "Soul"
@@ -1157,8 +1157,8 @@
     ],
     "keywords": [],
     "abilityText": "When your creations attack, they deal damage equal to their vigor instead of their might.\nWhen one of your creations enter, if it has greater vigor than might, look at the top card of your main or corpse deck, and you may put that card on the bottom.",
-    "attack": 0,
-    "health": 3,
+    "might": 0,
+    "vigor": 3,
     "resources": [
       "Heart",
       "Brain"
@@ -1176,8 +1176,8 @@
     ],
     "keywords": [],
     "abilityText": "",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Heart"
     ],
@@ -1194,8 +1194,8 @@
     ],
     "keywords": [],
     "abilityText": "",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Brain"
     ],
@@ -1214,8 +1214,8 @@
     ],
     "keywords": [],
     "abilityText": "",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Soul"
     ],
@@ -1232,8 +1232,8 @@
     ],
     "keywords": [],
     "abilityText": "",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Eye"
     ],
@@ -1252,8 +1252,8 @@
     ],
     "keywords": [],
     "abilityText": "(I can be harvested normally to add <blood><blood>.)\n[Turn me to dust from your grave]: Bury the top card of your corpse deck.\n(This isn't a quick ability.)",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Blood"
     ],
@@ -1270,8 +1270,8 @@
     ],
     "keywords": [],
     "abilityText": "When you harvest me, add [Blood][Blood][Blood].",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Blood"
     ],
@@ -1288,8 +1288,8 @@
     ],
     "keywords": [],
     "abilityText": "(When you harvest me, add [Eye][Heart].)",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Eye",
       "Heart"
@@ -1310,8 +1310,8 @@
     ],
     "keywords": [],
     "abilityText": "(When you harvest me, add <brain> <soul>.)",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Brain",
       "Soul"
@@ -1331,8 +1331,8 @@
     ],
     "keywords": [],
     "abilityText": "(I can be harvested normally to add <blood><blood>.)\n[Turn a card from your hand to dust, and turn me to dust from your grave]: Add <blood><blood><blood><blood>. This is a quick ability.",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Blood"
     ],
@@ -1349,8 +1349,8 @@
     "subtypes": [],
     "keywords": [],
     "abilityText": "When you harvest me, add your choice of <blood> <blood>, <brain> <brain> <soul> <soul> or <brain> <soul>.\nHarvesting me for anything other than <blood><blood> costs 1 life.",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Brain",
       "Soul"
@@ -1368,8 +1368,8 @@
     "subtypes": [],
     "keywords": [],
     "abilityText": "When you harvest me, add your choice of <blood> <blood>, <heart> <heart> <soul> <soul> or <heart> <soul>.\nHarvesting me for anything other than <blood><blood> costs 1 life.",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Heart",
       "Soul"
@@ -1385,8 +1385,8 @@
     "subtypes": [],
     "keywords": [],
     "abilityText": "When you harvest me, add your choice of <blood> <blood>, <brain> <brain> <eye> <eye> or <brain> <eye>.\nHarvesting me for anything other than <blood><blood> costs 1 life.",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Brain",
       "Eye"
@@ -1404,8 +1404,8 @@
     "subtypes": [],
     "keywords": [],
     "abilityText": "When you harvest me, add your choice of <blood> <blood>, <soul> <soul> <eye> <eye> or <soul> <eye>.\nHarvesting me for anything other than <blood><blood> costs 1 life.",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Soul",
       "Eye"
@@ -1423,8 +1423,8 @@
     "subtypes": [],
     "keywords": [],
     "abilityText": "When you harvest me, add your choice of <blood> <blood>, <heart> <heart> <brain> <brain> or <heart> <brain>.\nHarvesting me for anything other than <blood><blood> costs 1 life.",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Heart",
       "Brain"
@@ -1440,8 +1440,8 @@
     "subtypes": [],
     "keywords": [],
     "abilityText": "When you harvest me, add your choice of <blood> <blood>, <eye> <eye> <heart> <heart> or <eye> <heart>.\nHarvesting me for anything other than <blood><blood> costs 1 life.",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Eye",
       "Heart"
@@ -1461,8 +1461,8 @@
     ],
     "keywords": [],
     "abilityText": "(When you harvest me, add [Soul] [Eye].)",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Soul",
       "Eye"
@@ -1480,8 +1480,8 @@
     ],
     "keywords": [],
     "abilityText": "(When you harvest me, add [<brain>][<eye>].)",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Brain",
       "Eye"
@@ -1499,8 +1499,8 @@
     "subtypes": [],
     "keywords": [],
     "abilityText": "I can't be harvested normally.\n[Turn me to dust from your grave]: Search your corpse deck for any Common Corpse card, bury it, then shuffle.\n(This isn't a quick ability.)",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Blood"
     ],
@@ -1517,8 +1517,8 @@
     ],
     "keywords": [],
     "abilityText": "(When you harvest me, add <blood><soul>.)",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Heart",
       "Soul"
@@ -1538,8 +1538,8 @@
     ],
     "keywords": [],
     "abilityText": "(When you harvest me, add <blood><brain>.)",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Heart",
       "Brain"
@@ -1563,8 +1563,8 @@
       "Lord"
     ],
     "abilityText": "Lord:\nYour creations to my left and right each get +1 might and +1 vigor.",
-    "attack": 2,
-    "health": 2,
+    "might": 2,
+    "vigor": 2,
     "resources": [
       "Soul"
     ],
@@ -1581,8 +1581,8 @@
     "subtypes": [],
     "keywords": [],
     "abilityText": "Grant each of your creations +1 might and +1 vigor.",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Soul"
     ],
@@ -1603,8 +1603,8 @@
     ],
     "keywords": [],
     "abilityText": "When I enter, create a Shadow token with 1 might and 1 vigor.",
-    "attack": 1,
-    "health": 1,
+    "might": 1,
+    "vigor": 1,
     "resources": [
       "Soul"
     ],
@@ -1626,8 +1626,8 @@
       "Bolstered Strength"
     ],
     "abilityText": "Bolstered Strength:\nI get the total might of each creation to my left and right that doesn't have Bolstered Strength.",
-    "attack": 0,
-    "health": 3,
+    "might": 0,
+    "vigor": 3,
     "resources": [
       "Soul"
     ],
@@ -1644,8 +1644,8 @@
     "subtypes": [],
     "keywords": [],
     "abilityText": "Until round end, remove 2 might from a chosen creation, then give a chosen creation +2 might.",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Soul"
     ],
@@ -1663,8 +1663,8 @@
     "subtypes": [],
     "keywords": [],
     "abilityText": "Look at the top six cards of your deck. You may put any number of creations with total cost 4 or less from among them onto the field. Put the rest on the bottom.",
-    "attack": null,
-    "health": null,
+    "might": null,
+    "vigor": null,
     "resources": [
       "Soul"
     ],
@@ -1684,8 +1684,8 @@
     ],
     "keywords": [],
     "abilityText": "At the start of combat, give a chosen creation +1 might until round end.",
-    "attack": 0,
-    "health": 1,
+    "might": 0,
+    "vigor": 1,
     "resources": [
       "Soul"
     ],
@@ -1708,8 +1708,8 @@
       "Vantage Point"
     ],
     "abilityText": "Vantage Point: While I'm in a support lane, I can attack normally. When I do, choose a frontline lane for me to attack.",
-    "attack": 1,
-    "health": 2,
+    "might": 1,
+    "vigor": 2,
     "resources": [
       "Soul"
     ],
@@ -1730,8 +1730,8 @@
       "Ephemeral"
     ],
     "abilityText": "Ephemeral:\nI turn to dust at round end.",
-    "attack": 3,
-    "health": 3,
+    "might": 3,
+    "vigor": 3,
     "resources": [
       "Soul"
     ],
