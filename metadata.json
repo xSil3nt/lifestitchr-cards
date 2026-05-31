@@ -2373,7 +2373,7 @@
 	  "Pristine",
 	  "Sui Generis"
 	],
-  "abilityText": "Pristine; Sui Generis:\nWhen I enter, reveal your deck, turn all of your cards with the same name as me to dust, then shuffle.\n\nCorpses in your graves have Pristine.\nWhen you would play a creation onto my lane, it costs <heart><brain><soul><eye> less to play.\n[<soul>1]: Give me +1 might until round end.\n[<eye>2]: Give me a trait from a chosen creation until round end.\n[<brain>3]: Draw two cards.\n[<heart>4]: Until round end, all opposing creations have 1 vigor.",
+    "abilityText": "Pristine; Sui Generis:\nWhen I enter, reveal your deck, turn all of your cards with the same name as me to dust, then shuffle.\n\nCorpses in your graves have Pristine.\nWhen you would play a creation onto my lane, it costs <heart><brain><soul><eye> less to play.\n[<soul>1]: Give me +1 might until round end.\n[<eye>2]: Give me a trait from a chosen creation until round end.\n[<brain>3]: Draw two cards.\n[<heart>4]: Until round end, all opposing creations have 1 vigor.",
     "might": 2,
     "vigor": 4,
     "resources": [
