@@ -1640,7 +1640,7 @@
     "subtypes": [
 	  "Aquatic",
 	  "Primeval",
-	  "Stranger",
+	  "Stranger"
 	],
     "keywords": [],
     "abilityText": "At round end, I deal 3 damage to the opposing lane. (I can damage an empty lane, and I can damage support lanes.)",
@@ -2267,8 +2267,8 @@
     "type": "Creation",
     "subtypes": [
       "Titan",
-	  "Witness"
-	  "Abomination"
+	    "Witness",
+	    "Abomination"
     ],
     "keywords": [],
     "abilityText": "When I enter, grant me five instances of Frozen, then my cost becomes <blood>1. (Creations with Frozen have no other abilities, traits, nor might, and have \"[Turn a card from your hand to dust and pay my cost]: Permanently remove Frozen from me.\" Each instance of Frozen must be removed separately.)",
