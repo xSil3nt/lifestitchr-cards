@@ -442,7 +442,7 @@
     "artist": null,
     "id": "CS01-042/300 EN",
     "cost": {
-      "Blood": 8
+      "Blood": 9
     },
     "type": "Creation",
     "subtypes": [
@@ -454,7 +454,7 @@
 	  "Colossal",
 	  "Stalwart"
     ],
-    "abilityText": "Regenerator:\nWhen my corpse is harvested, [<blood>1], and return me to a grave and I can't be harvested again until round end.\n\nColossal:\nWhen you would take damage, you may have me take that damage instead. When I attack normally, I can attack any lane.\n\nStalwart:\nOpposing lifestitchers must pay an additional<blood>2 to choose me.",
+    "abilityText": "Regenerator:\nWhen my corpse is harvested, [<blood>1], and return me to a grave and I can't be harvested again until round end.\n\nColossal:\nWhen you would take damage, you may have me take that damage instead. When I attack normally, I can attack any lane.\n\nStalwart:\nOpposing lifestitchers must pay an additional <blood>2 to choose me.",
     "might": 7,
     "vigor": 7,
     "resources": [
