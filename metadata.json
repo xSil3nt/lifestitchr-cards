@@ -1970,8 +1970,7 @@
     "id": "CS01-252/300 EN",
     "cost": {
       "Heart": 1,
-      "Eye": 1,
-	  "Blood": 1
+      "Eye": 1
     },
     "type": "Scheme",
     "subtypes": [
