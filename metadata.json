@@ -298,7 +298,7 @@
       "Quick"
     ],
     "keywords": [],
-    "abilityText": "Until round end, give a chosen creation Colossal, then if it costs 5 or more, give it +5 vigor.",
+    "abilityText": "Until round end, give a chosen creation Colossal, then if it costs 5 or more, give it +5 vigor and add <blood>. (When you would take damage, you may have a creation with Colossal take that damage instead.)",
     "might": null,
     "vigor": null,
     "resources": [
@@ -382,7 +382,7 @@
     "keywords": [
       "Colossal"
     ],
-    "abilityText": "Colossal:\nWhen you would take damage, you may have me take that damage instead. When I attack normally, I can attack any lane.\n\nWhen I enter, if I usurped another creation, you may have me deal 10 damage to a chosen creation. If the usurped creation cost 5 or more, you may have me deal 5 damage to another chosen creation. Then, grant me one ability or trait from the usurped creation.",
+    "abilityText": "Colossal:\nWhen you would take damage, you may have me take that damage instead.\n\nWhen I attack normally, I can attack any frontline lane.\nWhen I enter, if I usurped another creation, you may have me deal 10 damage to a chosen creation. If the usurped creation cost 5 or more, you may have me deal 5 damage to another chosen creation. Then, grant me one ability or trait from the usurped creation.",
     "might": 5,
     "vigor": 5,
     "resources": [
@@ -427,9 +427,9 @@
     ],
     "keywords": [
       "Colossal",
-	  "Stalwart"
+	  "Defiant"
     ],
-    "abilityText": "Colossal:\nWhen you would take damage, you may have me take that damage instead. When I attack normally, I can attack any lane.\n\nStalwart:\nOpposing lifestitchers must pay an additional<blood>2 to choose me.",
+    "abilityText": "Colossal:\nWhen you would take damage, you may have me take that damage instead.\n\nDefiant:\nWhen I'm chosen by an opposing scheme or ability, draw a card.",
     "might": 4,
     "vigor": 4,
     "resources": [
@@ -452,9 +452,9 @@
     "keywords": [
       "Regenerator",
 	  "Colossal",
-	  "Stalwart"
+	  "Defiant"
     ],
-    "abilityText": "Regenerator:\nWhen my corpse is harvested, [<blood>1], and return me to a grave and I can't be harvested again until round end.\n\nColossal:\nWhen you would take damage, you may have me take that damage instead. When I attack normally, I can attack any lane.\n\nStalwart:\nOpposing lifestitchers must pay an additional <blood>2 to choose me.",
+    "abilityText": "Regenerator:\nWhen my corpse is harvested, [<blood>1], and return me to a grave and I can't be harvested again until round end.\n\nColossal:\nWhen you would take damage, you may have me take that damage instead.\n\nDefiant:\nWhen I'm chosen by an opposing scheme or ability, draw a card.",
     "might": 7,
     "vigor": 7,
     "resources": [
