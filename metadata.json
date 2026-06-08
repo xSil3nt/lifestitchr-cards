@@ -1113,7 +1113,7 @@
     "keywords": [
       "Ephemeral"
     ],
-    "abilityText": "Ephemeral:\nI turn to dust at round end.",
+    "abilityText": "Ephemeral:\nI turn to dust at round end.\nWhen I die, I turn to dust.",
     "might": 3,
     "vigor": 3,
     "resources": [
@@ -1338,7 +1338,7 @@
       "Shifty",
       "Ephemeral"
     ],
-    "abilityText": "Shifty:\nAt the start of combat, you may move me by 1 lane in either direction.\n\nEphemeral:\nI turn to dust at round end.",
+    "abilityText": "Shifty:\nAt the start of combat, you may move me by 1 lane in either direction.\n\nEphemeral:\nI turn to dust at round end.\nWhen I die, I turn to dust.",
     "might": 2,
     "vigor": 4,
     "resources": [
@@ -1742,7 +1742,7 @@
       "Quick"
     ],
     "keywords": [],
-    "abilityText": "Until round end, give a chosen creation Ephemeral and \"I can't attack this round. When I turn to dust, return me to your hand.\" (Creations with Ephemeral turn to dust at round end.)",
+    "abilityText": "Until round end, give a chosen creation Ephemeral and \"I can't attack this round. When I turn to dust, return me to your hand.\" (Creations with Ephemeral turn to dust at round end. If a creation with Ephemeral dies, it turns to dust.)",
     "might": null,
     "vigor": null,
     "resources": [
@@ -1787,7 +1787,7 @@
 	  "Cultist"
     ],
     "keywords": [],
-    "abilityText": "At the end of combat, [bury a creation from your field], and draw a card. If the buried creation had Ephemeral, return that creation to your hand.",
+    "abilityText": "At the end of combat, [bury a creation from your field], and draw a card. Then, if that creation had Ephemeral, you may have me attack a chosen frontline lane.",
     "might": 1,
     "vigor": 1,
     "resources": [
@@ -1835,7 +1835,7 @@
       "Cultist"
     ],
     "keywords": [],
-    "abilityText": "[Turn a creation from your field to dust]: If this is the first time this ability was used this round, add <soul><eye>. Choose a card name, then reveal the top card of your deck. If the revealed card is the named card, draw it.\nThis is a quick ability.",
+    "abilityText": "[Bury a creation from your field]:\nCreate a Puppet token with 1 might and 1 vigor. Then, if the buried creation had Ephemeral, grant all of your tokens +1 might and +1 vigor. This is a quick ability. Use only once each round.",
     "might": 2,
     "vigor": 2,
     "resources": [
