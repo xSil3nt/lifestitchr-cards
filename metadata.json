@@ -1137,7 +1137,7 @@
     "keywords": [
       "Blink"
     ],
-    "abilityText": "Blink:\nI can be played as though I was a quick scheme.\n\nWhen I enter opposing a creation, I deal 2 damage to the opposing lane. (I can damage support lanes.)",
+    "abilityText": "Blink:\nI can be played as though I was a quick scheme.\n\nWhen I enter opposing a creation, [remove 2 might and 1 vigor from me until round end,] and I deal 2 damage to the opposing lane. (I can damage support lanes.)",
     "might": 3,
     "vigor": 2,
     "resources": [
