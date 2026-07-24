@@ -1381,7 +1381,7 @@
       "Distortion"
     ],
     "keywords": [],
-    "abilityText": "As I enter, turn all of your other creations and corpses to dust, and grant me all original traits of everything turned to dust this way. Grant me +1 might and +1 vigor for each card turned to dust this way.\n[<eye>2 while I'm in your hand]:\nPut me onto the field.\nThis is a quick ability.",
+    "abilityText": "As I enter, turn all of your other creations and corpses to dust, and grant me all original traits of everything turned to dust this way. Grant me +1 might and +1 vigor for each card turned to dust this way.\n[<eye>1<blood>1 while I'm in your hand]:\nPut me onto the field unless the opposing lifestitcher pays <blood>2.\nThis is a quick ability.",
     "might": 1,
     "vigor": 1,
     "resources": [
