@@ -116,7 +116,7 @@
       "Abomination"
     ],
     "keywords": [],
-    "abilityText": "When one of your creations die in combat, you heal 1.",
+    "abilityText": "When I leave the field, you heal 1.",
     "might": 0,
     "vigor": 2,
     "resources": [
@@ -217,8 +217,8 @@
       "Beast"
     ],
     "keywords": [],
-    "abilityText": "",
-    "might": 1,
+    "abilityText": "Creations in the opposing lane get +1 might.",
+    "might": 2,
     "vigor": 1,
     "resources": [
       "Blood"
@@ -237,7 +237,7 @@
       "Quick Plot"
     ],
     "keywords": [],
-    "abilityText": "Plot this scheme. (In a grave or lane.)\nAt round start, if this scheme is plotted, [turn it to dust], and bury the top card of your corpse deck.",
+    "abilityText": "Plot this scheme. (In a grave or lane.)\nAt round start, if this scheme is plotted, [turn it to dust], and search your corpse deck for any Corpse card, bury it, then shuffle.",
     "might": null,
     "vigor": null,
     "resources": [
@@ -287,7 +287,7 @@
     "path": "Blood/Ashes to Ashes.png"
   },
   {
-    "name": "Colossal",
+    "name": "Growth",
     "artist": null,
     "id": "CS01-041/300 EN",
     "cost": {
@@ -298,13 +298,13 @@
       "Quick"
     ],
     "keywords": [],
-    "abilityText": "Until round end, give a chosen creation Colossal, then if it costs 5 or more, give it +5 vigor and add <blood>. (When you would take damage, you may have a creation with Colossal take that damage instead.)",
+    "abilityText": "Until round end, give a chosen creation Colossal, then if it costs 4 or more, give it +4 vigor and add <blood>. (When you would take damage, you may have a creation with Colossal take that damage instead.)",
     "might": null,
     "vigor": null,
     "resources": [
       "Blood"
     ],
-    "path": "Blood/Colossal.png"
+    "path": "Blood/Growth.png"
   },
   {
     "name": "Make a Stand",
@@ -539,7 +539,7 @@
 	  "Quick"
 	],
     "keywords": [],
-    "abilityText": "One of your creations attacks another chosen creation.",
+    "abilityText": "One of your creations attacks another chosen creation for 2 damage plus your creation's might.",
     "might": null,
     "vigor": null,
     "resources": [
@@ -677,7 +677,7 @@
       "Quick"
     ],
     "keywords": [],
-    "abilityText": "Prevent the next 4 damage that would be dealt to a chosen creation.",
+    "abilityText": "Prevent the next 2 damage that would be dealt to a chosen creation and give it +2 vigor until round end.",
     "might": null,
     "vigor": null,
     "resources": [
@@ -803,7 +803,7 @@
       "Stranger"
     ],
     "keywords": [],
-    "abilityText": "When you play a scheme, [it costs <brain> less to play], and grant me a debt counter. While you're in debt, your creations deal no damage when attacking normally. When I die, I attack you equal to your debt.\n[<blood>1]: Remove a debt counter. This is a quick ability.",
+    "abilityText": "When you play a scheme, [it costs <brain> less to play], and grant me a debt counter.\nWhile you're in debt, the opposing lifestitcher takes no damage from your creations attacking.\n[<blood>1]: Remove a debt counter. This is a quick ability.",
     "might": 0,
     "vigor": 1,
     "resources": [
@@ -894,7 +894,7 @@
     "keywords": [
 	  "Pristine"
 	],
-    "abilityText": "Pristine:\nWhen you harvest me, add one organ from my cost and one organ of any type.\n\nWhen I enter the field or a grave, you may deal 2 dmaage to a chosen creation.\n[<brain>1<blood>1]: Bury me from your hand.",
+    "abilityText": "Pristine:\nWhen you harvest me, add one organ from my cost and one organ of any type.\n\nWhen I enter the field or a grave, you may deal 1 dmaage to a chosen creation.\n[<brain>1<blood>1]: Bury me from your hand.",
     "might": 2,
     "vigor": 2,
     "resources": [
@@ -1025,7 +1025,7 @@
 	  "Quick"
 	],
     "keywords": [],
-    "abilityText": "Until round end, remove 2 might from a chosen creation, then give a chosen creation +2 might.",
+    "abilityText": "Until round end, give a chosen creation -2 might, then give a chosen creation +2 might.",
     "might": null,
     "vigor": null,
     "resources": [
@@ -1137,7 +1137,7 @@
     "keywords": [
       "Blink"
     ],
-    "abilityText": "Blink:\nI can be played as though I was a quick scheme.\n\nWhen I enter opposing a creation, [remove 2 might and 1 vigor from me until round end,] and I deal 2 damage to the opposing lane. (I can damage support lanes.)",
+    "abilityText": "Blink:\nI can be played as though I was a quick scheme.\n\nWhen I enter opposing a creation, [give me -2 might and -1 vigor until round end,] and I deal 2 damage to the opposing lane. (I can damage support lanes.)",
     "might": 3,
     "vigor": 2,
     "resources": [
@@ -1170,7 +1170,7 @@
     "path": "Soul/Reverie Agent.png"
   },
   {
-    "name": "Eminence",
+    "name": "Dimensional Weave",
     "artist": "eg",
     "id": "CS01-001/300 EN",
     "cost": {
@@ -1181,13 +1181,13 @@
 	  "Quick"
 	],
     "keywords": [],
-    "abilityText": "Until round end, Give a chosen creation +1 vigor, and an additional +1 vigor for each of its traits.",
+    "abilityText": "Plot one of your creations from your field in a grave. It gains \"At round start, put me onto the field.\"",
     "might": null,
     "vigor": null,
     "resources": [
       "Eye"
     ],
-    "path": "Eye/Eminence.png"
+    "path": "Eye/Dimensional Weave.png"
   },
   {
     "name": "Eye Collector",
@@ -1203,7 +1203,7 @@
       "Abomination"
     ],
     "keywords": [],
-    "abilityText": "When I enter and at round start, [<eye>1], and I attack a chosen creation for 1 damage.\nWhen I attack a creation, grant me all traits of that creation.",
+    "abilityText": "When I enter and at round start, [pay 1 life], and I attack a chosen creation for 1 damage.\nWhen I attack a creation, grant me all traits of that creation.",
     "might": 2,
     "vigor": 3,
     "resources": [
@@ -1439,7 +1439,7 @@
     "path": "Multi/Old Thornback.png"
   },
   {
-    "name": "Revolt",
+    "name": "Steadfast",
     "artist": "eg",
     "id": "CS01-071/300 EN",
     "cost": {
@@ -1451,14 +1451,14 @@
       "Quick"
     ],
     "keywords": [],
-    "abilityText": "Give a chosen creation Revolt until round end, then you may deal 1 damage to that creation. (You may have a creation with Revolt attack last in combat. It gets +1 might for every point of damage it's taken this round.)",
+    "abilityText": "Give a chosen creation Revolt until round end, then you may deal up to 2 damage to that creation. (You may have a creation with Revolt attack last in combat. It gets +1 might for every point of damage it's taken this round.)",
     "might": null,
     "vigor": null,
     "resources": [
       "Heart",
       "Brain"
     ],
-    "path": "Multi/Revolt.png"
+    "path": "Multi/Steadfast.png"
   },
   {
     "name": "Hermit Carrionshell",
@@ -1606,7 +1606,7 @@
     "path": "Multi/Stevens.png"
   },
   {
-    "name": "Blink",
+    "name": "Warp",
     "artist": null,
     "id": "CS01-101/300 EN",
     "cost": {
@@ -1625,7 +1625,7 @@
       "Brain",
       "Soul"
     ],
-    "path": "Multi/Blink.png"
+    "path": "Multi/Warp.png"
   },
   {
     "name": "Gamma Stingray",
@@ -1666,10 +1666,8 @@
       "Fiend",
       "Stranger"
     ],
-    "keywords": [
-      "Shifty"
-    ],
-    "abilityText": "Shifty:\nAt the start of combat, you may move me by 1 lane in either direction.\n\nWhen you play a card, if it isn't the main phase, I deal 1 damage to the opposing lane.\n(I can damage an empty lane, and I can damage support lanes.)",
+    "keywords": [],
+    "abilityText": "When you play a card or trigger one of your plots, if it isn't the main phase, I deal 1 damage to the opposing lane.\n(I can damage an empty lane, and I can damage support lanes.)",
     "might": 1,
     "vigor": 3,
     "resources": [
@@ -1720,7 +1718,7 @@
       "Soaring",
       "Sui Generis"
     ],
-    "abilityText": "Soaring; Sui Generis:\nWhen we enter, reveal your deck, turn all of your cards with the same name as us to dust, then shuffle.\n\nWhen we enter, you may plot a scheme that costs 3 or less from your hand. It gains \"At the start of combat, play me without paying my cost.\"\nWhen one of your schemes or creations would deal damage, if it isn't the main phase and you've played two or more cards this phase, it deals an additional 1 damage.",
+    "abilityText": "Soaring; Sui Generis:\nWhen we enter, reveal your deck, turn all of your cards with the same name as us to dust, then shuffle.\n\nWhen we enter, you may plot a scheme that costs 3 or less from your hand. It gains \"At the start of combat, play me without paying my cost.\"\nAll of your plotted cards trigger at the start of combat in addition to their normal conditions.",
     "might": 2,
     "vigor": 3,
     "resources": [
@@ -1730,7 +1728,7 @@
     "path": "Multi/Doctors Daz & Vykk.png"
   },
   {
-    "name": "Ephemeral",
+    "name": "Ghost",
     "artist": null,
     "id": "CS01-131/300 EN",
     "cost": {
@@ -1749,7 +1747,7 @@
       "Soul",
       "Eye"
     ],
-    "path": "Multi/Ephemeral.png"
+    "path": "Multi/Ghost.png"
   },
   {
     "name": "Razzle Dazzle",
@@ -1764,7 +1762,7 @@
       "Quick"
     ],
     "keywords": [],
-    "abilityText": "Return one of your chosen creations to your hand, then return another chosen creation to its owner's hand.",
+    "abilityText": "[Bury a creation from your hand]:\nReturn one of your chosen creations to your hand, then return another chosen creation to its owner's hand and its owner buries a card from their hand.",
     "might": null,
     "vigor": null,
     "resources": [
@@ -1783,11 +1781,12 @@
     },
     "type": "Creation",
     "subtypes": [
+	  "Humanoid",
       "Witness",
 	  "Cultist"
     ],
     "keywords": [],
-    "abilityText": "At the end of combat, [bury a creation from your field], and draw a card. Then, if that creation had Ephemeral, you may have me attack a chosen frontline lane.",
+    "abilityText": "At the end of combat, [bury a creation from your field], and draw a card. Then, if that creation had Ephemeral, you may return it to your hand.",
     "might": 1,
     "vigor": 1,
     "resources": [
@@ -1803,17 +1802,20 @@
     "cost": {
       "Soul": 1,
       "Eye": 1
+	  "Blood": 1
     },
     "type": "Creation",
     "subtypes": [
       "Humanoid",
-	  "Cultist",
-	  "Witness"
+	  "Witness",
+	  "Cultist"
     ],
-    "keywords": [],
-    "abilityText": "When one of your creations or an opposing creation leaves the field, grant me +1 might and +1 vigor.\nWhen I enter, [bury a creation from your field], and draw a card.",
-    "might": 1,
-    "vigor": 1,
+    "keywords": [
+	  "Shifty"
+	],
+    "abilityText": "Shifty:\nAt the start of combat, you may move me by 1 lane in either direction.\n\nWhen one of your creations or an opposing creation leaves the field, if I'm in a support lane, grant me +1 might and +1 vigor.\nWhen I enter, [bury a creation from your field], and draw a card.",
+    "might": 0,
+    "vigor": 2,
     "resources": [
       "Soul",
       "Eye"
@@ -1871,7 +1873,7 @@
     "path": "Multi/Motley Circus Ringleader.png"
   },
   {
-    "name": "Landripper",
+    "name": "Coral Mother",
     "artist": "uwais",
     "id": "CS01-161/300 EN",
     "cost": {
@@ -1885,19 +1887,19 @@
       "Beast"
     ],
     "keywords": [
-	  "Rampage"
+	  "Vampiric"
 	],
-    "abilityText": "Rampage:\nWhen I deal overkill damage, you may have me attack a chosen creation for that much damage instead. I can deal overkill damage this way.",
+    "abilityText": "Vampiric:\nWhen I deal damage, you heal by that much if you've lost life this round.",
     "might": 3,
     "vigor": 2,
     "resources": [
       "Eye",
       "Heart"
     ],
-    "path": "Multi/Landripper.png"
+    "path": "Multi/Coral Mother.png"
   },
   {
-    "name": "Rampage",
+    "name": "Bloodthirst",
     "artist": null,
     "id": "CS01-161/300 EN",
     "cost": {
@@ -1909,14 +1911,14 @@
       "Quick"
     ],
     "keywords": [],
-    "abilityText": "Until round end, give a chosen creation Rampage and \"Creations in the opposing lane have 1 vigor. When they die, the opposing lifestitcher doesn't take overkill damage.\" (When a creation with Rampage deals overkill damage, you may have that creation attack a chosen creation for that much damage instead. It can deal overkill damage this way.)",
+    "abilityText": "[Pay 1 life]:\nGive a chosen creation Vampiric until round end. (When a creation with Vampiric deals damage, you heal by that much if you've lost life this turn.)",
     "might": null,
     "vigor": null,
     "resources": [
       "Eye",
       "Heart"
     ],
-    "path": "Multi/Rampage.png"
+    "path": "Multi/Bloodthirst.png"
   },
   {
     "name": "Idol of the Red Tide",
@@ -1932,7 +1934,7 @@
       "Distortion"
     ],
     "keywords": [],
-    "abilityText": "When any of your creations attack, I deal 1 damage to all lanes and creations that creation is attacking.\n(Creations with 0 might can still attack in combat.)",
+    "abilityText": "When you lose life, I attack a chosen creation for 1 damage.\n[Pay 1 life]:Give me Lord until round end. Use only once each round. (Creations to the left and right of creations with Lord get +1 might and +1 vigor.)",
     "might": 0,
     "vigor": 1,
     "resources": [
@@ -1947,15 +1949,14 @@
     "id": "CS01-162/300 EN",
     "cost": {
       "Heart": 1,
-      "Eye": 1,
-	  "Blood": 1
+      "Eye": 1
     },
     "type": "Scheme",
     "subtypes": [
       "Meticulous"
     ],
     "keywords": [],
-    "abilityText": "Start an additional combat phase, except only two chosen creations whose lanes oppose each other participate. Creations can't deal overkill damage during that combat. (Then the main phase resumes.)",
+    "abilityText": "Start an additional combat phase, except only two chosen creations whose lanes oppose each other participate. Your creations can't deal overkill damage during that combat. (Then the main phase resumes.)",
     "might": null,
     "vigor": null,
     "resources": [
@@ -1965,7 +1966,7 @@
     "path": "Multi/Duel at the Shoreline.png"
   },
   {
-    "name": "Warfare Alliance",
+    "name": "Sanguine Alliance",
     "artist": null,
     "id": "CS01-252/300 EN",
     "cost": {
@@ -1977,22 +1978,22 @@
       "Quick"
     ],
     "keywords": [],
-    "abilityText": "Until round end, whenever one or more creations attack, look at that many cards from the top of your deck, and you may put any number of them on the top or bottom in any order. Then, if you've looked at five or more cards this way this round, draw two cards.",
+    "abilityText": "Until round end, whenever you lose health, look at that many cards from the top of your deck, and you may put any number of them on the top or bottom in any order. Then, if you've looked at five or more cards this way this round, draw two cards.",
     "might": null,
     "vigor": null,
     "resources": [
       "Eye",
       "Heart"
     ],
-    "path": "Multi/Warfare Alliance.png"
+    "path": "Multi/Sanguine Alliance.png"
   },
   {
     "name": "Abyssal Blade Khtllith",
     "artist": "uwais + Sachiel",
     "id": "CS01-164/300 EN",
     "cost": {
-      "Eye": 2,
-      "Heart": 2,
+      "Eye": 1,
+      "Heart": 1,
       "Blood": 1
     },
     "type": "Creation?",
@@ -2004,7 +2005,7 @@
     "keywords": [
       "Sui Generis"
     ],
-    "abilityText": "Sui Generis:\nWhen I enter, reveal your deck, turn all of your cards with the same name as me to dust, then shuffle.\n\nWhen I enter, start an additional combat phase. (Then the main phase resumes.)\nWhen I attack, give me Lord until round end. (Multiple instances of Lord stack.)\n[<blood>1]: I attack a chosen creation for 1 damage. This is a quick ability. Activate only once each round.",
+    "abilityText": "Sui Generis:\nWhen I enter, reveal your deck, turn all of your cards with the same name as me to dust, then shuffle.\n\nI cost <blood>1 more for every 2 points of life you have.\nWhen I enter, start an additional combat phase. Your creations get Vampiric during that combat phase. (Then the main phase resumes.)",
     "might": 3,
     "vigor": 3,
     "resources": [
@@ -2039,7 +2040,7 @@
     "path": "Multi/Coda Merumana.png"
   },
   {
-    "name": "Unite",
+    "name": "Unify",
     "artist": null,
     "id": "CS01-191/300 EN",
     "cost": {
@@ -2058,7 +2059,7 @@
       "Heart",
 	  "Soul"
     ],
-    "path": "Multi/Unite.png"
+    "path": "Multi/Unify.png"
   },
   {
     "name": "Coda Sterbaro",
@@ -2187,7 +2188,7 @@
     "path": "Multi/Terror in the Ice.png"
   },
   {
-    "name": "Frozen",
+    "name": "Glaciate",
     "artist": null,
     "id": "CS01-221/300 EN",
     "cost": {
@@ -2206,7 +2207,7 @@
       "Brain",
 	  "Eye"
     ],
-    "path": "Multi/Frozen.png"
+    "path": "Multi/Glaciate.png"
   },
   {
     "name": "Enforcer of Eternity",
@@ -2223,7 +2224,7 @@
 	  "Automaton"
     ],
     "keywords": [],
-    "abilityText": "When one of your schemes choose another creation, you may give that creation Frozen until round end. (Creations with Frozen have no other abilities, traits, nor might, and have \"[Turn a card from your hand to dust and pay my cost]: Permanently remove Frozen from me.\")\nWhen a creation loses frozen, you heal 1 and I move to oppose it.",
+    "abilityText": "At round start, grant Frozen to the creation in the opposing lane, then I move 1 lane in either direction. (Creations with Frozen have no other abilities, traits, nor might, and have \"[Turn a card from your hand to dust and pay my cost]: Permanently remove Frozen from me.\")\nWhen a creation loses frozen, you heal 1 and I move to oppose it.",
     "might": 2,
     "vigor": 5,
     "resources": [
@@ -2296,7 +2297,7 @@
 	  "Neurotic Strength",
 	  "Sui Generis"
 	],
-    "abilityText": "Neurotic Strength:\nI get +1 might for every 4 of your nontoken dusted cards.\n\nSui Generis:\nWhen I enter, reveal your deck, turn all of your cards with the same name as me to dust, then shuffle.\n\nI can't deal damage to lifestitchers.\n[Turn a card from your hand to dust]: Choose a dusted scheme. If that scheme's cost is less than or equal to my might, play that scheme without paying its cost. Use only once each round.",
+    "abilityText": "Neurotic Strength:\nI get +1 might for every 4 of your nontoken dusted cards.\n\nSui Generis:\nWhen I enter, reveal your deck, turn all of your cards with the same name as me to dust, then shuffle.\n\nI can only be played to support lanes.\n[Turn a card from your hand to dust]: Choose a dusted scheme. If that scheme's cost is less than or equal to my might, play that scheme without paying its cost. Use only once each round.",
     "might": 0,
     "vigor": 4,
     "resources": [
