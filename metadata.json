@@ -405,7 +405,7 @@
     "keywords": [
       "Sui Generis"
     ],
-    "abilityText": "Sui Generis:\nWhen I enter, reveal your deck, turn all of your cards with the same name as me to dust, then shuffle.\n\nWhen I enter, two chosen lifestitchers reveal the top ten cards of their deck. Grant me all abilities and traits of five chosen cards revealed this way. Then each lifestitcher shuffles.",
+    "abilityText": "Sui Generis:\nWhen I enter, reveal your deck, turn all of your cards with the same name as me to dust, then shuffle.\n\nAs I enter, two chosen lifestitchers reveal the top five cards of their deck. Grant me all abilities and traits of three chosen cards revealed this way. Then each lifestitcher shuffles.",
     "might": 3,
     "vigor": 3,
     "resources": [
