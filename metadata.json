@@ -686,6 +686,52 @@
     "path": "Heart/Indomitable Forte.png"
   },
   {
+    "name": "Aegis Familiar",
+    "artist": null,
+    "id": "CS01-251/300 EN",
+    "cost": {
+      "Heart": 1,
+	  "Blood": 1
+    },
+    "type": "Creation",
+    "subtypes": [
+      "Feline",
+	  "Beast"
+    ],
+    "keywords": [],
+    "abilityText": "At round start, if I'm in a frontline lane, add <heart>.",
+    "might": 0,
+    "vigor": 3,
+    "resources": [
+      "Heart"
+    ],
+    "path": "Heart/Aegis Familiar.png"
+  },
+  {
+    "name": "The Hunted",
+    "artist": null,
+    "id": "CS01-002/300 EN",
+    "cost": {
+      "Heart": 1,
+	  "Blood": 2
+    },
+    "type": "Creation",
+    "subtypes": [
+      "Cervine",
+	  "Beast"
+    ],
+    "keywords": [
+	  "Shifty"
+	],
+    "abilityText": "Shifty:\nAt the start of combat, you may move me by 1 lane in either direction.\n\nWhen a scheme or ability would choose another creation, that scheme or ability instead chooses me.",
+    "might": 1,
+    "vigor": 3,
+    "resources": [
+      "Heart"
+    ],
+    "path": "Heart/The Hunted.png"
+  },
+  {
     "name": "Brain Blast",
     "artist": "whenlifegivesticks",
     "id": "CS01-101/300 EN",
@@ -923,6 +969,30 @@
       "Brain"
     ],
     "path": "Brain/Trawl the Minds.png"
+  },
+  {
+    "name": "Accel Familiar",
+    "artist": null,
+    "id": "CS01-251/300 EN",
+    "cost": {
+      "Brain": 1,
+	  "Blood": 1
+    },
+    "type": "Creation",
+    "subtypes": [
+      "Feline",
+	  "Stranger"
+    ],
+    "keywords": [
+	  "Blink"
+	],
+    "abilityText": "Blink\n:I can be played as though I was a quick scheme.\n\nAt round start, if I'm in a support lane, add <brain>.",
+    "might": 0,
+    "vigor": 1,
+    "resources": [
+      "Brain"
+    ],
+    "path": "Brain/Accel Familiar.png"
   },
   {
     "name": "Bearer of the Banner",
@@ -1170,6 +1240,28 @@
     "path": "Soul/Reverie Agent.png"
   },
   {
+    "name": "Anima Familiar",
+    "artist": null,
+    "id": "CS01-251/300 EN",
+    "cost": {
+      "Soul": 1,
+	  "Blood": 1
+    },
+    "type": "Creation",
+    "subtypes": [
+      "Feline",
+	  "Fiend"
+    ],
+    "keywords": [],
+    "abilityText": "At round start, if I'm in a support lane, add <soul>.\nIf I'm in a support lane, your creations to my left and right gets might equal to mine.",
+    "might": 0,
+    "vigor": 1,
+    "resources": [
+      "Soul"
+    ],
+    "path": "Soul/Anima Familiar.png"
+  },
+  {
     "name": "Dimensional Weave",
     "artist": "eg",
     "id": "CS01-001/300 EN",
@@ -1411,6 +1503,54 @@
       "Eye"
     ],
     "path": "Eye/Vigil Horizon.png"
+  },
+  {
+    "name": "Aura Familiar",
+    "artist": null,
+    "id": "CS01-251/300 EN",
+    "cost": {
+      "Eye": 1,
+	  "Blood": 1
+    },
+    "type": "Creation",
+    "subtypes": [
+      "Feline",
+	  "Distortion"
+    ],
+    "keywords": [
+	  "Soaring"
+	],
+    "abilityText": "Soaring:\nWhen I attack normally, [halve my might rounded down until round end], and I deal that much damage directly to the defending lifestitcher.\n\nAt round start, if I'm in a support lane, add <eye> for each trait I have.",
+    "might": 0,
+    "vigor": 1,
+    "resources": [
+      "Eye"
+    ],
+    "path": "Eye/Anima Familiar.png"
+  },
+  {
+    "name": "Visionary Agent",
+    "artist": null,
+    "id": "CS01-251/300 EN",
+    "cost": {
+      "Eye": 2,
+      "Blood": 2
+    },
+    "type": "Creation",
+    "subtypes": [
+      "Distortion",
+      "Valet"
+    ],
+    "keywords": [
+      "Pristine"
+    ],
+    "abilityText": "Pristine:\nWhen you harvest me, add one organ from my cost and one organ of any type.\n\nWhen I enter the field or a grave, you may look at the top two cards of your deck. Turn any number of them to dust, and put the rest back on top in any order.\n[<eye>1<blood>1]: Bury me from your hand.",
+    "might": 2,
+    "vigor": 2,
+    "resources": [
+      "Eye"
+    ],
+    "path": "Eye/Visionary Agent.png"
   },
   {
     "name": "Old Thornback",
