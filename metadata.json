@@ -475,13 +475,53 @@
 	  "Abomination"
     ],
     "keywords": [],
-    "abilityText": "When I enter, I deal 3 damage to one of your creations.",
+    "abilityText": "When I enter, I deal 3 damage to one of your creations. Overkill damage dealt to that creation is dealt to you.",
     "might": 3,
     "vigor": 3,
     "resources": [
       "Blood"
     ],
     "path": "Blood/Wrath Augur.png"
+  },
+  {
+    "name": "Ominous Prelude",
+    "artist": null,
+    "id": "CS01-101/300 EN",
+    "cost": {
+      "Blood": 2
+    },
+    "type": "Scheme",
+    "subtypes": [
+      "Quick"
+    ],
+    "keywords": [],
+    "abilityText": "Plot a card from your hand that costs 3 or less. It gains \"At round start, play this card without paying its cost.\"",
+    "might": null,
+    "vigor": null,
+    "resources": [
+      "Blood"
+    ],
+    "path": "Blood/Ominous Prelude.png"
+  },
+  {
+    "name": "Reroute",
+    "artist": null,
+    "id": "CS01-101/300 EN",
+    "cost": {
+      "Blood": 2
+    },
+    "type": "Scheme",
+    "subtypes": [
+      "Meticulous"
+    ],
+    "keywords": [],
+    "abilityText": "[Pay 1 life]:\nA chosen lane becomes a frontline lane or a support lane until round end. (The connected opposing lanes are also affected this way. Creations in support lanes can't attack normally in combat.)",
+    "might": null,
+    "vigor": null,
+    "resources": [
+      "Blood"
+    ],
+    "path": "Blood/Reroute.png"
   },
   {
     "name": "Ambush",
@@ -1392,6 +1432,73 @@
     "path": "Soul/Anima Familiar.png"
   },
   {
+    "name": "Cosmoworm",
+    "artist": null,
+    "id": "CS01-101/300 EN",
+    "cost": {
+      "Soul": 1,
+	  "Blood": 1
+    },
+    "type": "Creation",
+    "subtypes": [
+      "Beast",
+	  "Stranger",
+	  "Distortion"
+    ],
+    "keywords": [],
+    "abilityText": "When I enter, if my cost wasn't paid, grant +1 might and +1 vigor to another chosen creation.\n[<soul>2<blood>1 while I'm in your hand]:\nPlot this creation. At round start, play me without paying my cost.",
+    "might": 1,
+    "vigor": 1,
+    "resources": [
+      "Soul"
+    ],
+    "path": "Soul/Cosmoworm.png"
+  },
+  {
+    "name": "Vastgate Apparitions",
+    "artist": null,
+    "id": "CS01-102/300 EN",
+    "cost": {
+      "Soul": 2,
+	  "Blood": 1
+    },
+    "type": "Creation",
+    "subtypes": [
+      "Fiend",
+	  "Stranger"
+    ],
+    "keywords": [],
+    "abilityText": "When we enter, if our cost was paid, [plot one of your creations], then choose another creation. That creation's owner plots it. All creations plotted this way have \"At round start, play me without paying my cost.\" (You can only plot creations from the field this way.)",
+    "might": 1,
+    "vigor": 1,
+    "resources": [
+      "Soul"
+    ],
+    "path": "Soul/Vastgate Apparitions.png"
+  },
+  {
+    "name": "Bodysnatcher",
+    "artist": null,
+    "id": "CS01-103/300 EN",
+    "cost": {
+      "Soul": 2
+    },
+    "type": "Creation",
+    "subtypes": [
+      "Fiend"
+    ],
+    "keywords": [
+	  "Vantage Point"
+	],
+    "abilityText": "Vantage Point:\nWhile I'm in a support lane, I can attack normally. when I do, choose a frontline lane for me to attack.\n\nUp to one other card can be placed in the same lane as me. If there is, I get +2 might. If that card is a creation, it has no abilities nor traits. (Choosing or attacking a lane, and not a specific card in that lane, affects all cards in that lane.)",
+    "might": 0,
+    "vigor": 1,
+    "resources": [
+      "Soul"
+    ],
+    "path": "Soul/Bodysnatcher.png"
+  },
+  {
     "name": "Dimensional Weave",
     "artist": "eg",
     "id": "CS01-001/300 EN",
@@ -1765,8 +1872,10 @@
     },
     "type": "Creation",
     "subtypes": [
-      "Humanoid",
-      "Stranger"
+      "Stranger",
+      "&",
+	  "Reptilian",
+	  "Beast"
     ],
     "keywords": [],
     "abilityText": "Your creations attack last in combat. (Including myself.)\nWhen one of your creations is dealt damage, you may have its base might become equal to its vigor until round end.",
@@ -1964,7 +2073,7 @@
       "Stranger"
     ],
     "keywords": [],
-    "abilityText": "When you play a card or trigger one of your plots, if it isn't the main phase, I deal 1 damage to the opposing lane.\n(I can damage an empty lane, and I can damage support lanes.)",
+    "abilityText": "When you play a card or trigger one of your plotted cards, if it isn't the main phase, I deal 1 damage to the opposing lane.\n(I can damage an empty lane, and I can damage support lanes.)",
     "might": 1,
     "vigor": 3,
     "resources": [
@@ -2023,6 +2132,28 @@
       "Soul"
     ],
     "path": "Multi/Doctors Daz & Vykk.png"
+  },
+  {
+    "name": "Expedite",
+    "artist": null,
+    "id": "CS01-102/300 EN",
+    "cost": {
+      "Brain": 1,
+      "Soul": 1
+    },
+    "type": "Scheme",
+    "subtypes": [
+      "Quick"
+    ],
+    "keywords": [],
+    "abilityText": "Trigger one of your plotted cards. (You may activate its effects as though its condition was fulfilled.)\nAdd <brain><soul>.",
+    "might": null,
+    "vigor": null,
+    "resources": [
+      "Brain",
+      "Soul"
+    ],
+    "path": "Multi/Expedite.png"
   },
   {
     "name": "Ghost",
