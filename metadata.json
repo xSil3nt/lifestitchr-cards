@@ -298,7 +298,7 @@
       "Quick"
     ],
     "keywords": [],
-    "abilityText": "Until round end, give a chosen creation Colossal, then if it costs 4 or more, give it +4 vigor and add <blood>. (When you would take damage, you may have a creation with Colossal take that damage instead.)",
+    "abilityText": "Until round end, give a chosen creation Colossal, then if it costs 4 or more, give it +4 vigor and add <blood>. (You may only have one creation with Colossal on your field. When you would take damage, the creation with Colossal takes that damage instead.)",
     "might": null,
     "vigor": null,
     "resources": [
@@ -382,7 +382,7 @@
     "keywords": [
       "Colossal"
     ],
-    "abilityText": "Colossal:\nWhen you would take damage, you may have me take that damage instead.\n\nWhen I attack normally, I can attack any frontline lane.\nWhen I enter, if I usurped another creation, you may have me deal 10 damage to a chosen creation. If the usurped creation cost 5 or more, you may have me deal 5 damage to another chosen creation. Then, grant me one ability or trait from the usurped creation.",
+    "abilityText": "Colossal:\nYou may only have one creation with Colossal on your field. When you would take damage, I take that damage instead.\n\nWhen I would attack normally, you may have me attack any frontline lane.\nWhen I enter, if I usurped another creation, you may have me deal 10 damage to a chosen creation. This ability can be responded to with Quick effects.",
     "might": 5,
     "vigor": 5,
     "resources": [
@@ -429,7 +429,7 @@
       "Colossal",
 	  "Defiant"
     ],
-    "abilityText": "Colossal:\nWhen you would take damage, you may have me take that damage instead.\n\nDefiant:\nWhen I'm chosen by an opposing scheme or ability, draw a card.",
+    "abilityText": "Colossal:\nYou may only have one creation with Colossal on your field. When you would take damage, I take that damage instead.\n\nDefiant:\nWhen I'm chosen by an opposing scheme or ability, draw a card.",
     "might": 4,
     "vigor": 4,
     "resources": [
@@ -454,7 +454,7 @@
 	  "Colossal",
 	  "Defiant"
     ],
-    "abilityText": "Regenerator:\nWhen my corpse is harvested, [<blood>1], and return me to a grave and I can't be harvested again until round end.\n\nColossal:\nWhen you would take damage, you may have me take that damage instead.\n\nDefiant:\nWhen I'm chosen by an opposing scheme or ability, draw a card.",
+    "abilityText": "Regenerator:\nWhen my corpse is harvested, [<blood>1], and return me to a grave and I can't be harvested again until round end.\n\nColossal:\nYou may only have one creation with Colossal on your field. When you would take damage, I take that damage instead.\n\nDefiant:\nWhen I'm chosen by an opposing scheme or ability, draw a card.",
     "might": 7,
     "vigor": 7,
     "resources": [
