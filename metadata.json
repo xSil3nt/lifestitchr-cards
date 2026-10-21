@@ -2190,7 +2190,7 @@
       "Quick"
     ],
     "keywords": [],
-    "abilityText": "[Bury a creation from your hand]:\nReturn one of your chosen creations to your hand, then return another chosen creation to its owner's hand and its owner buries a card from their hand.",
+    "abilityText": "[Bury a creation from your hand]:\nReturn one of your chosen creations to your hand, then all opposing lifestitchers return a creation from thier field to their hand. Then, they may bury a card from their hand.",
     "might": null,
     "vigor": null,
     "resources": [
