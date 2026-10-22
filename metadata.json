@@ -1895,6 +1895,7 @@
       "Heart",
       "Brain"
     ],
+	"rarity": "Common",
     "path": "Multi/Old Thornback.png"
   },
   {
@@ -1917,6 +1918,7 @@
       "Heart",
       "Brain"
     ],
+	"rarity": "Common",
     "path": "Multi/Steadfast.png"
   },
   {
@@ -1941,6 +1943,7 @@
       "Heart",
       "Brain"
     ],
+	"rarity": "Common",
     "path": "Multi/Hermit Carrionshell.png"
   },
   {
@@ -1967,6 +1970,7 @@
       "Heart",
       "Brain"
     ],
+	"rarity": "Peculiar",
     "path": "Multi/Vitaleum Phalanx.png"
   },
   {
@@ -1990,6 +1994,7 @@
       "Heart",
       "Brain"
     ],
+	"rarity": "Peculiar",
     "path": "Multi/Charismatic Orator.png"
   },
   {
@@ -2013,6 +2018,7 @@
       "Heart",
       "Brain"
     ],
+	"rarity": "Exceptional",
     "path": "Multi/Mass Retribution.png"
   },
   {
@@ -2040,6 +2046,7 @@
       "Heart",
       "Brain"
     ],
+	"rarity": "Ingenious",
     "path": "Multi/Ego Vitaleum.png"
   },
   {
@@ -2067,6 +2074,7 @@
       "Heart",
       "Brain"
     ],
+	"rarity": "Exceptional",
     "path": "Multi/Volatile Snapper.png"
   },
   {
@@ -2091,6 +2099,7 @@
       "Brain",
       "Soul"
     ],
+	"rarity": "Common",
     "path": "Multi/Stevens.png"
   },
   {
@@ -2113,6 +2122,7 @@
       "Brain",
       "Soul"
     ],
+	"rarity": "Common",
     "path": "Multi/Warp.png"
   },
   {
@@ -2138,6 +2148,7 @@
       "Brain",
       "Soul"
     ],
+	"rarity": "Common",
     "path": "Multi/Gamma Stingray.png"
   },
   {
@@ -2162,6 +2173,7 @@
       "Brain",
       "Soul"
     ],
+	"rarity": "Peculiar",
     "path": "Multi/Hyperion Surgemaster.png"
   },
   {
@@ -2185,6 +2197,7 @@
       "Brain",
       "Soul"
     ],
+	"rarity": "Exceptional",
     "path": "Multi/Terra Sunder.png"
   },
   {
@@ -2213,6 +2226,7 @@
       "Brain",
       "Soul"
     ],
+	"rarity": "Ingenious",
     "path": "Multi/Doctors Daz & Vykk.png"
   },
   {
@@ -2235,6 +2249,7 @@
       "Brain",
       "Soul"
     ],
+	"rarity": "Peculiar",
     "path": "Multi/Expedite.png"
   },
   {
@@ -2257,6 +2272,7 @@
       "Soul",
       "Eye"
     ],
+	"rarity": "Common",
     "path": "Multi/Ghost.png"
   },
   {
@@ -2279,6 +2295,7 @@
       "Soul",
       "Eye"
     ],
+	"rarity": "Common",
     "path": "Multi/Razzle Dazzle.png"
   },
   {
@@ -2303,6 +2320,7 @@
       "Soul",
       "Eye"
     ],
+	"rarity": "Peculiar",
     "path": "Multi/Motley Troupe Juggler.png"
   },
   {
@@ -2330,6 +2348,7 @@
       "Soul",
       "Eye"
     ],
+	"rarity": "Peculiar",
     "path": "Multi/Bottom of the Barrel.png"
   },
   {
@@ -2354,6 +2373,7 @@
       "Soul",
       "Eye"
     ],
+	"rarity": "Exceptional",
     "path": "Multi/Grim Conductor.png"
   },
   {
@@ -2380,6 +2400,7 @@
       "Soul",
       "Eye"
     ],
+	"rarity": "Ingenious",
     "path": "Multi/Motley Circus Ringleader.png"
   },
   {
@@ -2406,6 +2427,7 @@
       "Eye",
       "Heart"
     ],
+	"rarity": "Common",
     "path": "Multi/Coral Mother.png"
   },
   {
@@ -2428,6 +2450,7 @@
       "Eye",
       "Heart"
     ],
+	"rarity": "Common",
     "path": "Multi/Bloodthirst.png"
   },
   {
@@ -2451,6 +2474,7 @@
       "Eye",
       "Heart"
     ],
+	"rarity": "Peculiar",
     "path": "Multi/Idol of the Red Tide.png"
   },
   {
@@ -2473,6 +2497,7 @@
       "Eye",
       "Heart"
     ],
+	"rarity": "Peculiar",
     "path": "Multi/Duel at the Shoreline.png"
   },
   {
@@ -2495,6 +2520,7 @@
       "Eye",
       "Heart"
     ],
+	"rarity": "Peculiar",
     "path": "Multi/Sanguine Alliance.png"
   },
   {
@@ -2522,6 +2548,7 @@
       "Eye",
       "Heart"
     ],
+	"rarity": "Ingenious",
     "path": "Multi/Abyssal Blade Khtllith.png"
   },
   {
@@ -2547,6 +2574,7 @@
       "Heart",
 	  "Soul"
     ],
+	"rarity": "Common",
     "path": "Multi/Coda Merumana.png"
   },
   {
@@ -2569,6 +2597,7 @@
       "Heart",
 	  "Soul"
     ],
+	"rarity": "Common",
     "path": "Multi/Unify.png"
   },
   {
@@ -2595,6 +2624,7 @@
       "Heart",
 	  "Soul"
     ],
+	"rarity": "Peculiar",
     "path": "Multi/Coda Sterbaro.png"
   },
   {
@@ -2619,6 +2649,7 @@
       "Heart",
 	  "Soul"
     ],
+	"rarity": "Peculiar",
     "path": "Multi/Crescendo Aspirant.png"
   },
   {
@@ -2643,6 +2674,7 @@
       "Heart",
 	  "Soul"
     ],
+	"rarity": "Exceptional",
     "path": "Multi/Dance as One.png"
   },
   {
@@ -2670,6 +2702,7 @@
       "Heart",
 	  "Soul"
     ],
+	"rarity": "Ingenious",
     "path": "Multi/The Grand Orchestra.png"
   },
   {
@@ -2695,6 +2728,7 @@
       "Brain",
 	  "Eye"
     ],
+	"rarity": "Common",
     "path": "Multi/Terror in the Ice.png"
   },
   {
@@ -2717,6 +2751,7 @@
       "Brain",
 	  "Eye"
     ],
+	"rarity": "Common",
     "path": "Multi/Glaciate.png"
   },
   {
@@ -2741,6 +2776,7 @@
       "Brain",
 	  "Eye"
     ],
+	"rarity": "Peculiar",
     "path": "Multi/Enforcer of Eternity.png"
   },
   {
@@ -2763,6 +2799,7 @@
       "Brain",
 	  "Eye"
     ],
+	"rarity": "Peculiar",
     "path": "Multi/Omit.png"
   },
   {
@@ -2788,6 +2825,7 @@
       "Brain",
 	  "Eye"
     ],
+	"rarity": "Exceptional",
     "path": "Multi/Doomsday Herald.png"
   },
   {
@@ -2814,6 +2852,7 @@
       "Brain",
 	  "Eye"
     ],
+	"rarity": "Ingenious",
     "path": "Multi/Archseer Ethera.png"
   },
   {
@@ -2837,6 +2876,7 @@
     "resources": [
       "Blood"
     ],
+	"rarity": "Peculiar",
     "path": "Multi/Elite Servant.png"
   },
   {
@@ -2863,6 +2903,7 @@
 	  "Soul",
 	  "Eye"
     ],
+	"rarity": "Exceptional",
     "path": "Multi/Driver of the Dead.png"
   },
   {
@@ -2892,6 +2933,7 @@
 	  "Soul",
 	  "Eye"
     ],
+	"rarity": "Ingenious",
     "path": "Multi/Leona Regulus, Omniarch.png"
   },
   {
