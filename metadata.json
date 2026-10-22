@@ -567,6 +567,7 @@
     "resources": [
       "Heart"
     ],
+	"rarity": "Peculiar",
     "path": "Heart/Ambush.png"
   },
   {
@@ -588,6 +589,7 @@
     "resources": [
       "Heart"
     ],
+	"rarity": "Peculiar",
     "path": "Heart/Gravesworn Brawler.png"
   },
   {
@@ -611,6 +613,7 @@
     "resources": [
       "Heart"
     ],
+	"rarity": "Common",
     "path": "Heart/Lycanhead.png"
   },
   {
@@ -631,6 +634,7 @@
     "resources": [
       "Heart"
     ],
+	"rarity": "Common",
     "path": "Heart/Rabid Hunt.png"
   },
   {
@@ -656,6 +660,7 @@
     "resources": [
       "Heart"
     ],
+	"rarity": "Peculiar",
     "path": "Heart/Sky Tyrant.png"
   },
   {
@@ -677,6 +682,7 @@
     "resources": [
       "Heart"
     ],
+	"rarity": "Common",
     "path": "Heart/Ursa Major.png"
   },
   {
@@ -701,6 +707,7 @@
     "resources": [
       "Heart"
     ],
+	"rarity": "Common",
     "path": "Heart/Venerable Alpha.png"
   },
   {
@@ -725,6 +732,7 @@
     "resources": [
       "Heart"
     ],
+	"rarity": "Common",
     "path": "Heart/Wapiti.png"
   },
   {
@@ -749,6 +757,7 @@
     "resources": [
       "Heart"
     ],
+	"rarity": "Common",
     "path": "Heart/Cornucopia Agent.png"
   },
   {
@@ -769,6 +778,7 @@
     "resources": [
       "Heart"
     ],
+	"rarity": "Common",
     "path": "Heart/Indomitable Forte.png"
   },
   {
@@ -791,6 +801,7 @@
     "resources": [
       "Heart"
     ],
+	"rarity": "Common",
     "path": "Heart/Aegis Familiar.png"
   },
   {
@@ -815,6 +826,7 @@
     "resources": [
       "Heart"
     ],
+	"rarity": "Peculiar",
     "path": "Heart/The Hunted.png"
   },
   {
@@ -838,6 +850,7 @@
     "resources": [
       "Heart"
     ],
+	"rarity": "Common",
     "path": "Heart/Centaurtle.png"
   },
   {
@@ -858,6 +871,7 @@
     "resources": [
       "Heart"
     ],
+	"rarity": "Common",
     "path": "Heart/Shell Bash.png"
   },
   {
@@ -878,6 +892,7 @@
     "resources": [
       "Brain"
     ],
+	"rarity": "Common",
     "path": "Brain/Brain Blast.png"
   },
   {
@@ -898,6 +913,7 @@
     "resources": [
       "Brain"
     ],
+	"rarity": "Exceptional",
     "path": "Brain/Cruel Ruin.png"
   },
   {
@@ -922,6 +938,7 @@
     "resources": [
       "Brain"
     ],
+	"rarity": "Common",
     "path": "Brain/Defense Engineer.png"
   },
   {
@@ -942,6 +959,7 @@
     "resources": [
       "Brain"
     ],
+	"rarity": "Peculiar",
     "path": "Brain/Defense Systems.png"
   },
   {
@@ -963,6 +981,7 @@
     "resources": [
       "Brain"
     ],
+	"rarity": "Peculiar",
     "path": "Brain/Draw Upon the Well.png"
   },
   {
@@ -984,6 +1003,7 @@
     "resources": [
       "Brain"
     ],
+	"rarity": "Exceptional",
     "path": "Brain/Neuron Dealer.png"
   },
   {
@@ -1005,6 +1025,7 @@
     "resources": [
       "Brain"
     ],
+	"rarity": "Common",
     "path": "Brain/Sigma Falls.png"
   },
   {
@@ -1029,6 +1050,7 @@
     "resources": [
       "Brain"
     ],
+	"rarity": "Peculiar",
     "path": "Brain/The Amygdala.png"
   },
   {
@@ -1051,6 +1073,7 @@
     "resources": [
       "Brain"
     ],
+	"rarity": "Peculiar",
     "path": "Brain/Warden of Lost Memories.png"
   },
   {
@@ -1075,6 +1098,7 @@
     "resources": [
       "Brain"
     ],
+	"rarity": "Common",
     "path": "Brain/Thunderbolt Agent.png"
   },
   {
@@ -1097,6 +1121,7 @@
     "resources": [
       "Brain"
     ],
+	"rarity": "Common",
     "path": "Brain/Trawl the Minds.png"
   },
   {
@@ -1121,6 +1146,7 @@
     "resources": [
       "Brain"
     ],
+	"rarity": "Common",
     "path": "Brain/Accel Familiar.png"
   },
   {
@@ -1142,6 +1168,7 @@
     "resources": [
       "Brain"
     ],
+	"rarity": "Common",
     "path": "Brain/Agonizing Analysis.png"
   },
   {
@@ -1166,6 +1193,7 @@
     "resources": [
       "Brain"
     ],
+	"rarity": "Common",
     "path": "Brain/Channeler of Pain.png"
   },
   {
@@ -1187,6 +1215,7 @@
     "resources": [
       "Brain"
     ],
+	"rarity": "Peculiar",
     "path": "Brain/Spiral of the Mind.png"
   },
   {
@@ -1211,6 +1240,7 @@
     "resources": [
       "Soul"
     ],
+	"rarity": "Common",
     "path": "Soul/Bearer of the Banner.png"
   },
   {
@@ -1231,6 +1261,7 @@
     "resources": [
       "Soul"
     ],
+	"rarity": "Common",
     "path": "Soul/Divine Blessing.png"
   },
   {
@@ -1253,6 +1284,7 @@
     "resources": [
       "Soul"
     ],
+	"rarity": "Common",
     "path": "Soul/Entwined Shadows.png"
   },
   {
@@ -1276,6 +1308,7 @@
     "resources": [
       "Soul"
     ],
+	"rarity": "Peculiar",
     "path": "Soul/False Idol.png"
   },
   {
@@ -1296,6 +1329,7 @@
     "resources": [
       "Soul"
     ],
+	"rarity": "Common",
     "path": "Soul/Spirit Siphon.png"
   },
   {
@@ -1317,6 +1351,7 @@
     "resources": [
       "Soul"
     ],
+	"rarity": "Peculiar",
     "path": "Soul/Summoning Circle.png"
   },
   {
@@ -1338,6 +1373,7 @@
     "resources": [
       "Soul"
     ],
+	"rarity": "Common",
     "path": "Soul/Symbol of Violence.png"
   },
   {
@@ -1362,6 +1398,7 @@
     "resources": [
       "Soul"
     ],
+	"rarity": "Common",
     "path": "Soul/Tower Witch.png"
   },
   {
@@ -1384,6 +1421,7 @@
     "resources": [
       "Soul"
     ],
+	"rarity": "Common",
     "path": "Soul/Transient Malevolence.png"
   },
   {
@@ -1408,6 +1446,7 @@
     "resources": [
       "Soul"
     ],
+	"rarity": "Peculiar",
     "path": "Soul/Lightning in a Bottle.png"
   },
   {
@@ -1432,6 +1471,7 @@
     "resources": [
       "Soul"
     ],
+	"rarity": "Common",
     "path": "Soul/Reverie Agent.png"
   },
   {
@@ -1454,6 +1494,7 @@
     "resources": [
       "Soul"
     ],
+	"rarity": "Common",
     "path": "Soul/Anima Familiar.png"
   },
   {
@@ -1477,6 +1518,7 @@
     "resources": [
       "Soul"
     ],
+	"rarity": "Common",
     "path": "Soul/Cosmoworm.png"
   },
   {
@@ -1499,6 +1541,7 @@
     "resources": [
       "Soul"
     ],
+	"rarity": "Peculiar",
     "path": "Soul/Vastgate Apparitions.png"
   },
   {
@@ -1521,6 +1564,7 @@
     "resources": [
       "Soul"
     ],
+	"rarity": "Exceptional",
     "path": "Soul/Bodysnatcher.png"
   },
   {
@@ -1541,6 +1585,7 @@
     "resources": [
       "Eye"
     ],
+	"rarity": "Common",
     "path": "Eye/Dimensional Weave.png"
   },
   {
@@ -1563,6 +1608,7 @@
     "resources": [
       "Eye"
     ],
+	"rarity": "Exceptional",
     "path": "Eye/Eye Collector.png"
   },
   {
@@ -1587,6 +1633,7 @@
     "resources": [
       "Eye"
     ],
+	"rarity": "Common",
     "path": "Eye/Eyeguy.png"
   },
   {
@@ -1607,6 +1654,7 @@
     "resources": [
       "Eye"
     ],
+	"rarity": "Common",
     "path": "Eye/Focus Lens.png"
   },
   {
@@ -1628,6 +1676,7 @@
     "resources": [
       "Eye"
     ],
+	"rarity": "Common",
     "path": "Eye/Grasp Possibility.png"
   },
   {
@@ -1653,6 +1702,7 @@
     "resources": [
       "Eye"
     ],
+	"rarity": "Common",
     "path": "Eye/Nightgaze Colony.png"
   },
   {
@@ -1674,6 +1724,7 @@
     "resources": [
       "Eye"
     ],
+	"rarity": "Common",
     "path": "Eye/Peer Through the Veil.png"
   },
   {
@@ -1698,6 +1749,7 @@
     "resources": [
       "Eye"
     ],
+	"rarity": "Common",
     "path": "Eye/Quantum Jester.png"
   },
   {
@@ -1721,6 +1773,7 @@
     "resources": [
       "Eye"
     ],
+	"rarity": "Peculiar",
     "path": "Eye/The Myriad.png"
   },
   {
@@ -1741,6 +1794,7 @@
     "resources": [
       "Eye"
     ],
+	"rarity": "Exceptional",
     "path": "Eye/The Singularity.png"
   },
   {
@@ -1764,6 +1818,7 @@
     "resources": [
       "Eye"
     ],
+	"rarity": "Peculiar",
     "path": "Eye/Vigil Horizon.png"
   },
   {
@@ -1788,6 +1843,7 @@
     "resources": [
       "Eye"
     ],
+	"rarity": "Common",
     "path": "Eye/Aura Familiar.png"
   },
   {
@@ -1812,6 +1868,7 @@
     "resources": [
       "Eye"
     ],
+	"rarity": "Common",
     "path": "Eye/Visionary Agent.png"
   },
   {
