@@ -20,6 +20,7 @@
     "resources": [
       "Blood"
     ],
+	"rarity": "Common",
     "path": "Blood/Altar Familiar.png"
   },
   {
@@ -41,6 +42,7 @@
     "resources": [
       "Blood"
     ],
+	"rarity": "Peculiar",
     "path": "Blood/Box of Limbs.png"
   },
   {
@@ -61,6 +63,7 @@
     "resources": [
       "Blood"
     ],
+	"rarity": "Common",
     "path": "Blood/Cadaver Study.png"
   },
   {
@@ -81,6 +84,7 @@
     "resources": [
       "Blood"
     ],
+	"rarity": "Peculiar",
     "path": "Blood/Death's Invitation.png"
   },
   {
@@ -102,6 +106,7 @@
     "resources": [
       "Blood"
     ],
+	"rarity": "Peculiar",
     "path": "Blood/Follower of the Spiral.png"
   },
   {
@@ -122,6 +127,7 @@
     "resources": [
       "Blood"
     ],
+	"rarity": "Common",
     "path": "Blood/Gloomtongue.png"
   },
   {
@@ -142,6 +148,7 @@
     "resources": [
       "Blood"
     ],
+	"rarity": "Common",
     "path": "Blood/Graft.png"
   },
   {
@@ -162,6 +169,7 @@
     "resources": [
       "Blood"
     ],
+	"rarity": "Common",
     "path": "Blood/Gravebind.png"
   },
   {
@@ -182,6 +190,7 @@
     "resources": [
       "Blood"
     ],
+	"rarity": "Common",
     "path": "Blood/Graveswap.png"
   },
   {
@@ -202,6 +211,7 @@
     "resources": [
       "Blood"
     ],
+	"rarity": "Common",
     "path": "Blood/Jumpstart.png"
   },
   {
@@ -223,6 +233,7 @@
     "resources": [
       "Blood"
     ],
+	"rarity": "Common",
     "path": "Blood/Little Newt.png"
   },
   {
@@ -243,6 +254,7 @@
     "resources": [
       "Blood"
     ],
+	"rarity": "Common",
     "path": "Blood/Resupply.png"
   },
   {
@@ -264,6 +276,7 @@
     "resources": [
       "Blood"
     ],
+	"rarity": "Common",
     "path": "Blood/Scant Messenger.png"
   },
   {
@@ -284,6 +297,7 @@
     "resources": [
       "Blood"
     ],
+	"rarity": "Peculiar",
     "path": "Blood/Ashes to Ashes.png"
   },
   {
@@ -304,6 +318,7 @@
     "resources": [
       "Blood"
     ],
+	"rarity": "Common",
     "path": "Blood/Growth.png"
   },
   {
@@ -324,6 +339,7 @@
     "resources": [
       "Blood"
     ],
+	"rarity": "Common",
     "path": "Blood/Make a Stand.png"
   },
   {
@@ -344,6 +360,7 @@
     "resources": [
       "Blood"
     ],
+	"rarity": "Common",
     "path": "Blood/Ichor Concentrate.png"
   },
   {
@@ -365,6 +382,7 @@
     "resources": [
       "Blood"
     ],
+	"rarity": "Peculiar",
     "path": "Blood/Patchwork Envoy.png"
   },
   {
@@ -388,6 +406,7 @@
     "resources": [
       "Blood"
     ],
+	"rarity": "Exceptional",
     "path": "Blood/Annihilator Titan.png"
   },
   {
@@ -411,6 +430,7 @@
     "resources": [
       "Blood"
     ],
+	"rarity": "Ingenious",
     "path": "Blood/Goderek, Ersatz Titan.png"
   },
   {
@@ -435,6 +455,7 @@
     "resources": [
       "Blood"
     ],
+	"rarity": "Common",
     "path": "Blood/Sentry Titan.png"
   },
   {
@@ -460,6 +481,7 @@
     "resources": [
       "Blood"
     ],
+	"rarity": "Peculiar",
     "path": "Blood/Triplex Titan.png"
   },
   {
@@ -481,6 +503,7 @@
     "resources": [
       "Blood"
     ],
+	"rarity": "Peculiar",
     "path": "Blood/Wrath Augur.png"
   },
   {
@@ -501,6 +524,7 @@
     "resources": [
       "Blood"
     ],
+	"rarity": "Common",
     "path": "Blood/Ominous Prelude.png"
   },
   {
@@ -521,6 +545,7 @@
     "resources": [
       "Blood"
     ],
+	"rarity": "Common",
     "path": "Blood/Reroute.png"
   },
   {
