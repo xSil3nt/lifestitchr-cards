@@ -600,6 +600,30 @@
       "path": "Blood/Reroute.png"
     },
     {
+      "name": "Scarlet Oracle",
+      "id": "CS01-162/300 EN",
+      "deck": "main",
+      "group": "Blood",
+      "type": "Creation",
+      "rarity": "Peculiar",
+      "resources": [
+        "Blood"
+      ],
+      "cost": {
+        "Blood": 4
+      },
+      "subtypes": [
+        "Beast",
+        "Cultist"
+      ],
+      "keywords": [],
+      "abilityText": "When I enter, draw a card.\n\n[Pay 1 life while I'm in your hand]:\nPlot me. At round start, [<blood>2], and play me without paying my cost.",
+      "might": 3,
+      "vigor": 2,
+      "artist": null,
+      "path": "Blood/Scarlet Oracle.png"
+    },
+    {
       "name": "Ambush",
       "id": "CS01-162/300 EN",
       "deck": "main",
@@ -952,6 +976,54 @@
       "vigor": null,
       "artist": null,
       "path": "Heart/Shell Bash.png"
+    },
+    {
+      "name": "Red Garra",
+      "id": "CS01-161/300 EN",
+      "deck": "main",
+      "group": "Heart",
+      "type": "Creation",
+      "rarity": "Common",
+      "resources": [
+        "Heart"
+      ],
+      "cost": {
+        "Heart": 2,
+        "Blood": 1
+      },
+      "subtypes": [
+        "Aquatic",
+        "Beast"
+      ],
+      "keywords": [],
+      "abilityText": "When I attack, you heal 1.",
+      "might": 1,
+      "vigor": 3,
+      "artist": null,
+      "path": "Heart/Red Garra.png"
+    },
+    {
+      "name": "Wisdom in Fury",
+      "id": "CS01-161/300 EN",
+      "deck": "main",
+      "group": "Heart",
+      "type": "Scheme",
+      "rarity": "Common",
+      "resources": [
+        "Heart"
+      ],
+      "cost": {
+        "Heart": 1
+      },
+      "subtypes": [
+        "Quick"
+      ],
+      "keywords": [],
+      "abilityText": "Until round end, give a chosen creation \"When I attack, draw a card,\" then if you have 5 life or less, give that creation +3 might.",
+      "might": null,
+      "vigor": null,
+      "artist": null,
+      "path": "Heart/Wisdom in Fury.png"
     },
     {
       "name": "Brain Blast",
@@ -2035,6 +2107,79 @@
       "vigor": 2,
       "artist": null,
       "path": "Eye/Visionary Agent.png"
+    },
+    {
+      "name": "Delve into the Deep",
+      "id": "CS01-162/300 EN",
+      "deck": "main",
+      "group": "Eye",
+      "type": "Scheme",
+      "rarity": "Peculiar",
+      "resources": [
+        "Eye"
+      ],
+      "cost": {
+        "Eye": 1,
+      },
+      "subtypes": [
+        "Quick"
+      ],
+      "keywords": [],
+      "abilityText": "[Pay 1 life]\nDraw three cards, then turn two cards from your hand to dust.",
+      "might": null,
+      "vigor": null,
+      "artist": null,
+      "path": "Eye/Delve into the Deep.png"
+    },
+    {
+      "name": "Slumbering Deep",
+      "id": "CS01-161/300 EN",
+      "deck": "main",
+      "group": "Eye",
+      "type": "Creation",
+      "rarity": "Common",
+      "resources": [
+        "Eye"
+      ],
+      "cost": {
+        "Eye": 1,
+        "Blood": 1
+      },
+      "subtypes": [
+        "Aquatic",
+        "Beast",
+        "Witness"
+      ],
+      "keywords": [],
+      "abilityText": "While you have 5 or less life, I get +2 might and Vampiric. (When a creation with Vampiric deals damage, you heal by that much if you've lost life this turn.)",
+      "might": 0,
+      "vigor": 2,
+      "artist": null,
+      "path": "Eye/Slumbering Deep.png"
+    },
+    {
+      "name": "Sunlight Zone Diviner",
+      "id": "CS01-161/300 EN",
+      "deck": "main",
+      "group": "Eye",
+      "type": "Creation",
+      "rarity": "Common",
+      "resources": [
+        "Eye"
+      ],
+      "cost": {
+        "Eye": 2
+      },
+      "subtypes": [
+        "Aquatic",
+        "Witness"
+      ],
+      "keywords": [],
+      "abilityText": "When I enter, [pay 1 life], and look at the top five cards of your deck. Put one of them into your hand and turn the rest to dust.",
+      "might": 2,
+      "vigor": 1,
+      "artist": null,
+      "path": "Eye/Sunlight Zone Diviner.png"
     },
     {
       "name": "Old Thornback",
