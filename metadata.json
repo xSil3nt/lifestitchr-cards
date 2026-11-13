@@ -1003,7 +1003,7 @@
       "path": "Heart/Red Garra.png"
     },
     {
-      "name": "Wisdom in Fury",
+      "name": "Wisdom in Desperation",
       "id": "CS01-161/300 EN",
       "deck": "main",
       "group": "Heart",
@@ -1023,7 +1023,7 @@
       "might": null,
       "vigor": null,
       "artist": null,
-      "path": "Heart/Wisdom in Fury.png"
+      "path": "Heart/Wisdom in Desperation.png"
     },
     {
       "name": "Brain Blast",
