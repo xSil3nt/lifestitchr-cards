@@ -2810,6 +2810,31 @@
       "path": "Multi/Bloodthirst.png"
     },
     {
+      "name": "Recuperate",
+      "id": "CS01-161/300 EN",
+      "deck": "main",
+      "group": "Multi",
+      "type": "Scheme",
+      "rarity": "Common",
+      "resources": [
+        "Eye",
+        "Heart"
+      ],
+      "cost": {
+        "Heart": 1,
+        "Eye": 1
+      },
+      "subtypes": [
+        "Meticulous"
+      ],
+      "keywords": [],
+      "abilityText": "Draw a card. If you have 5 life or less, you heal 3 and draw another card.",
+      "might": null,
+      "vigor": null,
+      "artist": null,
+      "path": "Multi/Recuperate.png"
+    },
+    {
       "name": "Idol of the Red Tide",
       "id": "CS01-162/300 EN",
       "deck": "main",
@@ -2884,6 +2909,32 @@
       "vigor": null,
       "artist": null,
       "path": "Multi/Sanguine Alliance.png"
+    },
+    {
+      "name": "Crimson Sea Avatar",
+      "id": "CS01-163/300 EN",
+      "deck": "main",
+      "group": "Multi",
+      "type": "Creation",
+      "rarity": "Exceptional",
+      "resources": [
+        "Eye",
+        "Heart"
+      ],
+      "cost": {
+        "Heart": 1,
+        "Eye": 1
+      },
+      "subtypes": [
+        "Aquatic",
+        "Distortion"
+      ],
+      "keywords": [],
+      "abilityText": "I get -1 might and -1 vigor for every point of life you have.\nAt the start of combat, I deal 1 damage directly to all lifestitchers. (Including you.)",
+      "might": 4,
+      "vigor": 6,
+      "artist": null,
+      "path": "Multi/Crimson Sea Avatar.png"
     },
     {
       "name": "Abyssal Blade Khtllith",
