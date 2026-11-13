@@ -610,7 +610,7 @@
         "Blood"
       ],
       "cost": {
-        "Blood": 4
+        "Blood": 3
       },
       "subtypes": [
         "Beast",
@@ -618,8 +618,8 @@
       ],
       "keywords": [],
       "abilityText": "When I enter, draw a card.\n\n[Pay 1 life while I'm in your hand]:\nPlot me. At round start, [<blood>2], and play me without paying my cost.",
-      "might": 3,
-      "vigor": 2,
+      "might": 2,
+      "vigor": 1,
       "artist": null,
       "path": "Blood/Scarlet Oracle.png"
     },
@@ -1019,7 +1019,7 @@
         "Quick"
       ],
       "keywords": [],
-      "abilityText": "Until round end, give a chosen creation \"When I attack, draw a card,\" then if you have 5 life or less, give that creation +3 might.",
+      "abilityText": "Until round end, give a chosen creation \"When I attack, draw a card,\" then if you have 5 life or less, give that creation +3 vigor.",
       "might": null,
       "vigor": null,
       "artist": null,
@@ -2125,7 +2125,7 @@
         "Quick"
       ],
       "keywords": [],
-      "abilityText": "[Pay 1 life]\nDraw three cards, then turn two cards from your hand to dust.",
+      "abilityText": "[Pay 1 life]\nDraw two cards, then turn a card from your hand to dust.",
       "might": null,
       "vigor": null,
       "artist": null,
@@ -2828,7 +2828,7 @@
         "Meticulous"
       ],
       "keywords": [],
-      "abilityText": "Draw a card. If you have 5 life or less, you heal 3 and draw another card.",
+      "abilityText": "If you have 5 life or less, choose one:\n- You heal 3.\nDraw two cards.",
       "might": null,
       "vigor": null,
       "artist": null,
