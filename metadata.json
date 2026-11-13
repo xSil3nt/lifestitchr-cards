@@ -996,7 +996,7 @@
         "Beast"
       ],
       "keywords": [],
-      "abilityText": "When I attack, you heal 1.",
+      "abilityText": "When I attack, you heal 2.",
       "might": 1,
       "vigor": 3,
       "artist": null,
@@ -1820,7 +1820,7 @@
         "Abomination"
       ],
       "keywords": [],
-      "abilityText": "When I enter and at round start, [pay 1 life], and I attack a chosen creation for 1 damage.\nWhen I attack a creation, grant me all traits of that creation.",
+      "abilityText": "At the start of combat, [pay 1 life], and I attack a chosen creation for 1 damage. When I attack a creation, give me all traits of that creation until round end.",
       "might": 2,
       "vigor": 3,
       "artist": null,
@@ -2151,7 +2151,7 @@
         "Witness"
       ],
       "keywords": [],
-      "abilityText": "While you have 5 or less life, I get +2 might and Vampiric. (When a creation with Vampiric deals damage, you heal by that much if you've lost life this turn.)",
+      "abilityText": "While you have 5 or less life, I get +3 might and Vampiric. (When a creation with Vampiric deals damage, you heal by that much if you've lost life this turn.)",
       "might": 0,
       "vigor": 2,
       "artist": null,
@@ -2780,7 +2780,7 @@
       ],
       "abilityText": "Vampiric:\nWhen I deal damage, you heal by that much if you've lost life this round.",
       "might": 3,
-      "vigor": 2,
+      "vigor": 3,
       "artist": "uwais",
       "path": "Multi/Coral Mother.png"
     },
@@ -2825,7 +2825,7 @@
         "Eye": 1
       },
       "subtypes": [
-        "Meticulous"
+        "Quick"
       ],
       "keywords": [],
       "abilityText": "If you have 5 life or less, choose one:\n- You heal 3.\nDraw two cards.",
@@ -2854,7 +2854,7 @@
         "Distortion"
       ],
       "keywords": [],
-      "abilityText": "When you lose life, I attack a chosen creation for 1 damage.\n[Pay 1 life]:Give me Lord until round end. Use only once each round. (Creations to the left and right of creations with Lord get +1 might and +1 vigor.)",
+      "abilityText": "When you lose life due to a card effect, I attack a chosen creation for 1 damage.\n[Pay 1 life]:Give me Lord until round end. Use only once each round. (Creations to the left and right of creations with Lord get +1 might and +1 vigor.)",
       "might": 0,
       "vigor": 1,
       "artist": "eg",
@@ -2923,16 +2923,17 @@
       ],
       "cost": {
         "Heart": 1,
-        "Eye": 1
+        "Eye": 1,
+        "Blood": 2
       },
       "subtypes": [
         "Aquatic",
         "Distortion"
       ],
       "keywords": [],
-      "abilityText": "I get -1 might and -1 vigor for every point of life you have.\nAt the start of combat, I deal 1 damage directly to all lifestitchers. (Including you.)",
-      "might": 4,
-      "vigor": 6,
+      "abilityText": "I get -1 might for every point of life you have.\nWhile you have 5 life or less, I cost <blood>2 less.\nAt round start, you lose 1 life.",
+      "might": 6,
+      "vigor": 4,
       "artist": null,
       "path": "Multi/Crimson Sea Avatar.png"
     },
