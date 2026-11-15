@@ -3413,7 +3413,8 @@
         "Heart",
         "Brain",
         "Soul",
-        "Eye"
+        "Eye",
+        "Blood"
       ],
       "cost": {
         "Heart": 1,
@@ -3429,7 +3430,7 @@
         "Pristine",
         "Sui Generis"
       ],
-      "abilityText": "Pristine; Sui Generis:\nWhen I enter, reveal your deck, turn all of your cards with the same name as me to dust, then shuffle.\n\nCorpses in your graves have Pristine.\nWhen you would play a creation onto my lane, it costs <heart><brain><soul><eye> less to play.\nAt the start of combat, reveal cards from the top of your deck until you reveal a creation. You may play that creation without paying its cost. Put the remainder on the bottom.",
+      "abilityText": "Pristine; Sui Generis:\nWhen I enter, reveal your deck, turn all of your cards with the same name as me to dust, then shuffle.\n\nCorpses in your graves have Pristine.\nWhen you would play a creation onto my lane, it costs <heart><brain><soul><eye><blood> less to play.\nAt the start of combat, reveal cards from the top of your deck until you reveal a creation. You may play that creation without paying its cost. Put the remainder on the bottom.",
       "might": 3,
       "vigor": 4,
       "artist": null,
