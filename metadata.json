@@ -3367,7 +3367,7 @@
       "keywords": [
         "Pristine"
       ],
-      "abilityText": "Pristine:\nWhen you harvest me, add one organ from my cost and one organ of any type.\n\nCorpses in your graves have regenerator\nWhile there are no schemes or abilities in the chain, you may treat creations in your support lanes as corpses in graves. (They're still creations. You may harvest them from the support lane.)",
+      "abilityText": "Pristine:\nWhen you harvest me, add one organ from my cost and one organ of any type.\n\nCorpses in your graves have regenerator\nWhen you regenerate a corpse, it loses all traits and abilities until round end.\nWhile there are no schemes or abilities in the chain, you may treat creations in your support lanes as corpses in graves. (They're still creations. You may harvest them from the support lane.)",
       "might": 0,
       "vigor": 2,
       "artist": null,
