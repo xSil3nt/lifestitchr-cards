@@ -1779,6 +1779,29 @@
       "path": "Soul/Bodysnatcher.png"
     },
     {
+      "name": "Prismatic Animus",
+      "id": "CS01-251/300 EN",
+      "deck": "main",
+      "group": "Soul",
+      "type": "Scheme",
+      "rarity": "Common",
+      "resources": [
+        "Soul"
+      ],
+      "cost": {
+        "Soul": 1
+      },
+      "subtypes": [
+        "Quick"
+      ],
+      "keywords": [],
+      "abilityText": "Until round end, give a chosen creation +1 might. If you have a creation with three or more organ types in its cost, give all of your creations +1 might instead. (<heart>, <brain>, <soul>, <eye>, and <blood> are organ types.)",
+      "might": null,
+      "vigor": null,
+      "artist": null,
+      "path": "Soul/Prismatic Animus.png"
+    },
+    {
       "name": "Dimensional Weave",
       "id": "CS01-001/300 EN",
       "deck": "main",
@@ -3322,6 +3345,35 @@
       "path": "Multi/Elite Servant.png"
     },
     {
+      "name": "Ambrosia Regulus",
+      "id": "CS01-253/300 EN",
+      "deck": "main",
+      "group": "Multi",
+      "type": "Creation",
+      "rarity": "Exceptional",
+      "resources": [
+        "Heart",
+        "Brain",
+        "Soul"
+      ],
+      "cost": {
+        "Heart": 1,
+        "Brain": 1,
+        "Soul": 1
+      },
+      "subtypes": [
+        "Humanoid"
+      ],
+      "keywords": [
+        "Pristine"
+      ],
+      "abilityText": "Pristine:\nWhen you harvest me, add one organ from my cost and one organ of any type.\n\nCorpses in your graves have regenerator\nWhile there are no schemes or abilities in the chain, you may treat creations in your support lanes as corpses in graves. (They're still creations. You may harvest them from the support lane.)",
+      "might": 0,
+      "vigor": 2,
+      "artist": null,
+      "path": "Multi/Ambrosia Regulus.png"
+    },
+    {
       "name": "Driver of the Dead",
       "id": "CS01-253/300 EN",
       "deck": "main",
@@ -3376,8 +3428,8 @@
         "Pristine",
         "Sui Generis"
       ],
-      "abilityText": "Pristine; Sui Generis:\nWhen I enter, reveal your deck, turn all of your cards with the same name as me to dust, then shuffle.\n\nCorpses in your graves have Pristine.\nWhen you would play a creation onto my lane, it costs <heart><brain><soul><eye> less to play.\n[<soul>1]: Give me +1 might until round end.\n[<eye>2]: Give me a trait from a chosen creation until round end.\n[<brain>3]: Draw two cards.\n[<heart>4]: Until round end, all opposing creations have 1 vigor.",
-      "might": 2,
+      "abilityText": "Pristine; Sui Generis:\nWhen I enter, reveal your deck, turn all of your cards with the same name as me to dust, then shuffle.\n\nCorpses in your graves have Pristine.\nWhen you would play a creation onto my lane, it costs <heart><brain><soul><eye> less to play.\nAt the start of combat, reveal cards from the top of your deck until you reveal a creation. You may play that creation without paying its cost. Put the remainder on the bottom.",
+      "might": 3,
       "vigor": 4,
       "artist": null,
       "path": "Multi/Leona Regulus, Omniarch.png"
