@@ -3419,7 +3419,8 @@
         "Heart": 1,
         "Brain": 1,
         "Soul": 1,
-        "Eye": 1
+        "Eye": 1,
+        "Blood": 1
       },
       "subtypes": [
         "Humanoid"
