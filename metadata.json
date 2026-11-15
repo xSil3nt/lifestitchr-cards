@@ -1722,7 +1722,7 @@
         "Distortion"
       ],
       "keywords": [],
-      "abilityText": "When I enter, if my cost wasn't paid, grant +1 might and +1 vigor to another chosen creation.\n[<soul>2<blood>1 while I'm in your hand]:\nPlot this creation. At round start, play me without paying my cost.",
+      "abilityText": "When I enter, if my cost wasn't paid, grant +1 might and +1 vigor to another chosen creation.\n[<soul>1<blood>1 while I'm in your hand]:\nPlot this creation. At round start, play me without paying my cost.",
       "might": 1,
       "vigor": 1,
       "artist": null,
