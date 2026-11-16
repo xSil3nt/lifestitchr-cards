@@ -1818,7 +1818,7 @@
         "Quick"
       ],
       "keywords": [],
-      "abilityText": "Plot one of your creations from your field in a grave. It gains \"At round start, put me onto the field.\"",
+      "abilityText": "Until round end, treat one of your chosen creations as though it wasn't on the field.",
       "might": null,
       "vigor": null,
       "artist": "eg",
