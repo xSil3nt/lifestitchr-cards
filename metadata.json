@@ -2957,7 +2957,7 @@
       "abilityText": "I get -1 might for every point of life you have.\nWhile you have 5 life or less, I cost <blood>2 less.\nAt round start, you lose 1 life.",
       "might": 6,
       "vigor": 4,
-      "artist": null,
+      "artist": "Sachiel",
       "path": "Multi/Crimson Sea Avatar.png"
     },
     {
