@@ -624,6 +624,29 @@
       "path": "Blood/Scarlet Oracle.png"
     },
     {
+      "name": "Stitcher's Puppet",
+      "id": "CS01-132/300 EN",
+      "deck": "main",
+      "group": "Blood",
+      "type": "Creation",
+      "rarity": "Peculiar",
+      "resources": [
+        "Blood"
+      ],
+      "cost": {
+        "Blood": 4
+      },
+      "subtypes": [
+        "Automaton"
+      ],
+      "keywords": [],
+      "abilityText": "When I enter or leave the field, bury the top card of your corpse deck.",
+      "might": 1,
+      "vigor": 3,
+      "artist": null,
+      "path": "Blood/Stitcher's Puppet.png"
+    },
+    {
       "name": "Ambush",
       "id": "CS01-162/300 EN",
       "deck": "main",
@@ -1802,6 +1825,56 @@
       "path": "Soul/Prismatic Animus.png"
     },
     {
+      "name": "Disappearing Act",
+      "id": "CS01-131/300 EN",
+      "deck": "main",
+      "group": "Soul",
+      "type": "Scheme",
+      "rarity": "Common",
+      "resources": [
+        "Soul"
+      ],
+      "cost": {
+        "Soul": 1
+      },
+      "subtypes": [
+        "Meticulous"
+      ],
+      "keywords": [],
+      "abilityText": "You may play this scheme as a Quick scheme by paying an additional <eye>1.\nPlot one of your chosen creations from your field. It gains \"At round start, play me without paying my cost.\"",
+      "might": null,
+      "vigor": null,
+      "artist": null,
+      "path": "Soul/Disappearing Act.png"
+    },
+    {
+      "name": "Riftbearer Illusionist",
+      "id": "CS01-132/300 EN",
+      "deck": "main",
+      "group": "Soul",
+      "type": "Creation",
+      "rarity": "Peculiar",
+      "resources": [
+        "Soul"
+      ],
+      "cost": {
+        "Soul": 2,
+        "Blood": 1
+      },
+      "subtypes": [
+        "Fiend",
+        "Culstist"
+      ],
+      "keywords": [
+        "Ephemeral"
+      ],
+      "abilityText": "Ephemeral:\nI turn to dust at round end.\nWhen I die, I turn to dust.\n\nWhen I leave the field, draw a card, then you may play a creation that costs 2 or less without paying its cost.",
+      "might": 2,
+      "vigor": 2,
+      "artist": null,
+      "path": "Soul/Riftbearer Illusionist.png"
+    },
+    {
       "name": "Dimensional Weave",
       "id": "CS01-001/300 EN",
       "deck": "main",
@@ -2203,6 +2276,53 @@
       "vigor": 1,
       "artist": null,
       "path": "Eye/Sunlight Zone Diviner.png"
+    },
+    {
+      "name": "Specimen 132",
+      "id": "CS01-133/300 EN",
+      "deck": "main",
+      "group": "Eye",
+      "type": "Creation",
+      "rarity": "Exceptional",
+      "resources": [
+        "Eye"
+      ],
+      "cost": {
+        "Eye": 2
+      },
+      "subtypes": [
+        "Witness",
+        "Abomination"
+      ],
+      "keywords": [],
+      "abilityText": "At round end, turn me to dust, and search your deck for a Creation that costs exactly 1 more than my current cost, put it onto the field, then shuffle. Then, grant this ability to that creation.",
+      "might": 0,
+      "vigor": 2,
+      "artist": null,
+      "path": "Eye/Specimen 132.png"
+    },
+    {
+      "name": "Take Centre Stage",
+      "id": "CS01-131/300 EN",
+      "deck": "main",
+      "group": "Eye",
+      "type": "Scheme",
+      "rarity": "Common",
+      "resources": [
+        "Eye"
+      ],
+      "cost": {
+        "Eye": 2
+      },
+      "subtypes": [
+        "Meticulous"
+      ],
+      "keywords": [],
+      "abilityText": "[Bury a creation from your field]:\nMove a chosen creation to its owner's centre frontline lane. If you moved a creation this way, give it your choice of Double Vision or Aberrant Strength until round end.",
+      "might": null,
+      "vigor": null,
+      "artist": null,
+      "path": "Eye/Take Centre Stage.png"
     },
     {
       "name": "Old Thornback",
@@ -2666,6 +2786,32 @@
       "path": "Multi/Razzle Dazzle.png"
     },
     {
+      "name": "Ticket Taker",
+      "id": "CS01-131/300 EN",
+      "deck": "main",
+      "group": "Multi",
+      "type": "Creation",
+      "rarity": "Common",
+      "resources": [
+        "Soul",
+        "Eye"
+      ],
+      "cost": {
+        "Soul": 1,
+        "Eye": 1
+      },
+      "subtypes": [
+        "Fiend",
+        "Witness"
+      ],
+      "keywords": [],
+      "abilityText": "When another of your creations enters or leaves the field, give me +1 might until round end.",
+      "might": 0,
+      "vigor": 2,
+      "artist": null,
+      "path": "Multi/Ticket Taker.png"
+    },
+    {
       "name": "Motley Troupe Juggler",
       "id": "CS01-132/300 EN",
       "deck": "main",
@@ -2747,6 +2893,36 @@
       "might": 2,
       "vigor": 2,
       "artist": "zeekubeeku",
+      "path": "Multi/Grim Conductor.png"
+    },
+    {
+      "name": "Master of Ceremonies",
+      "id": "CS01-133/300 EN",
+      "deck": "main",
+      "group": "Multi",
+      "type": "Creation",
+      "rarity": "Exceptional",
+      "resources": [
+        "Soul",
+        "Eye"
+      ],
+      "cost": {
+        "Soul": 1,
+        "Eye": 1,
+        "Blood": 2
+      },
+      "subtypes": [
+        "Fiend",
+        "Witness",
+        "Cultist"
+      ],
+      "keywords": [
+        "Ephemeral"
+      ],
+      "abilityText": "Ephemeral:\nI turn to dust at round end.\nWhen I die, I turn to dust.\n\nWhen I enter or leave the field, reveal the top card of your deck. If it's a creation that costs 6 or less, you may put it onto an open lane and grant it Ephemeral. If you don't, you may draw it.",
+      "might": 3,
+      "vigor": 1,
+      "artist": null,
       "path": "Multi/Grim Conductor.png"
     },
     {
