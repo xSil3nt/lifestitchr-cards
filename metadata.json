@@ -530,7 +530,7 @@
       "path": "Blood/Triplex Titan.png"
     },
     {
-      "name": "Wrath Augur",
+      "name": "Augur of Wrath",
       "id": "CS01-072/300 EN",
       "deck": "main",
       "group": "Blood",
@@ -551,7 +551,7 @@
       "might": 3,
       "vigor": 3,
       "artist": null,
-      "path": "Blood/Wrath Augur.png"
+      "path": "Blood/Augur of Wrath.png"
     },
     {
       "name": "Ominous Prelude",
