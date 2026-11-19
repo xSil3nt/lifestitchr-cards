@@ -346,7 +346,7 @@
         "Quick"
       ],
       "keywords": [],
-      "abilityText": "Until round end, give a chosen creation Colossal, then if it costs 4 or more, give it +4 vigor and add <blood>. (You may only have one creation with Colossal on your field. When you would take damage, the creation with Colossal takes that damage instead.)",
+      "abilityText": "Until round end, give a chosen creation Colossal, then if it costs 4 or more, give it +4 vigor and add <blood>. (When another creation with Colossal enters your field, bury the chosen creation. When you would take damage, the creation with Colossal takes that damage instead.)",
       "might": null,
       "vigor": null,
       "artist": null,
@@ -442,7 +442,7 @@
       "keywords": [
         "Colossal"
       ],
-      "abilityText": "Colossal:\nYou may only have one creation with Colossal on your field. When you would take damage, I take that damage instead.\n\nWhen I would attack normally, you may have me attack any frontline lane.\nWhen I enter, if I usurped another creation, you may have me deal 10 damage to a chosen creation. This ability can be responded to with Quick effects.",
+      "abilityText": "Colossal:\nWhen another creation with Colossal enters your field, bury me. When you would take damage, I take that damage instead.\n\nWhen I would attack normally, you may have me attack any frontline lane.\nWhen I enter, if I usurped another creation, you may have me deal 10 damage to a chosen creation. This ability can be responded to with Quick effects.",
       "might": 5,
       "vigor": 5,
       "artist": null,
@@ -466,11 +466,12 @@
         "Abomination"
       ],
       "keywords": [
+        "Colossal",
         "Sui Generis"
       ],
-      "abilityText": "Sui Generis:\nWhen I enter, reveal your deck, turn all of your cards with the same name as me to dust, then shuffle.\n\nAs I enter, two chosen lifestitchers reveal the top five cards of their deck. Grant me all abilities and traits of three chosen cards revealed this way. Then each lifestitcher shuffles.",
+      "abilityText": "Colossal; Sui Generis:\nWhen I enter, reveal your deck, turn all of your cards with the same name as me to dust, then shuffle.\n\nAs I enter, two chosen lifestitchers reveal the top five cards of their deck. Grant me all abilities and traits of three chosen cards revealed this way. Then each lifestitcher shuffles.",
       "might": 3,
-      "vigor": 3,
+      "vigor": 4,
       "artist": null,
       "path": "Blood/Goderek, Ersatz Titan.png"
     },
@@ -495,7 +496,7 @@
         "Colossal",
         "Defiant"
       ],
-      "abilityText": "Colossal:\nYou may only have one creation with Colossal on your field. When you would take damage, I take that damage instead.\n\nDefiant:\nWhen I'm chosen by an opposing scheme or ability, draw a card.",
+      "abilityText": "Colossal:\nWhen another creation with Colossal enters your field, bury me. When you would take damage, I take that damage instead.\n\nDefiant:\nWhen I'm chosen by an opposing scheme or ability, draw a card.",
       "might": 4,
       "vigor": 4,
       "artist": null,
@@ -523,7 +524,7 @@
         "Colossal",
         "Defiant"
       ],
-      "abilityText": "Regenerator:\nWhen my corpse is harvested, [<blood>1], and return me to a grave and I can't be harvested again until round end.\n\nColossal:\nYou may only have one creation with Colossal on your field. When you would take damage, I take that damage instead.\n\nDefiant:\nWhen I'm chosen by an opposing scheme or ability, draw a card.",
+      "abilityText": "Regenerator:\nWhen my corpse is harvested, [<blood>1], and return me to a grave and I can't be harvested again until round end.\n\nColossal:\nWhen another creation with Colossal enters your field, bury me. When you would take damage, I take that damage instead.\n\nDefiant:\nWhen I'm chosen by an opposing scheme or ability, draw a card.",
       "might": 7,
       "vigor": 7,
       "artist": null,
@@ -645,6 +646,173 @@
       "vigor": 3,
       "artist": "eg :>",
       "path": "Blood/Stitcher's Puppet.png"
+    },
+    {
+      "name": "Courier Titan",
+      "id": "CS01-041/300 EN",
+      "deck": "main",
+      "group": "Blood",
+      "type": "Creation",
+      "rarity": "Common",
+      "resources": [
+        "Blood"
+      ],
+      "cost": {
+        "Blood": 7
+      },
+      "subtypes": [
+        "Titan",
+        "Automaton"
+      ],
+      "keywords": [
+        "Colossal"
+      ],
+      "abilityText": "Colossal:\nWhen another creation with Colossal enters your field, bury me. When you would take damage, I take that damage instead.\n\nWhen I enter, draw three cards.",
+      "might": 2,
+      "vigor": 4,
+      "artist": null,
+      "path": "Blood/Courier Titan.png"
+    },
+    {
+      "name": "Siege Engine",
+      "id": "CS01-041/300 EN",
+      "deck": "main",
+      "group": "Blood",
+      "type": "Creation",
+      "rarity": "Common",
+      "resources": [
+        "Blood"
+      ],
+      "cost": {
+        "Blood": 6
+      },
+      "subtypes": [
+        "Automaton"
+      ],
+      "keywords": [],
+      "abilityText": "When I attack, draw a card, then bury a creation from your hand or turn a card from your hand to dust.",
+      "might": 4,
+      "vigor": 3,
+      "artist": null,
+      "path": "Blood/Siege Engine.png"
+    },
+    {
+      "name": "Ichorvalve Charger",
+      "id": "CS01-041/300 EN",
+      "deck": "main",
+      "group": "Blood",
+      "type": "Creation",
+      "rarity": "Common",
+      "resources": [
+        "Blood"
+      ],
+      "cost": {
+        "Blood": 2
+      },
+      "subtypes": [
+        "Cultist"
+      ],
+      "keywords": [],
+      "abilityText": "When you would play a creation onto my lane, if it costs 6 or more, it costs <blood>3 less to play.",
+      "might": 1,
+      "vigor": 2,
+      "artist": null,
+      "path": "Blood/Ichorvalve Charger.png"
+    },
+    {
+      "name": "Intimidate",
+      "id": "CS01-041/300 EN",
+      "deck": "main",
+      "group": "Blood",
+      "type": "Scheme",
+      "rarity": "Common",
+      "resources": [
+        "Blood"
+      ],
+      "cost": {
+        "Blood": 2
+      },
+      "subtypes": [
+        "Quick"
+      ],
+      "keywords": [],
+      "abilityText": "[Reveal a creation from your hand that costs 6 or more, or choose one of your creations that costs 6 or more]:\nA chosen creation can't attack until round end. Add <blood><blood><blood>.",
+      "might": null,
+      "vigor": null,
+      "artist": null,
+      "path": "Blood/Intimidate.png"
+    },
+    {
+      "name": "Ichorvalve Architect",
+      "id": "CS01-042/300 EN",
+      "deck": "main",
+      "group": "Blood",
+      "type": "Creation",
+      "rarity": "Peculiar",
+      "resources": [
+        "Blood"
+      ],
+      "cost": {
+        "Blood": 3
+      },
+      "subtypes": [
+        "Cultist"
+      ],
+      "keywords": [],
+      "abilityText": "Creations you play that cost 6 or more cost <blood>1 less to play.\nWhen you play a creation that costs 6 or more, you heal 2.",
+      "might": 1,
+      "vigor": 3,
+      "artist": null,
+      "path": "Blood/Ichorvalve Architect.png"
+    },
+    {
+      "name": "Ichor Tide",
+      "id": "CS01-042/300 EN",
+      "deck": "main",
+      "group": "Blood",
+      "type": "Scheme",
+      "rarity": "Peculiar",
+      "resources": [
+        "Blood"
+      ],
+      "cost": {
+        "Blood": 2
+      },
+      "subtypes": [
+        "Quick"
+      ],
+      "keywords": [],
+      "abilityText": "Add <blood><blood>.\nWhile this scheme is dusted, when you play a creation that costs 6 or more, you may play this scheme without paying its cost. Each round, you may play only one card named \"Ichor Tide\" this way.",
+      "might": null,
+      "vigor": null,
+      "artist": null,
+      "path": "Blood/Ichor Tide.png"
+    },
+    {
+      "name": "Gloom Titan",
+      "id": "CS01-043/300 EN",
+      "deck": "main",
+      "group": "Blood",
+      "type": "Creation",
+      "rarity": "Exceptional",
+      "resources": [
+        "Blood"
+      ],
+      "cost": {
+        "Blood": 8
+      },
+      "subtypes": [
+        "Titan",
+        "Automaton"
+      ],
+      "keywords": [
+        "Colossal"
+      ],
+      "abilityText": "Colossal:\nWhen another creation with Colossal enters your field, bury me. When you would take damage, I take that damage instead.\n\nWhen I attack, create two Shadow tokens with 1 might and 1 vigor.\n[Turn one of your tokens to dust]:\nGive me +2 vigor until round end. This is a quick ability.",
+      "might": 2,
+      "vigor": 3,
+      "artist": null,
+      "path": "Blood/Gloom Titan.png"
     },
     {
       "name": "Ambush",
