@@ -3246,7 +3246,7 @@
         "Meticulous"
       ],
       "keywords": [],
-      "abilityText": "Start an additional combat phase, except only two chosen creations whose lanes oppose each other participate. Your creations can't deal overkill damage during that combat. (Then the main phase resumes.)",
+      "abilityText": "Choose two creations owned by different lifestitchers. Those creations attack each other. While you have 5 life or less, your creation gets Vampiric for that attack.",
       "might": null,
       "vigor": null,
       "artist": null,
@@ -3271,7 +3271,7 @@
         "Quick"
       ],
       "keywords": [],
-      "abilityText": "Plot this scheme.\nAt round start, [turn this scheme to dust,] and when you lose life this round, look at that many cards from the top of your deck and turn any number of them to dust. Then if you lost 3 life or more this round, draw a card each time this effect triggers.",
+      "abilityText": "Plot this scheme.\n[While this scheme is plooted, turn it to dust]: When you lose life this round, look at that many cards from the top of your deck and turn any number of them to dust. Then if you lost 3 life or more this round, draw a card each time this effect triggers.",
       "might": null,
       "vigor": null,
       "artist": null,
@@ -3327,9 +3327,10 @@
         "Beast"
       ],
       "keywords": [
+        "Vampiric",
         "Sui Generis"
       ],
-      "abilityText": "Sui Generis:\nWhen I enter, reveal your deck, turn all of your cards with the same name as me to dust, then shuffle.\n\nI cost <blood>1 more for every 2 points of life you have.\nWhen I enter, start an additional combat phase. Your creations get Vampiric during that combat phase. (Then the main phase resumes.)",
+      "abilityText": "Vampiric; Sui Generis:\nWhen I enter, reveal your deck, turn all of your cards with the same name as me to dust, then shuffle.\n\nI cost <blood>1 more for every 2 points of life you have.\nWhen I enter, start an additional combat phase. If my cost was paid, only your creations attack during that combat phase.",
       "might": 3,
       "vigor": 3,
       "artist": "uwais + Sachiel",
@@ -3357,7 +3358,7 @@
       "keywords": [
         "Unite"
       ],
-      "abilityText": "Unite:\nYour creations to my left and right are in a band with me. When a creation in the band would take damage, you may distribute it among all of its bandmates.",
+      "abilityText": "Unite:\nYour creations to my left and right are in a band with me. When a creation in the band would take damage from normal attacks, you may distribute it among all of its bandmates.",
       "might": 2,
       "vigor": 2,
       "artist": "zeekubeeku",
@@ -3382,7 +3383,7 @@
         "Quick"
       ],
       "keywords": [],
-      "abilityText": "Until round end, give a chosen creation Unite and +2 vigor. (Your creations to the left and right of creations with Unite are in a band with them. When a creation in the band would take damage, you may distribute it among all of its bandmates.)",
+      "abilityText": "Until round end, give a chosen creation Unite and +2 vigor. (Your creations to the left and right of creations with Unite are in a band with them. When a creation in the band would take damage from normal attacks, you may distribute it among all of its bandmates.)",
       "might": null,
       "vigor": null,
       "artist": null,
@@ -3411,7 +3412,7 @@
       "keywords": [
         "Unite"
       ],
-      "abilityText": "Unite:\nYour creations to my left and right are in a band with me. When a creation in the band would take damage, you may distribute it among all of its bandmates.\n\nWhen I or another of your creations would gain might or vigor, until round end, give all other creations in the band an additional point in that stat.",
+      "abilityText": "Unite:\nYour creations to my left and right are in a band with me. When a creation in the band would take damage from normal attacks, you may distribute it among all of its bandmates.\n\nWhen I or another of your creations would gain might or vigor, until round end, give all other creations in the band an additional point in that stat.",
       "might": 1,
       "vigor": 1,
       "artist": null,
@@ -3548,7 +3549,7 @@
         "Quick"
       ],
       "keywords": [],
-      "abilityText": "Grant a chosen creation Frozen. Its cost becomes <blood>3 until it loses Frozen. (Creations with Frozen have no other abilities, traits, nor might, and have \"[Turn a card from your hand to dust and pay my cost]: Permanently remove Frozen from me.\")",
+      "abilityText": "Grant a chosen creation Frozen. Its cost becomes <blood>2 until it loses Frozen. (Creations with Frozen have no other abilities, traits, nor might, and have \"[Turn a card from your hand to dust and pay my cost]: Permanently remove Frozen from me.\")",
       "might": null,
       "vigor": null,
       "artist": null,
