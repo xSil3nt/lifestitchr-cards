@@ -3483,8 +3483,8 @@
         "Soul"
       ],
       "cost": {
-        "Heart": 2,
-        "Soul": 2,
+        "Heart": 1,
+        "Soul": 1,
         "Blood": 4
       },
       "subtypes": [
