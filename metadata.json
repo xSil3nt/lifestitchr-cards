@@ -3103,7 +3103,7 @@
         "Quick"
       ],
       "keywords": [],
-      "abilityText": "Until round end, whenever you lose health, look at that many cards from the top of your deck, and you may put any number of them on the top or bottom in any order. Then, if you've looked at five or more cards this way this round, draw two cards.",
+      "abilityText": "Plot this scheme.\nAt round start, turn this scheme to dust.\nWhen you lose life while this scheme is plotted, look at that many cards from the top of your deck and turn any number of them to dust, then if you lost 3 life or more this round, draw a card.",
       "might": null,
       "vigor": null,
       "artist": null,
@@ -3297,7 +3297,7 @@
         "Plot"
       ],
       "keywords": [],
-      "abilityText": "Plot this scheme. (In a grave or lane.)\nAt the start of combat, if this scheme is plotted, [turn it to dust], and choose two of your creations. Until round end, they're in a band, their might and vigor are equal to their total might and vigor divided by two, and they have \"Whenever I'm chosen by a scheme or ability, the other creation is also chosen by the same scheme or ability.\"",
+      "abilityText": "Add <blood>. Plot this scheme.\nAt the start of combat, if this scheme is plotted, [turn it to dust], and choose two of your creations. Until round end, they're in a band, their might and vigor are equal to their total might and vigor divided by two, and they have \"Whenever I'm chosen by a scheme or ability, the other creation is also chosen by a copy of that effect.\"",
       "might": null,
       "vigor": null,
       "artist": "eg",
@@ -3518,7 +3518,7 @@
       "abilityText": "Pristine:\nWhen you harvest me, add one organ from my cost and one organ of any type.\n\nSpend organs of different types to pay for my cost.\nWhen I enter, draw two cards, then bury a creation from your hand or turn a card from your hand to dust.\n[<blood>1]: Add one organ of any type. This is a quick ability. Use only once each round.",
       "might": 2,
       "vigor": 2,
-      "artist": null,
+      "artist": "eg :>",
       "path": "Multi/Elite Servant.png"
     },
     {
