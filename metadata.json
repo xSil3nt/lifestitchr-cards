@@ -2312,7 +2312,7 @@
       "keywords": [
         "Boundless"
       ],
-      "abilityText": "Boundless:\nAt the start of combat, create a token in each lane to my left and right that have my exact stats and name. Those tokens have Ephemeral.",
+      "abilityText": "Boundless:\nAt the start of combat, create a token in each lane to my left and right that have my exact stats and name. Those tokens have Ephemeral and can't block damage.",
       "might": 1,
       "vigor": 3,
       "artist": "Sachiel",
