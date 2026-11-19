@@ -459,7 +459,7 @@
         "Blood"
       ],
       "cost": {
-        "Blood": 6
+        "Blood": 7
       },
       "subtypes": [
         "Titan",
@@ -469,9 +469,9 @@
         "Colossal",
         "Sui Generis"
       ],
-      "abilityText": "Colossal; Sui Generis:\nWhen I enter, reveal your deck, turn all of your cards with the same name as me to dust, then shuffle.\n\nAs I enter, two chosen lifestitchers reveal the top five cards of their deck. Grant me all abilities and traits of three chosen cards revealed this way. Then each lifestitcher shuffles.",
+      "abilityText": "Colossal; Sui Generis:\nWhen I enter, reveal your deck, turn all of your cards with the same name as me to dust, then shuffle.\n\nAs I enter, two chosen lifestitchers reveal the top five cards of their deck. Grant me all abilities and traits of one chosen card from each lifestitcher revealed this way. Then each lifestitcher shuffles.",
       "might": 3,
-      "vigor": 4,
+      "vigor": 3,
       "artist": null,
       "path": "Blood/Goderek, Ersatz Titan.png"
     },
