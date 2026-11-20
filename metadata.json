@@ -568,7 +568,7 @@
         "Blood": 2
       },
       "subtypes": [
-        "Quick"
+        "Meticulous"
       ],
       "keywords": [],
       "abilityText": "Plot a card from your hand that costs 3 or less. It gains \"At round start, play this card without paying its cost.\"",
@@ -591,7 +591,7 @@
         "Blood": 2
       },
       "subtypes": [
-        "Meticulous"
+        "Quick"
       ],
       "keywords": [],
       "abilityText": "[Pay 1 life]:\nA chosen lane becomes a frontline lane or a support lane until round end. (The connected opposing lanes are also affected this way. Creations in support lanes can't attack normally in combat.)",
@@ -905,7 +905,7 @@
         "Quick"
       ],
       "keywords": [],
-      "abilityText": "One of your creations attacks another chosen creation for 2 damage plus your creation's might.",
+      "abilityText": "One of your creations attacks another chosen creation for 1 damage plus your creation's might.",
       "might": null,
       "vigor": null,
       "artist": "YL0W",
@@ -1233,7 +1233,7 @@
         "Quick"
       ],
       "keywords": [],
-      "abilityText": "You deal 3 damage to a chosen creation.",
+      "abilityText": "You deal 2 damage to a chosen creation.",
       "might": null,
       "vigor": null,
       "artist": "whenlifegivesticks",
@@ -1256,7 +1256,7 @@
         "Meticulous"
       ],
       "keywords": [],
-      "abilityText": "You deal 3 damage to each of up to 3 chosen creations. The opposing lifestitcher deals 3 damage to each of up to 3 creations of their choice.",
+      "abilityText": "You deal 3 damage to all creations.",
       "might": null,
       "vigor": null,
       "artist": null,
@@ -1303,7 +1303,8 @@
         "Brain": 2
       },
       "subtypes": [
-        "Meticulous Plot"
+        "Quick",
+        "Plot"
       ],
       "keywords": [],
       "abilityText": "Plot this scheme. (In a grave or lane.)\nAt the start of combat, if this scheme is plotted, [turn it to dust], and create a Barrier token with 0 might, 1 vigor, and Guardian on each open frontline lane.",
@@ -1406,8 +1407,8 @@
         "Neurotic Strength"
       ],
       "abilityText": "Neurotic Strength:\nI get +1 might for every 4 of your nontoken dusted cards.\n\n[Turn a card from your hand to dust]: Swap my might and vigor until round end. This is a quick ability. Use only once each round.",
-      "might": 1,
-      "vigor": 2,
+      "might": 2,
+      "vigor": 3,
       "artist": "eg",
       "path": "Brain/The Amygdala.png"
     },
@@ -1478,7 +1479,7 @@
         "Blood": 1
       },
       "subtypes": [
-        "Meticulous",
+        "Quick",
         "Plot"
       ],
       "keywords": [],
@@ -1530,7 +1531,7 @@
         "Blood": 1
       },
       "subtypes": [
-        "Meticulous"
+        "Quick"
       ],
       "keywords": [],
       "abilityText": "You deal 2 damage to one of your chosen creations. If it survives, draw three cards, then put a card from your hand on the bottom of your deck.",
@@ -1708,7 +1709,7 @@
         "Quick"
       ],
       "keywords": [],
-      "abilityText": "Until round end, give a chosen creation -2 might, then give a chosen creation +2 might.",
+      "abilityText": "Until round end, give a chosen creation -1 might, then give a chosen creation +2 might.",
       "might": null,
       "vigor": null,
       "artist": "YL0W+eg+uwais+zeek",
@@ -2134,7 +2135,7 @@
         "Quick"
       ],
       "keywords": [],
-      "abilityText": "One of your creations deals 2 damage to a chosen creation for each trait your creation has, plus an additional 1 damage for each trait among cards in your graves.",
+      "abilityText": "One of your creations deals 1 damage to a chosen creation for each trait among cards on your field in your graves.",
       "might": null,
       "vigor": null,
       "artist": "whenlifegivesticks",
@@ -2838,7 +2839,7 @@
         "Blood": 1
       },
       "subtypes": [
-        "Meticulous"
+        "Quick"
       ],
       "keywords": [],
       "abilityText": "Up to one chosen lane becomes a support lane for the rest of the game. Then, up to one chosen lane becomes a frontline lane for the rest of the game. (The connected opposing lanes are also affected this way. Creations in support lanes can't attack or be attacked in combat.)",
