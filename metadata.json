@@ -815,6 +815,30 @@
       "path": "Blood/Gloom Titan.png"
     },
     {
+      "name": "Augur of Envy",
+      "id": "CS01-222/300 EN",
+      "deck": "main",
+      "group": "Blood",
+      "type": "Creation",
+      "rarity": "Peculiar",
+      "resources": [
+        "Blood"
+      ],
+      "cost": {
+        "Blood": 4
+      },
+      "subtypes": [
+        "Cultist",
+        "Abomination"
+      ],
+      "keywords": [],
+      "abilityText": "As I enter, grant me all abilities, traits, might, and vigor of one of your dusted creations without Sui Generis.",
+      "might": 1,
+      "vigor": 1,
+      "artist": null,
+      "path": "Blood/Augur of Envy.png"
+    },
+    {
       "name": "Ambush",
       "id": "CS01-162/300 EN",
       "deck": "main",
@@ -1590,6 +1614,77 @@
       "vigor": null,
       "artist": null,
       "path": "Brain/Spiral of the Mind.png"
+    },
+    {
+      "name": "Order Archivist",
+      "id": "CS01-221/300 EN",
+      "deck": "main",
+      "group": "Brain",
+      "type": "Creation",
+      "rarity": "Common",
+      "resources": [
+        "Brain"
+      ],
+      "cost": {
+        "Brain": 2,
+        "Blood": 2
+      },
+      "subtypes": [
+        "Insectile",
+        "Stranger"
+      ],
+      "keywords": [],
+      "abilityText": "When I enter, return one of your dusted schemes to your hand.",
+      "might": 1,
+      "vigor": 2,
+      "artist": null,
+      "path": "Brain/Order Archivist.png"
+    },
+    {
+      "name": "Psychic Burst",
+      "id": "CS01-221/300 EN",
+      "deck": "main",
+      "group": "Brain",
+      "type": "Scheme",
+      "rarity": "Common",
+      "resources": [
+        "Brain"
+      ],
+      "cost": {
+        "Brain": 1
+      },
+      "subtypes": [
+        "Meticulous"
+      ],
+      "keywords": [],
+      "abilityText": "You deal 3 damage to a chosen creation.",
+      "might": null,
+      "vigor": null,
+      "artist": null,
+      "path": "Brain/Psychic Burst.png"
+    },
+    {
+      "name": "Scour the Archives",
+      "id": "CS01-221/300 EN",
+      "deck": "main",
+      "group": "Brain",
+      "type": "Scheme",
+      "rarity": "Peculiar",
+      "resources": [
+        "Brain"
+      ],
+      "cost": {
+        "Brain": 2
+      },
+      "subtypes": [
+        "Meticulous"
+      ],
+      "keywords": [],
+      "abilityText": "Draw a card for every 4 of your nontoken dusted cards, then put one card from your hand on the bottom of your deck.",
+      "might": null,
+      "vigor": null,
+      "artist": null,
+      "path": "Brain/Scour the Archives.png"
     },
     {
       "name": "Bearer of the Banner",
@@ -2492,6 +2587,53 @@
       "vigor": null,
       "artist": null,
       "path": "Eye/Take Centre Stage.png"
+    },
+    {
+      "name": "Cosmic Gaze",
+      "id": "CS01-222/300 EN",
+      "deck": "main",
+      "group": "Eye",
+      "type": "Scheme",
+      "rarity": "Peculiar",
+      "resources": [
+        "Eye"
+      ],
+      "cost": {
+        "Eye": 2
+      },
+      "subtypes": [
+        "Meticulous"
+      ],
+      "keywords": [],
+      "abilityText": "Choose two creations owned by different lifestitchers and turn them to dust. Each lifestitcher creates an Aberration token with the total might and vigor of the creations turned to dust this way. The Aberration tokens have all traits of the creations turned to dust this way.",
+      "might": null,
+      "vigor": null,
+      "artist": null,
+      "path": "Eye/Cosmic Gaze.png"
+    },
+    {
+      "name": "Mad Chronicler",
+      "id": "CS01-221/300 EN",
+      "deck": "main",
+      "group": "Eye",
+      "type": "Creation",
+      "rarity": "Common",
+      "resources": [
+        "Eye"
+      ],
+      "cost": {
+        "Eye": 2,
+        "Blood": 2
+      },
+      "subtypes": [
+        "Witness"
+      ],
+      "keywords": [],
+      "abilityText": "While you have 12 or more nontoken dusted cards, I get Double Vision. (The normal attack of a creation with Double Vision instead attacks each opposing lane to the left and right of it.)",
+      "might": 2,
+      "vigor": 4,
+      "artist": null,
+      "path": "Eye/Mad Chronicler.png"
     },
     {
       "name": "Old Thornback",
@@ -3557,6 +3699,33 @@
       "path": "Multi/Glaciate.png"
     },
     {
+      "name": "Herald of Frost",
+      "id": "CS01-221/300 EN",
+      "deck": "main",
+      "group": "Multi",
+      "type": "Creation",
+      "rarity": "Common",
+      "resources": [
+        "Brain",
+        "Eye"
+      ],
+      "cost": {
+        "Brain": 1,
+        "Eye": 1,
+        "Blood": 1
+      },
+      "subtypes": [
+        "Insectile",
+        "Witness"
+      ],
+      "keywords": [],
+      "abilityText": "When I enter, grant a chosen creation Frozen. Its cost becomes <blood>2 until it loses Frozen. (Creations with Frozen have no other abilities, traits, nor might, and have \"[Turn a card from your hand to dust and pay my cost]: Permanently remove Frozen from me.\")",
+      "might": 1,
+      "vigor": 2,
+      "artist": null,
+      "path": "Multi/Herald of Frost.png"
+    },
+    {
       "name": "Enforcer of Eternity",
       "id": "CS01-222/300 EN",
       "deck": "main",
@@ -3635,6 +3804,32 @@
       "vigor": 5,
       "artist": null,
       "path": "Multi/Doomsday Herald.png"
+    },
+    {
+      "name": "Ice Age",
+      "id": "CS01-222/300 EN",
+      "deck": "main",
+      "group": "Multi",
+      "type": "Scheme",
+      "rarity": "Exceptional",
+      "resources": [
+        "Brain",
+        "Eye"
+      ],
+      "cost": {
+        "Brain": 1,
+        "Eye": 1,
+        "Blood": 1
+      },
+      "subtypes": [
+        "Meticulous"
+      ],
+      "keywords": [],
+      "abilityText": "Grant all creations Frozen. (Creations with Frozen have no other abilities, traits, nor might, and have \"[Turn a card from your hand to dust and pay my cost]: Permanently remove Frozen from me.\" Each instance of Frozen must be removed separately.)",
+      "might": null,
+      "vigor": null,
+      "artist": null,
+      "path": "Multi/Ice Age.png"
     },
     {
       "name": "Archseer Ethera",
