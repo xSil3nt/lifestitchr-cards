@@ -1186,7 +1186,7 @@
         "Quick"
       ],
       "keywords": [],
-      "abilityText": "One of your creations attacks itself for 2 damage, then attacks another creation for 4 damage. (A dead creation can't attack.)",
+      "abilityText": "One of your creations attacks itself for 2 damage, then attacks another chosen creation for 4 damage. (A dead creation can't attack.)",
       "might": null,
       "vigor": null,
       "artist": null,
@@ -3015,7 +3015,7 @@
         "Soaring",
         "Sui Generis"
       ],
-      "abilityText": "Soaring; Sui Generis:\nWhen we enter, reveal your deck, turn all of your cards with the same name as us to dust, then shuffle.\n\nWhen we enter, you may plot a scheme that costs 3 or less from your hand. It gains \"At the start of combat, play me without paying my cost.\"\nAll of your plotted cards trigger at the start of combat in addition to their normal conditions.",
+      "abilityText": "Soaring; Sui Generis:\nWhen we enter, reveal your deck, turn all of your cards with the same name as us to dust, then shuffle.\n\nWhen we enter, you may plot a card that costs 3 or less from your hand. It gains \"At the start of combat, play me without paying my cost.\"\nAll of your plotted cards trigger at the start of combat in addition to their normal conditions.",
       "might": 2,
       "vigor": 3,
       "artist": null,
