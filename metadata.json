@@ -689,10 +689,12 @@
       "subtypes": [
         "Automaton"
       ],
-      "keywords": [],
-      "abilityText": "When I attack, draw a card, then bury a creation from your hand or turn a card from your hand to dust.",
-      "might": 4,
-      "vigor": 3,
+      "keywords": [
+        "Sidewinder"
+      ],
+      "abilityText": "Sidewinder:\nWhen I attack normally, I attack either the opposing lane to my left or my right.\n\nWhen I attack, draw a card, then bury a creation from your hand or turn a card from your hand to dust.",
+      "might": 3,
+      "vigor": 4,
       "artist": null,
       "path": "Blood/Siege Engine.png"
     },
