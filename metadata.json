@@ -2035,8 +2035,8 @@
       ],
       "keywords": [],
       "abilityText": "When we enter, if our cost was paid, [plot one of your creations], then choose another creation. That creation's owner plots it. All creations plotted this way have \"At round start, play me without paying my cost.\" (You can only plot creations from the field this way.)",
-      "might": 1,
-      "vigor": 1,
+      "might": 2,
+      "vigor": 2,
       "artist": null,
       "path": "Soul/Vastgate Apparitions.png"
     },
