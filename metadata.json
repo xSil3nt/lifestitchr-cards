@@ -667,7 +667,7 @@
       "keywords": [
         "Colossal"
       ],
-      "abilityText": "Colossal:\nWhen another creation with Colossal enters your field, bury me. When you would take damage, I take that damage instead.\n\nWhen I enter, draw three cards.",
+      "abilityText": "Colossal:\nWhen another creation with Colossal enters your field, bury me. When you would take damage, I take that damage instead.\n\nWhen I enter, if my cost was paid, draw three cards.",
       "might": 2,
       "vigor": 4,
       "artist": null,
