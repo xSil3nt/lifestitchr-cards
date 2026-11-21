@@ -3882,7 +3882,7 @@
       ],
       "abilityText": "Pristine:\nWhen you harvest me, add one organ from my cost and one organ of any type.\n\nSpend organs of different types to pay for my cost.\nWhen I enter, draw two cards, then bury a creation from your hand or turn a card from your hand to dust.\n[<blood>1]: Add one organ of any type. This is a quick ability. Use only once each round.",
       "might": 2,
-      "vigor": 2,
+      "vigor": 1,
       "artist": "eg :>",
       "path": "Multi/Elite Servant.png"
     },
